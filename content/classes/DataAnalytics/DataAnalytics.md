@@ -23,7 +23,7 @@ Tuesdays at 3:00 PM - 4:50 PM
 Where: Alden 101
 
 ### Office Hours:
-By Appointment:  To be sure that I have enough time with each person during my office hours, I ask that you please schedule an appointment. If the offered times are not convenient for you, other arrangements can be made to meet (in-person and online).
+[Schedule an appointment](/about/):  To be sure that I have enough time with each person during my office hours, I ask that you please schedule an appointment. If the offered times are not convenient for you, other arrangements can be made to meet (in-person and online).
 
 
 
