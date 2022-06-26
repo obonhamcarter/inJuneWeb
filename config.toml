@@ -82,11 +82,20 @@ pygmentsCodeFences=true
   weight = -110
 
 [[menu.main]]
+  identifier = "forfun"
+  name = "ForFun"
+  title = "ForFun"
+  url = "/forfun/"
+  weight = -105
+
+
+[[menu.main]]
   identifier = "portfolio"
   name = "Portfolio"
   title = "Portfolio"
   url = "/portfolio/"
   weight = -100
+
 #
 # [[menu.main]]
 #   identifier = "blog"
