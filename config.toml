@@ -29,8 +29,8 @@ pygmentsCodeFences=true
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
-  gopher = "/images/gopher.png" # checkout https://gopherize.me/
-  h1 = 'oh no!!'
+  gopher = "/images/duck.png" # checkout https://gopherize.me/
+  h1 = 'Oh duck!!'
   p = "It seems that this page does not exist."
 
 [params.sections]
@@ -41,7 +41,7 @@ pygmentsCodeFences=true
 
 [params.sidebar]
   backgroundImage = '/images/stars.png' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  gradientOverlay = 'rgba(0,0,0,0),rgba(1,1,1,1)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/images/dunno.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = "/images/levelup.png"
