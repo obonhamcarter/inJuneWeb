@@ -42,7 +42,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '/images/stars.png' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/devAC.png" # - default "/images/edna-west.jpg"
+  logo = "/images/dunno.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = "/images/levelup.png"
   customCSS = ""
@@ -67,18 +67,26 @@ pygmentsCodeFences=true
 [menu]
 
 [[menu.main]]
+  identifier = "classes"
+  name = "My Classes"
+  title = "Classes section"
+  url = "/classes/"
+  weight = -120
+
+
+[[menu.main]]
   identifier = "about"
   name = "About"
   title = "About section"
   url = "/about/"
-  weight = -120
+  weight = -110
 
 [[menu.main]]
   identifier = "portfolio"
   name = "Portfolio"
   title = "Portfolio"
   url = "/portfolio/"
-  weight = -110
+  weight = -100
 #
 # [[menu.main]]
 #   identifier = "blog"
