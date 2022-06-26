@@ -28,7 +28,7 @@ Where: Alden 101
 
 
 ### Syllabus:
-Syllabus
+[Syllabus](/DataAnalytics/material/obc_syllabus_301f2021.pdf)
 
 Appointments:
 Schedule an appointment with me using the Google calendar
