@@ -14,7 +14,7 @@ pygmentsCodeFences=true
   sub = "Let's do something cool in Comp Sci!"
 
 [params.main]
-  latestPublishHeader = "The Goods"
+  latestPublishHeader = " "
 
 [taxonomies]
   design = "designs"
