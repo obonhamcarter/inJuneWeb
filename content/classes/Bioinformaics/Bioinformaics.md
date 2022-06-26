@@ -51,6 +51,6 @@ Alden Hall, 109 Lab
 ### classDocs/ Repository
 Use the ssh or http link (below) to get the classDocs repository containing all class materials.
 
-+ Web based access: todo
++ Web based access: TODO
 
 ### Gradebook Repository
