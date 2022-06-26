@@ -2,11 +2,14 @@
 title: CLASSES
 description: 'Classes Section'
 ---
-Here are the Classes
+What classes do I teach?
+
 + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
-+ [:bar_chart: AcademicDiscord](/classes/academicdiscord/academicdiscord/)
-+ [:bar_chart: Bioinformaics](/classes/Bioinformaics/Bioinformaics/)
-+ [:bar_chart: DataBases](/classes/DataBases/DataBases/)
-+ [:bar_chart: DiscreteStructures](/classes/DiscreteStructures/DiscreteStructures/)
-+ [:bar_chart: JuniorSeminar](/classes/JuniorSeminar/JuniorSeminar/)
-+ [:computer_disk: OperatingSystems](/classes/OperatingSystems/OperatingSystems/)
++ [:compass: AcademicDiscord](/classes/academicdiscord/academicdiscord/)
++ [:dna: Bioinformaics](/classes/bioinformaics/bioinformaics/)
++ [:thread: DataBases](/classes/databases/databases/)
++ [:man_biking: DiscreteStructures](/classes/discretestructures/discretestructures/)
++ [:battery: JuniorSeminar](/classes/juniorseminar/juniorseminar/)
++ [:computer_disk: OperatingSystems](/classes/operatingsystems/operatingsystems/)
+---
+Descriptions up ahead!
