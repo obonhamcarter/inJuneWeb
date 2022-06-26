@@ -2,7 +2,8 @@
 title: CLASSES
 description: 'Classes Section'
 ---
-What classes do I teach?
+### What classes do I teach?
+
 
 + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
 + [:compass: AcademicDiscord](/classes/academicdiscord/academicdiscord/)
@@ -12,4 +13,4 @@ What classes do I teach?
 + [:battery: JuniorSeminar](/classes/juniorseminar/juniorseminar/)
 + [:computer_disk: OperatingSystems](/classes/operatingsystems/operatingsystems/)
 ---
-Descriptions up ahead!
+### Descriptions up ahead!
