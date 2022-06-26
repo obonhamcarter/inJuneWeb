@@ -34,7 +34,7 @@ Where: Alden 101
 
 ### Planning your time
 + [Pdf: Planning your time](/images/dataanalytics/planningYourTime_cs312s2022.pdf)
-+ [Html: Planning your time](/images/dataanalytics/planningYourTime_cs312s2022_html.html)
++ [Html: Planning your time](/images/dataanalytics/planningYourTime_cs312s2022.html)
 
 
 
