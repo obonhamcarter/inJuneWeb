@@ -1,9 +1,9 @@
 ---
 title: ABOUT
-description: Hey, I'm Edna West
-images: ["/images/sample.jpg"]
+description: OBC, I am
+images: ["/images/flintAndMe2.jpg"]
 ---
 
 
+![Tout sur Moi](/images/flintAndMe2.jpg)
 This is my about page. :wave:
-:smile: Welcome from where ever you are from! :earth_africa:
