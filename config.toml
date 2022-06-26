@@ -1,6 +1,6 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "I, Oliver Bonham-Carter"
+title = "I, Oliver Bonham-Carter, In June"
 theme = "personal-web"
 copyright="© Oliver Bonham-Carter"
 googleAnalytics = ""
@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I am Oliver! :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "I, Oliver Bonham-Carter :wave:"
+  sub = "Let's do something cool in Comp Sci!"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
