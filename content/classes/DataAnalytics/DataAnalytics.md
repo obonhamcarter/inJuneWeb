@@ -26,12 +26,11 @@ Where: Alden 101
 [Schedule an appointment](/about/):  To be sure that I have enough time with each person during my office hours, I ask that you please schedule an appointment. If the offered times are not convenient for you, other arrangements can be made to meet (in-person and online).
 
 
-
 ### Syllabus:
-[Syllabus](/DataAnalytics/material/obc_syllabus_301f2021.pdf)
+[Syllabus](material/obc_syllabus_301f2021.pdf)
 
-Appointments:
-Schedule an appointment with me using the Google calendar
+[Planning your time](material/planningYourTime_cs312s2022_html.html)
+
 
 Planning your time:
 Planning your time.
