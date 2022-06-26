@@ -56,8 +56,7 @@ Where: Alden 101
 ### classDocs/ Repository
 Use the ssh or http link (below) to get the classDocs repository containing all class materials.
 
-+ Web based access:
-+ https://github.com/Allegheny-Computer-Science-301-F2021/classDocs.git
++ Web based access: https://github.com/Allegheny-Computer-Science-301-F2021/classDocs.git
 
 ### Gradebook Repository
 Your grades will be added to your personlized repository for your assignments. Please accept this "assignment" and then check this repository after your grades have been posted.

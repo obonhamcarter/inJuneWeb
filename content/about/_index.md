@@ -9,7 +9,9 @@ To be sure that I have enough time with each person during my office hours, I as
 [Schedule an office hours appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUgwUVdYS3FiT0VXfGRlZmF1bHR8NTUwMTVhMzEzZGZkZDQ1MTg0MzdhY2YzNmVkZDJkOWY)
 
 
-
+---
+### Who are my Technical Leaders for questions?
+[solution finders](https://www.cs.allegheny.edu/teaching/technicalleaders/)
 
 ![Tout sur Moi](/images/flintAndMe2.jpg)
 This is my about page. :wave:
