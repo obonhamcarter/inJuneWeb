@@ -3,7 +3,7 @@ title: BeagleTM
 description: A text mining tool for developing visual and interactive relationship networks from PubMed article information.
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2020
-work: [design, architecture]
+work: [Text mining, Visualizing intersecting ideas]
 techs: []
 designs: []
 thumbnail: sample-project/beagleTM_logo2.png
