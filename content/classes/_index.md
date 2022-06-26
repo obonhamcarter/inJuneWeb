@@ -1,5 +1,5 @@
 ---
-title: CLASSES
+title: Classes
 description: 'Classes Section'
 ---
 ### What classes do I teach?
