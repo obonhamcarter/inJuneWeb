@@ -1,5 +1,5 @@
 ---
-title: PORTFOLIO
+title: Portfolio
 description: 'Portfolio Section'
 ---
 
@@ -15,7 +15,22 @@ My ethical concern in my data is motivated by my awareness that meta data about 
 
 In my published work, my data contains only numerical values concerning the expressions of genes to indicate any correlations. This is done so that if a breach of patient data occurs somewhere, where-by something in the stolen data could be used to determine identity or some other distinguishing feature patients, then this meta data cannot be combined with my own data to make connections to identity. It is part of my responsibility to help protect the identities of my patients and to keep the data safe.
 
+My Gene Expression analysis tool can be found at GitHub
+
+[![GenExst](/images/genexst_logo.png)](https://github.com/developmentAC/genExSt)
+
+![Normalizing Factors](/images/genexst/genexst1.png)
+![Heatmap Creation](/images/genexst/genexst2.png)
+
+
++ View the [Poster](/images/genexst/geneExp_poster.pdf)
++ Read the [Paper](https://www.researchgate.net/publication/350905987_GenExSt_A_Tool_to_Identify_Correlation_of_Gene_Expression_After_Normalization_with_Housekeeping_Genes?_sg%5B0%5D=CBV90Y88sWRV8RGpxoC-C_IJ053qZlgmygsNBt48COg5zd0rW-HPVPqwmFQ-jG6UL3VhTnhWtUMWLmoibG9fGIAIsSW4MBA4FEKgMy70.GU5m7UphTzCKbODUA1XLjsoYwyc_qB-wNPLmdibStUNVpxAlAPOQcrdRsV8Q0aVwvvTNHUONvZHCmXIzNssSLA)
+
 ---
+### Videos
+[My Faculty Talk](https://www.youtube.com/watch?v=A8QsWP9NGUs)
+
+
 
 Otherwise, what else have I been up to? Have a look at my GitHub projects!
 + https://github.com/developmentAC

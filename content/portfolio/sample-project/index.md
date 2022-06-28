@@ -15,4 +15,4 @@ testimonial:
   text: This text mining tool was built from inspiration from me. How cool is that!? I approve this software.
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
++ Read the [Paper](https://www.researchgate.net/publication/339224324_BeagleTM_An_Adaptable_Text_Mining_Method_for_Relationship_Discovery_in_Literature?_sg%5B0%5D=CBV90Y88sWRV8RGpxoC-C_IJ053qZlgmygsNBt48COg5zd0rW-HPVPqwmFQ-jG6UL3VhTnhWtUMWLmoibG9fGIAIsSW4MBA4FEKgMy70.GU5m7UphTzCKbODUA1XLjsoYwyc_qB-wNPLmdibStUNVpxAlAPOQcrdRsV8Q0aVwvvTNHUONvZHCmXIzNssSLA)

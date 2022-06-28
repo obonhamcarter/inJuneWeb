@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Home
 description: Welcome home!
 images: ["/images/devAC.png"]
 ---
