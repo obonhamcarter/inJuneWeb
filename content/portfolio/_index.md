@@ -3,7 +3,7 @@ title: Portfolio
 description: 'Portfolio Section'
 ---
 
-### Directions
+### One Direction of My Research
 
 One of the directions of my research is in Bioinformatics, or the marriage of Biology, Mathematics, and Computer Science. In one of my research projects, I study of expression-levels of genes which are likely to be involved with the onset of diseases such as cancer. In this work, it is thought that there are some genes that initiate the disease but are further motivated by the aid of others. We count these extraneous genes to be "guilty by association" since they either contribute or invite the onset of the disease.
 
@@ -16,10 +16,6 @@ My ethical concern in my data is motivated by my awareness that meta data about 
 In my published work, my data contains only numerical values concerning the expressions of genes to indicate any correlations. This is done so that if a breach of patient data occurs somewhere, where-by something in the stolen data could be used to determine identity or some other distinguishing feature patients, then this meta data cannot be combined with my own data to make connections to identity. It is part of my responsibility to help protect the identities of my patients and to keep the data safe.
 
 ---
-### Videos
-[My Faculty Talk](https://www.youtube.com/watch?v=A8QsWP9NGUs)
-
----
-
+### Cool Projects
 Otherwise, what else have I been up to? Have a look at my GitHub projects!
 + https://github.com/developmentAC
