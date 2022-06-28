@@ -1,7 +1,7 @@
 ---
-title: genExSt
+title: GenExSt
 description: An analysis tool to detect correlations between GIS genes in Cancer.
-date: "2019-05-02T19:47:09+02:00"
+date: "2021-05-02T19:47:09+02:00"
 jobDate: 2021
 work: [Gene Expression Analysis, Gene Correlation, Cancer]
 techs: []
