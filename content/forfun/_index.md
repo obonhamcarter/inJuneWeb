@@ -6,9 +6,9 @@ draft: false
 ### Some of my favourite films.
 
 
-Horror Express. One of the most scary films I ever thought I would care about. [Read some background from wikipedia ](https://en.wikipedia.org/wiki/Horror_Express).
+_Horror Express_: One of the most scary films I ever thought I would care about. [Read some background from wikipedia ](https://en.wikipedia.org/wiki/Horror_Express).
 
 {{< youtube 4LCtzLEebBI >}}
 
-Odd ones out
+_TheOdd1sOut_: What Your Early Twenties Will Be Like
 {{< youtube 3hw_y9hI_js>}}
