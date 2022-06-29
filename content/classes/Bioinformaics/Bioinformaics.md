@@ -43,6 +43,7 @@ Alden Hall, 109 Lab
 + Exploring Bioinformatics: A Project-based Approach, second edition, by Caroline St. Clair and Jonathan E. Visick. ISBN paperback: 978-1-284-02344-2
 + Think Python, first edition, by Allen B. Downey.
 [Publisher Website](https://greenteapress.com/wp/)
+
 #### Other Useful Textbooks:
 + BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
 
@@ -54,3 +55,4 @@ Use the ssh or http link (below) to get the classDocs repository containing all 
 + Web based access: TODO
 
 ### Gradebook Repository
+TODO
