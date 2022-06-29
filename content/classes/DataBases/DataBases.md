@@ -37,6 +37,13 @@ Alden Hall, 101 Lab
 + [Html: Planning your time](/images/databasesystems/planningYourTime_cs312s2022.html)
 
 ### TextBook:
+TODO
+
 #### Other Useful Textbooks:
+TODO
+
 ### classDocs/ Repository
+TODO
+
 ### Gradebook Repository
+TODO
