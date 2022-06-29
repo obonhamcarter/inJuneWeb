@@ -1,0 +1,628 @@
+
+
+% !TEX TS-program = pdflatex
+% !TEX encoding = UTF-8 Unicode
+
+% This is a simple template for a LaTeX document using the "article" class.
+% See "book", "report", "letter" for other types of document.
+
+\documentclass[11pt]{article} % use larger type; default would be 10pt
+
+\usepackage[utf8]{inputenc} % set input encoding (not needed with XeLaTeX)
+\usepackage{url}
+\usepackage{color}
+%%% Examples of Article customizations
+% These packages are optional, depending whether you want the features they provide.
+% See the LaTeX Companion or other references for full information.
+
+%%% PAGE DIMENSIONS
+\usepackage{geometry} % to change the page dimensions
+\geometry{a4paper} % or letterpaper (US) or a5paper or....
+% \geometry{margin=2in} % for example, change the margins to 2 inches all round
+% \geometry{landscape} % set up the page for landscape
+%   read geometry.pdf for detailed page layout information
+
+\usepackage{graphicx} % support the \includegraphics command and options
+
+% \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+%%% PACKAGES
+\usepackage{booktabs} % for much better looking tables
+\usepackage{array} % for better arrays (eg matrices) in maths
+\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+% These packages are all incorporated in the memoir class to one degree or another...
+\usepackage{url}
+
+%%% HEADERS & FOOTERS
+\usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+\long\def\omitit #1{}
+
+%%% SECTION TITLE APPEARANCE
+\usepackage{sectsty}
+\allsectionsfont{\sffamily\mdseries\upshape} % (See the fntguide.pdf for font help)
+% (This matches ConTeXt defaults)
+
+%%% ToC (table of contents) APPEARANCE
+\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
+\usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
+\renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+
+%%% END Article customizations
+
+%%% The "real" document content comes below...
+
+
+\title{\textbf{CMPSC 300\\ Bioinformatics\\ Syllabus}}
+\author{Spring 2021}
+\date{} % Activate to display a given date or no date (if empty),
+         % otherwise the current date is printed 
+
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+\begin{document}
+\maketitle
+
+\subsection*{\textbf{Course Instructor}}
+Dr. Oliver BONHAM-CARTER\\
+%\noindent Classroom: Alden Hall 101 \\
+\noindent Office Location: Alden Hall 104 \\
+\noindent Office Phone: +1 814-332-2880 \\
+\noindent Email: \url{obonhamcarter@allegheny.edu} \\
+\noindent Web Site: \url{http://www.cs.allegheny.edu/sites/obonhamcarter/} \\
+\noindent Exam Code: J\\
+\noindent Final deliverable due: 20$^{th}$ May 2021, 9:00am\\
+\noindent Distribution Requirements: \emph{QR} and \emph{SP}\\
+\noindent Syllabus updated on: March 17, 2021 %\today\\
+
+%\noindent Slack Team: \url{cs580Spring2017.slack.com}
+
+\subsection*{\textbf{Instructor's Office Hours}}
+
+\begin{itemize}
+  \itemsep 0em
+  \item Wednesdays, Thursdays, Fridays: 2:00pm -- 4:00pm (15 minute time slots)
+  \item By appointment
+\end{itemize}
+
+\noindent
+To schedule a meeting with me during my office hours, please visit my Web site and click the ``Schedule'' link in the top right-hand corner. Now, you can view my calendar or by clicking ``schedule an appointment'' link browse my office hours and schedule an appointment by clicking the correct link to reserve an open time slot. 
+
+
+
+\subsection*{\textbf{Online Meetings}}
+\label{sec:meet}
+
+We will be using Zoom to record our in-class meetings and labs for online students to participate in the course. The Zoom link for classes and the lab can be found on your shared course calendar for the event -- the calendar link will be given by a separate communication.
+
+
+\subsection*{\textbf{Technical Leaders}}
+	\begin{itemize}
+		\item   \url{https://www.cs.allegheny.edu/teaching/technicalleaders/}
+	\end{itemize}
+
+
+
+\subsection*{\textbf{Course Meeting Schedule}}
+
+
+\textbf{Lecture, Discussion, Presentations, and Group Work}:\\
+\noindent
+Duration: 23 Feb 2021 - 20 May 2021\\
+Monday, Wednesdays and Fridays, 10:40 AM - 11:40 AM, Alden Hall, 109\\
+
+
+\noindent
+\textbf{Laboratory Session}:\\
+Duration: 23 Feb 2021 - 20 May 2021\\
+Monday, 2:50 PM - 4:40 PM, Alden Hall, 109\\
+
+%%%%
+\omitit{
+\subsection*{\textbf{Schedule}}
+The course schedule will be made available on the course website (\url{http://www.cs.allegheny.edu/sites/obonhamcarter/}).
+} % end of omitit{}
+
+
+\subsection*{\textbf{Calendar}}
+The calendar link is provided below to allow you to add the course and lab meeting times into your own Google calendar. Note, the whole link fits onto one line.\\
+{\footnotesize
+\url{https://calendar.google.com/calendar/u/0?cid=Y182aWs5ZGpub3Y0NzNqcDZmZ2YxZjUxMG00NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t} }
+
+
+
+\subsection*{\textbf{Slack Channel}}
+The below link will expire on the 21$^{st}$ March.\\
+{\footnotesize
+\url{https://join.slack.com/t/cs300s2021/shared_invite/zt-mleieaad-i6G1To2GRVjMqoOJcak5qQ} }
+
+
+
+\subsection*{\textbf{Academic Bulletin Description}}
+
+\begin{quote}
+
+An introduction to the development and application of methods, from the computational and information sciences, for the investigation of biological phenomena. In this interdisciplinary course, students integrate computational techniques with biological knowledge to develop and use analytical tools for extracting, organizing, and interpreting information from genetic sequence data. Often participating in team-based and hands-on activities, students implement and apply useful bioinformatics algorithms. During a weekly laboratory session students employ cutting-edge software tools and programming environments to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+
+Prerequisite: BIO 221 and FSBIO 201, or CMPSC 100.
+
+Distribution Requirements: QR, SP.
+\end{quote}
+
+
+
+
+\subsection*{\textbf{Course Objectives}}
+
+Students successfully completing this class will have developed:
+\begin{enumerate}
+  \item A “big-picture” view of bioinformatics.
+  \item An understanding of the objectives and limitations of bioinformatics.
+  \item An understanding of the biological foundations of bioinformatics (genes and genomes, gene expression, etc.).
+  \item An understanding of the computational foundations of bioinformatics (programming, databases, etc.).
+  \item An understanding of how genetic information is obtained and processed.
+  \item The ability to use basic bioinformatics software tools to study genetic information.
+\end{enumerate}
+
+\noindent Throughout the semester students also will enhance their ability to write and present ideas about bioinformatics in a clear and compelling fashion. Students will gain practical experience in the design, implementation, and analysis of bioinformatics research during laboratory sessions and a final project. Finally, students will develop a richer understanding of the fascinating connections between biological systems, analysis and automation.
+
+
+\subsection*{\textbf{Required Textbooks}}
+\begin{itemize}
+
+\item \emph{Exploring Bioinformatics: A Project-based Approach, second edition}, by Caroline St. Clair and
+Jonathan E. Visick.
+
+\item \emph{Think Python, first edition}, by Allen B. Downey.
+	\begin{itemize}
+		\item Textbook: \url{http://greenteapress.com/thinkpython/thinkpython.pdf}
+		\item Publisher: \url{http://greenteapress.com/wp/think-python/}
+	\end{itemize}
+\end{itemize}
+
+
+
+\subsection*{\textbf{Suggested Reading}}
+
+The below reading list is strongly recommended to improve students build technical writing skills and to gain a firm understanding in how to conduct responsible research in computer science.
+
+
+\begin{itemize}
+
+\item {\em BUGS in Writing: A Guide to Debugging Your Prose}. Lyn Dupr\'e. Second Edition,  ISBN-10: 020137921X, ISBN-13: 978-0201379211, 704 pages, 1998.
+
+\item {\em Writing for Computer Science}.  Justin Zobel. Second Edition,  ISBN-10: 1852338024, ISBN-13:978-1852338022, 270 pages, 2004.
+
+\item  \emph{On Being a Scientist: A Guide to Responsible Conduct in Research (Third Edition)}. Committee on Science, Engineering, and Public Policy, National Academy of Sciences, National Academy of Engineering, and Institute of Medicine. ISBN: 0309119715, 82 pages, 2009. References to the textbook are abbreviated as ``OBAS''.
+
+\item Along with reading the required books, you will be asked to study many additional articles from a wide variety of conference proceedings, journals, and the popular press.
+\end{itemize}
+
+
+
+\subsection*{\textbf{The {\tt ClassDocs/} Repository}}
+All materials given out in class will be accessible using the {\tt classDocs/} repository. Note: The HTTP link works in absence of SSH keys.
+
+\textbf{Main site on GitHub}: 
+	\begin{itemize}
+		\item \footnotesize \url{https://github.com/Allegheny-Computer-Science-300-S2021/classDocs}
+	\end{itemize}
+
+\textbf{HTTP}: 
+	\begin{itemize}
+		\item {\tt \footnotesize git clone https://github.com/Allegheny-Computer-Science-300-S2021/classDocs.git}
+	\end{itemize}
+
+\textbf{SSH}: 
+	\begin{itemize}
+		\item {\tt \footnotesize git clone git@github.com:Allegheny-Computer-Science-300-S2021/classDocs.git}
+	\end{itemize}
+
+
+%\section*{\textbf{Class Policies}}
+
+
+%\vspace{-.1in}
+%\subsection*{\textbf{Class Attendance}}
+
+%It is important to attend all of the class and laboratory sessions. However, due to the hybrid and sometimes asynchronous mode of teaching, attendance is not expected. Instead, class exercises will be used to evaluate participation.
+
+\color{red}
+\subsection*{\textbf{Hybrid Class Sessions}} Due to the COVID-19 pandemic (and the size of our classroom), the class will be divided into two groups to allow ample space between members of the class. Each group will alternate weeks of in-person and on-line  teaching. For instance, Group 1 will be in-person for a week while Group 2 is on-line. If you would like to come to in-person classes each week, please let me know and I will see what arrangements I can make to accommodate your request. Please note, this accommodation will depend on number of people from each group who come to the in-person class during their week. It is mandatory for all students to attend only his or her scheduled class, as appropriate. \textbf{Switching groups without instructor permission will not be allowed due to regulations for classroom spacing.}
+
+
+If you will not be able to attend your session, then please email the course instructor at least one week in advance to describe your situation.  Students who miss more than five unexcused classes, laboratory sessions, or group project meetings will have their final grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
+\color{black}
+
+
+
+
+
+
+
+
+\subsection*{\textbf{Class Policies}}
+
+\subsubsection*{\textbf{Grading}}
+
+The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester. 
+\color{red}
+\begin{center}
+  \begin{tabular}{l|l}
+\hline
+    Class Participation & 10\% \\  %and Instructor Meetings 
+    Exams & 20\% \\
+%    Final Examination & 20\% \\
+    Laboratory  Assignments & 40\% \\
+    Final Project & 30\% \\
+\hline
+  \end{tabular}
+\end{center}
+\color{black}
+\noindent
+
+\noindent
+\subsection*{\textbf{Definitions of Grading Categories}}
+\vspace*{-.05in}
+
+
+\begin{itemize}
+
+  \item {\em Class Participation}: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.% and in the course's Slack channels. 
+
+  \item {\em Exams}: The exams will cover all of the material in their associated module(s). The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, all students will be expected to take these exams on the scheduled date and complete the exams in the stated period of time.
+  
+  \item {\em Laboratory Assignments}: These assignments invite students to explore the concepts, tools, and techniques associated with the field of bioinformatics.  All of the laboratory assignments require the use of the provided tools to study,  design, implement, and evaluate informatics systems that solve biology problems.  To ensure that students are ready to utilize and develop appropriate software in both other classes at Allegheny College and after graduation, the instructor will assign individuals to teams for some of the laboratory assignments.  Unless specified otherwise, each laboratory assignment will be due at the beginning of the next laboratory session.  Some of the  assignments in this course will expect students to give both a short presentation and a demonstration of the bioinformatics solution that they created.  
+
+  \item {\em Final Project}: This project will present you with an opportunity to design and implement a correct and carefully evaluated bioinformatics solution for a specific problem. Completion of the final project will require you to apply all of the knowledge and skills that you have acquired during the course of the semester to solve a bioinformatics problem. The details for the final project will be given approximately two months before the project due date (during finals week).
+
+  
+\end{itemize}
+
+
+
+
+\vspace{-.1in}
+\subsection*{\textbf{Assignment Completion}}
+
+All assignments will have a stated due date. To accommodate for unforeseen life events, each student will be given an option of dropping one activity grade at the end of the semester. The dropped grade cannot include the final proposal assignment. Otherwise, unless severe extenuating circumstances have been presented to the instructor, no assignments will be accepted after the deadline.
+
+%All assignments will have a stated due date.  Late assignments will be accepted for up to one week past the assigned due date with a 15\% penalty. All late work must be submitted at the beginning of the session that is scheduled one week after the due date. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline.
+
+
+%%%%
+\omitit{
+\vspace{-.10in}
+\subsection*{\textbf{Laboratory Attendance}}
+
+In order to acquire the proper skills in technical writing, critical reading, and the presentation and evaluation of technical material, it is essential for students to have hands-on experience in a laboratory. Therefore, it is mandatory for all students to attend the laboratory sessions. If you will not be able to attend a laboratory, then please see the one of the course instructor at least one week in advance in order to explain your situation. Students who miss more than two unexcused laboratories will have their final grade in the course reduced by one letter grade.  Students who miss more than four unexcused laboratories will automatically fail the course.
+}%%%%
+
+\vspace{-.10in}
+\subsection*{\textbf{Extensions}}
+Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a \emph{valid reason} for your extension. This request must come before the due date of the lab and not on the due date. Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules. 
+
+\vspace{-.10in}
+\subsection*{\textbf{A Note on extenuating circumstances}}
+
+If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus: 
+\begin{itemize}
+	\item The Maytum Learning Commons, Library/Academic Commons,\\ \url{http://sites.allegheny.edu/learningcommons/tutoring/},\\ 814-332-2898
+%You may request an individual tutor through Learning Commons by visiting,
+
+	\item Counseling \& Personal Development Center,\\ \url{https://sites.allegheny.edu/counseling/},\\ 814-332-2105
+	\item Winslow Health Center,\\ \url{https://sites.allegheny.edu/healthcenter/},\\ 814-332-4355
+\end{itemize}
+
+\subsection*{\textbf{Communication}}
+Various digital channels will be used in this course for communication, including email,
+Slack, and the GitHub issue tracker. It is strongly advised for the student to install the Slack app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
+
+Additionally, the course website will be used to store the syllabus, course schedule and information about the {\tt classDocs/} repository using the GitHub. Sakai will be used to report student’s numerical grades. Students are responsible for regularly checking all platforms to ensure that the important messages are not being missed.
+
+
+\vspace*{-.10in}
+\subsection*{\textbf{Special Needs and Disability Services}}
+
+The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities.  Among other things, this legislation requires all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disability Services at 332-2898. Disability Services is part of the Learning Commons and is located in Pelletier Library. Please do this as soon as possible to ensure that approved accommodations are implemented in a timely fashion.
+
+\vspace{-.10in}
+\subsection*{\textbf{Honor Code}}
+
+The Academic Honor Program that governs the entire academic program at Allegheny College is described in the Allegheny Course Catalogue.  The Honor Program applies to all work that is submitted for academic credit or to meet non-credit requirements for graduation at Allegheny College.  This includes all work assigned for this class (e.g., examinations, laboratory assignments, and the final project).  All students who have enrolled in the College will work under the Honor Program.  Each student who has matriculated at the College has acknowledged the following pledge:
+
+\vspace*{-.1in}
+\begin{quote}
+\emph{I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole.}
+\end{quote}
+\vspace*{-.15in}
+
+\noindent It is recognized that an important part of the learning process in any course, and particularly one in computer science, derives from thoughtful discussions with teachers and fellow students.  Such dialogue is encouraged. However, it is necessary to distinguish carefully between the student who discusses the principles underlying a problem with others and the student who produces assignments that are identical to, or merely variations on, someone else's work.  While it is acceptable for students in this class to discuss their programs, technical diagrams, proposals, paper reviews, presentations, and other items with their classmates or other individuals, deliverables that are nearly identical to the work of others will be taken as evidence of violating the \mbox{Honor Code}.
+
+\omitit{
+%\vspace{-.10in}
+\subsection*{\textbf{Course Schedule}}
+
+\subsection*{\textbf{Overview}}
+
+This class is divided into four modules: a two-week introduction to research in \mbox{computer science and} three four-week modules focusing on the introduction of both distinct areas of \mbox{computer science and} the practical and conceptual skills needed to conduct research in the field.  This schedule is preliminary and, if the need to do so presents itself, it is possible for it to change during the semester.
+}
+
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[scale=.9]{graphics/cvirus.jpg}
+\end{center}
+\caption{Safety first: Face masks and social distancing in effect.}
+\label{fig:cvirus}
+\end{figure}
+
+The pandemic from the coronavirus (shown in Figure \ref{fig:cvirus}) has changed the usual style of teaching of this course. Please follow the below points carefully. 
+\begin{itemize}
+
+\item \textbf{Remote Attendance}:
+If you are participating entirely remotely this semester and relying on technology to attend class meetings, occasional technology problems that disrupt your participation will not harm your participation grade, but as with illnesses and family emergencies, chronic absences for this reason will require a more extensive discussion with me and may impact your grade.
+
+\item \textbf{Face Coverings and Physical Distancing}:
+For your safety, a mask covering both your mouth and your nose is required for all in-person activities, per College policy; you will not be permitted to enter or stay in a classroom or other learning space without a face covering, and class time missed for this reason may count against your participation grade. Face coverings are also required for in-person office hours and consultations with other campus professionals. Physical distancing must be respected at all times in the classroom. Chairs will be positioned 6 feet apart, and should remain so.
+
+
+\item \textbf{Illness and In-person Attendance}:
+If you feel ill, please stay in your residence and complete the daily health screening, and err on the side of caution when deciding whether or not to come to class. Especially if you feel feverish or have a cough, please avoid contact with others; if you feel like you'd like to ``power through" class rather than miss it and have to make it up, please do so remotely. 
+
+\item \textbf{Keeping Devices Charged}:
+You will need to ensure that your laptop, tablet, or other device is sufficiently charged so that you may participate in class(es). Even if you are in-person in the classroom, you may need to use a device, especially as you will be 6 feet from your nearest peer. It won’t be possible for all students to charge their devices at once in the classroom, so please make sure you bring the power cord(s) for your devices to class, pack a power strip if you have multiple devices, and pay attention to the power meter on your device. 
+
+\item \textbf{Video and Microphones}:
+%In addition, faculty may want to consider a statement on \emph{netiquette} (use of microphone, video, protocols for how to participate in video conference meetings).
+Please turn off your microphone when not speaking during any meeting where you are using your computer. The microphone may allow for background sound to contribute to noise during the meeting. It is strongly encouraged that you use your video to show yourself during meeting. Enabling your video will allow the instructor to see hands to indicate questions. Showing video also helps to stimulate group discussions.
+\end{itemize}
+
+
+
+
+\subsection*{\textbf{Welcome to Computer Science Research!}}
+
+Computer hardware and software are everywhere! Conducting research in computer science is a challenging and rewarding activity that leads to the production of hardware, software, and scientific insights that have the potential to positively influence the lives of many people.  As you learn more about research methods in computer science you will also enhance your ability to effectively write and speak about a wide range of topics in computer science. I ask that you bring your best effort and highest enthusiasm as you pursue research in computer science this semester. 
+
+
+
+
+\end{document}
+
+
+%%%% Junk bin %%%%
+%%%% Junk bin %%%%
+%%%% Junk bin %%%%
+%%%% Junk bin %%%%
+%%%% Junk bin %%%%
+
+
+\subsubsection*{\textbf{Assignment Submission}}
+%\color{red}\textbf{Since solutions guides will be handed out at the beginning of class on due dates, 
+
+All assignments will have a stated due date. \color{red} The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late. \color{black}  Assignments will be accepted for up to one week past the assigned due date with a 15\% penalty. All late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. The honor code (see below) is assumed for all submitted work.
+
+  
+\subsubsection*{\textbf{Extensions}}
+Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a \emph{valid reason} for your extension. \textbf{This request must come \emph{before} the due date of the lab and not on the due date.}
+
+Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
+
+% All assignments will have a stated due date. The printed version of the assignment is to be turned in at the beginning
+% of the class on that due date; the printed materials must be dated and signed with the Honor Code pledge of all the
+% student(s) in a group.  When the printed version is submitted, the electronic version of the assignment also must be
+% made available to the course instructor in a version control repository. Late assignments will be accepted for up to
+% one week past the assigned due date with a 15\% penalty. All late assignments must be submitted at the beginning of
+% the session that is scheduled one week after the due date. Unless special arrangements are made with the course
+% instructor, no assignments will be accepted after the late deadline. In addition to submitting the required
+% deliverables for any assignment completed in a group, students must turn in a one-page document that describes each
+% group member's contribution to the submitted deliverables.  
+
+\section*{\textbf{Attendance}}
+It is mandatory for all students to attend all classes and laboratory sessions. You will receive a grade deduction of one letter grade on the laboratory submission if you did not attend the scheduled laboratory session, unless prior arrangements have been made with the instructor. If you will not be able to attend a session, then please see the instructor at least one week in advance to describe your situation. Students who miss more than five unexcused sessions will have their final grade in the course reduced by one letter grade. Frequent or prolonged absences due to illness should be documented by the student's doctor, the Health Center, the Dean of Students’ Office, or the office of Student Disability Services. If you need to miss class due to a religious observance, please speak to the instructor in advance to make appropriate arrangements.
+
+\subsection*{\textbf{Use of Laboratory Facilities}}
+
+Throughout the semester, we will investigate many different software tools that bioinformaticians use during the design, implementation, and evaluation of solutions. 
+
+To ensure that your software development experience in this course closely mirrors real-world practice, you are invited to use your own laptop during class and laboratory sessions. The course instructor and the department's systems administrator have invested a considerable amount of time to develop a container-based approach to support the completion of all of the assignments and projects on any laptop that satisfies minimal requirements. The department has a few laptops that students are allowed to check out during normal business hours for a limited time use. Also, Alden 103, open daily for student work, features desktop machines with an Ubuntu operating systems, and Alden 101 has several desktop machines that are open for student use outside of class sessions.
+
+
+\section*{\textbf{Class Preparation}}
+
+ 
+% The study of the computer science discipline is very challenging.  Students in this class will be challenged to learn
+% the principles and practice of software development.  During the coming semester even the most diligent student will
+% experience times of frustration when they are attempting to understand a challenging concept or complete a difficult
+% laboratory assignment.  In many situations some of the material that we examine will initially be confusing : do not
+% despair!  Press on and persevere!
+% 
+ In order to minimize confusion and maximize learning, students must invest time to prepare for the class discussions, lectures, and laboratory sessions. During the class periods, the course instructor will often pose questions that could require group discussion, the use of an online software tool, the creation or modification of a program or data set, or a group presentation.  In order to help students remain organize and effectively prepare for classes, the course instructor will maintain a class schedule with reading assignments and presentation slides.  
+
+
+\subsection*{\textbf{A Note on extenuating circumstances}}
+%\begin{itemize}
+% \item 
+If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform the instructor immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact the campus Counseling Center (332-4368) in 304 Reis Hall, which is open from 8-5 but also has a 24 hour hotline.
+%\end{itemize}
+
+\subsection*{\textbf{Special Needs and Disabilities}}
+%\begin{itemize}
+% \item 
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disability Services at (814) 332-2898. Disability Services is part of the Learning Commons and is located in Pelletier Library. Please do this as soon as possible to ensure that approved accommodations are implemented in a timely fashion.
+%\end{itemize}
+
+
+%In order to minimize confusion and maximize learning, students must invest time to prepare for class discussions and lectures.  During the class periods, the course instructor will often pose demanding questions that could require group discussion, the creation of a program or test suite, a vote on a thought-provoking issue, or a group presentation.  Only students who have prepared for class by reading the assigned material and reviewing the current assignments will be able to effectively participate in these discussions.  More importantly, only prepared students will be able to acquire the knowledge and skills that are needed to be successful in both this course and the field of data management.  In order to help students remain organized and effectively prepare for classes, the course instructor will maintain a class schedule with reading assignments and presentation slides. During the class sessions students will also be required to download, use, and modify programs, diagrams, and data sets that are made available through the course Bitbucket repository.
+
+
+\subsection*{\textbf{Email}}
+
+Using your Allegheny College email address, the instructor will sometimes send out class announcements about matters such as assignment clarifications or changes in the schedule. It is your responsibility to check your email at least once a day and to ensure that you can reliably send and receive emails. This class policy is based on the following statement in {\em The Compass}, the college's student handbook.
+
+\vspace*{-.1in}
+\begin{quote}
+  ``The use of email is a primary method of communication on campus. \ldots  
+All students are provided with a campus email account and address while
+  enrolled at Allegheny and are expected to check the account on a regular
+  basis.'' 
+\end{quote}
+\vspace*{-.1in}
+
+\subsubsection*{\textbf{Disability Services}}
+
+The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities.  Among other things, this legislation requires all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disability Services at 332-2898.  Disability Services is part of the Learning Commons and is located in Pelletier Library. Please do this as soon as possible to ensure that approved accommodations are implemented in a timely fashion.
+
+\subsubsection*{\textbf{Honor Code}}
+
+The Academic Honor Program that governs the entire academic program at Allegheny College is described in the Allegheny Course Catalogue.  The Honor Program applies to all work that is submitted for academic credit or to meet non-credit requirements for graduation at Allegheny College.  This includes all work assigned for this class (e.g., examinations, laboratory assignments, and the final project).  All students who have enrolled in the College will work under the Honor Program. Each student who has matriculated at the College has acknowledged the following pledge:
+
+\vspace*{-.1in}
+\begin{quote}
+\emph{I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole.}
+\end{quote}
+\vspace*{-.1in}
+
+\noindent Additionally, we expect that you will adhere to the following Department Policy:
+
+\begin{center} \textbf{ Department of Computer Science Honor Code Policy } \end{center}
+\vspace*{-.1in}
+It is recognized that an important part of the learning process in any course, and particularly in computer science, derives from thoughtful discussions with teachers, student assistants, and fellow students. Such dialogue is encouraged. However, it is necessary to distinguish carefully between the student who discusses the principles underlying a problem with others, and the student who produces assignments that are identical to, or merely variations on, someone else's work. It will therefore be understood that all assignments submitted to faculty of the Department of Computer Science are to be the original work of the student submitting the assignment, and should be signed in accordance with the provisions of the Honor Code. Appropriate action will be taken when assignments give evidence that they were derived from the work of others.
+
+\begin{quote}
+Note: You are encouraged to periodically review the specifics of the Honor Code as stated in the College Catalogue, The Compass, and elsewhere.
+ \end{quote}
+
+\end{document}
+
+
+
+%%% junk bin %%%
+%%% junk bin %%%
+%%% junk bin %%%
+%%% junk bin %%%
+%%% junk bin %%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% !TEX encoding = UTF-8 Unicode
+
+% This is a simple template for a LaTeX document using the "article" class.
+% See "book", "report", "letter" for other types of document.
+
+\documentclass[11pt]{article} % use larger type; default would be 10pt
+
+\usepackage[utf8]{inputenc} % set input encoding (not needed with XeLaTeX)
+\usepackage{url}
+\usepackage{color}
+%%% Examples of Article customizations
+% These packages are optional, depending whether you want the features they provide.
+% See the LaTeX Companion or other references for full information.
+
+%%% PAGE DIMENSIONS
+\usepackage{geometry} % to change the page dimensions
+\geometry{a4paper} % or letterpaper (US) or a5paper or....
+% \geometry{margin=2in} % for example, change the margins to 2 inches all round
+% \geometry{landscape} % set up the page for landscape
+%   read geometry.pdf for detailed page layout information
+
+\usepackage{graphicx} % support the \includegraphics command and options
+
+% \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+%%% PACKAGES
+\usepackage{booktabs} % for much better looking tables
+\usepackage{array} % for better arrays (eg matrices) in maths
+\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+% These packages are all incorporated in the memoir class to one degree or another...
+\usepackage{url}
+
+%%% HEADERS & FOOTERS
+\usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+\long\def\omitit #1{}
+
+%%% SECTION TITLE APPEARANCE
+\usepackage{sectsty}
+\allsectionsfont{\sffamily\mdseries\upshape} % (See the fntguide.pdf for font help)
+% (This matches ConTeXt defaults)
+
+%%% ToC (table of contents) APPEARANCE
+\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
+\usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
+\renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+
+%%% END Article customizations
+
+%%% The "real" document content comes below...
+
+
+\title{\textbf{CMPSC 300 Introduction to Bioinformatics\\Syllabus}}
+\author{Spring 2021}
+\date{Syllabus updated: \today} % Activate to display a given date or no date (if empty),
+         % otherwise the current date is printed 
+         
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+\begin{document}
+\maketitle
+
+\subsection*{\textbf{Course Instructor}}
+Dr. Oliver BONHAM-CARTER\\
+\noindent Classroom and Lab: Alden Hall 101 \\
+\noindent Office Location: Alden Hall 104 \\
+%\noindent Office Phone: +1 814-332-2880 \\
+\noindent Email: \url{obonhamcarter@allegheny.edu} \\
+\noindent Web Site: \url{http://www.cs.allegheny.edu/sites/obonhamcarter/} \\
+\noindent Exam Code: D\\
+\noindent Project Due Date: 13$^{th}$ Dec 2019, 9:00 am
+%https://sites.allegheny.edu/registrar/spring-2019-final-exam-schedule/
+
+\subsection*{\textbf{Instructor's Office Hours}}
+
+\begin{itemize}
+	\itemsep 0em
+        \item Monday, Tuesday and Wednesday: 9:30 am - 10:30 am (10 minute time slots)
+        \item Tuesday: 2:30 pm to 3:30 pm (10 minute time slots)
+        \item Thursday: 2:30 pm to 4:30 pm (10 minute time slots)
+%	\item Monday and Wednesday: 9:30 am -- 10:30am (10 minute time slots)
+%	\item Tuesday and Thursday: 1:30pm -- 3:30pm (10 minute time slots)
+\end{itemize}
+
+\noindent
+To schedule a meeting with me during my office hours, please visit my Web site and click the ``Schedule'' link in the top right-hand corner. Now, you can view my calendar or by clicking ``schedule an appointment'' link browse my office hours and schedule an appointment by clicking the correct link to reserve an open time slot. 
+
+
+\subsection*{\textbf{Course Meeting Schedule}}
+
+\begin{itemize}
+    \item Lecture, Discussion, Presentations and Group Work:\\
+        \indent Tuesday, Thursday, 11:00 am -- 12:15 pm 
+    \item Laboratory Session:\\
+        \indent Monday, 2:30 pm -- 4:20 pm \\
+%Final Examination: Friday, December 12, 2014 at 9:00 am
+\end{itemize}
+
+
+
