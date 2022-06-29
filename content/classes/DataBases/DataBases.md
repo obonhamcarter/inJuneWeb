@@ -3,6 +3,7 @@ title: "DataBase Systems"
 date: 2022-06-26T13:25:33-04:00
 draft: false
 ---
+## CMPSC-312-00: Database Systems
 
 ### Academic Bulletin Description
 A study of the design and implementation issues in database management systems. Topics include data models, logical/physical database design, data access/search techniques, normalization theory, mappings from logical to physical structures, storage, and utilization. Additional topics include database reorganization, migration, database integrity, consistency, privacy and secu- rity, distributed database systems, architecture of knowledge-based systems, and intelligent query interfaces. One laboratory per week. Prerequisite: Computer Science 112. Offered in alternate years. Distribution Requirements: QR, SP.
