@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "I, Oliver Bonham-Carter :wave:"
-  sub = "Let's do something cool in Comp Sci!"
+  sub = "Assistant Professor in Computer Science"
 
 [params.main]
   latestPublishHeader = " "
