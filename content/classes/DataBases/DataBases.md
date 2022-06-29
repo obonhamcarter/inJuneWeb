@@ -37,10 +37,14 @@ Alden Hall, 101 Lab
 + [Html: Planning your time](/images/databasesystems/planningYourTime_cs312s2022.html)
 
 ### TextBook:
-TODO
++ Database System Concepts 7th Edition, March 2019 by Abraham Silberschatz (Author), Henry Korth (Author), S. Sudarshan (Author)
+ - ISBN-13: 978-1260084504
+ -s ISBN-10: 1260084507
 
 #### Other Useful Textbooks:
-TODO
++ BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
+
++ Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
 
 ### classDocs/ Repository
 TODO
