@@ -8,7 +8,7 @@ description: 'Classes Section'
 + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
 + [:compass: AcademicDiscord](/classes/academicdiscord/academicdiscord/)
 + [:dna: Bioinformatics](/classes/bioinformaics/bioinformaics/)
-+ [:thread: DataBases](/classes/databases/databases/)
++ [:thread: DataBase Systems](/classes/databases/databases/)
 + [:man_biking: DiscreteStructures](/classes/discretestructures/discretestructures/)
 + [:battery: JuniorSeminar](/classes/juniorseminar/juniorseminar/)
 + [:computer_disk: OperatingSystems](/classes/operatingsystems/operatingsystems/)
