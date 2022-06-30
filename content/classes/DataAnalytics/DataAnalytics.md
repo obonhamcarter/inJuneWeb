@@ -6,6 +6,9 @@ draft: false
 ## CMPSC-301-00: Data Analytics
 
 
+<img src="/images/dataanalytics/volcano.png" alt="drawing" width="100" height="400"/>
+
+
 ### Academic Bulletin Description
 An introduction to computational and analytical methods for finding patterns in large data sets. Using statistical procedures that they design and implement in programming environments, students extract knowledge from financial, political, scientific, and other data sources, exploring the issues of power and privilege that emerge from their discoveries. Students also learn to contrast their own perspectives with the ones identified by their analyses, reflecting on the ethical consequences of using the power that originates from computationally derived knowledge. During a weekly laboratory session students employ state-of-the-art statistical software to complete projects, reporting on their findings through both written documents and oral presentations.
 

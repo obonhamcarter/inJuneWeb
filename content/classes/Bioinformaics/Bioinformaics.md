@@ -4,6 +4,13 @@ date: 2022-06-26T13:25:33-04:00
 draft: false
 ---
 ## CMPSC-300-00: Bioinformatics
+
+
+
+
+<img src="/images/bioinformatics/reddna.png" alt="drawing" width="100" height="400"/>
+
+
 ### Academic Bulletin Description
 An introduction to the development and application of methods, from the computational and information sciences, for the investigation of biological phenomena. In this interdisciplinary course, students integrate computational techniques with biological knowledge to develop and use analytical tools for extracting, organizing, and interpreting information from genetic sequence data. Often participating in team-based and hands-on activities, students implement and apply useful bioinformatics algorithms. During a weekly laboratory session students employ cutting-edge software tools and programming environments to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: BIO 221 and FSBIO 201, or CMPSC
 
