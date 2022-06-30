@@ -14,4 +14,16 @@ To be sure that I have enough time with each person during my office hours, I as
 [solution finders](https://www.cs.allegheny.edu/teaching/technicalleaders/)
 
 ![Tout sur Moi](/images/flintAndMe2.jpg)
-This is my about page. :wave:
+
+
+### Address
+Allegheny College
+520 N. Main St.,
+Meadville, PA 16335
+USA
+
+### Mail
+obonhamcarter -{circled a}- allegheny -{period}- edu
+
+### Phone
++1 (814) 332-2907
