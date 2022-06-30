@@ -10,7 +10,7 @@ To be sure that I have enough time with each person during my office hours, I as
 
 
 ---
-### Who are my Technical Leaders for questions?
+### Who are our Technical Leaders?
 [solution finders](https://www.cs.allegheny.edu/teaching/technicalleaders/)
 
 ![Tout sur Moi](/images/flintAndMe2.jpg)

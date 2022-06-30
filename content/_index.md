@@ -6,6 +6,14 @@ images: ["/images/devAC.png"]
 
 Hey All,
 
+![YourSuccessMatters](/images/regalia.png)
+
+
+![Welcome](/images/me_dam.jpg)
+
+
+
+
 :smile: Welcome from where ever you are from! :earth_africa:
 
 
