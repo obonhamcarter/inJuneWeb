@@ -46,7 +46,7 @@ pygmentsCodeFences=true
 
 [params.assets]
   favicon = "/images/levelup.png"
-  customCSS = "/images/styles.css"
+  customCSS = ""
 
 [params.social]
   github = "https://github.com/developmentAC"
