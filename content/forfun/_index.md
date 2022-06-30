@@ -1,5 +1,5 @@
 ---
-title: "Forfun"
+title: "Just For Fun"
 date: 2022-06-26T15:39:25-04:00
 draft: false
 ---

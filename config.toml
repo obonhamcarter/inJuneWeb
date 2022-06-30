@@ -30,7 +30,7 @@ pygmentsCodeFences=true
 
 [params.notFound]
   gopher = "/images/duck.jpg" # checkout https://gopherize.me/
-  h1 = 'Duck!!'
+  h1 = 'Whoops!!'
   p = "It seems that this page does not exist."
 
 [params.sections]
@@ -83,9 +83,9 @@ pygmentsCodeFences=true
   weight = -110
 
 [[menu.main]]
-  identifier = "forfun"
-  name = "ForFun"
-  title = "ForFun"
+  identifier = "justforfun"
+  name = "Just For Fun"
+  title = "Just For Fun"
   url = "/forfun/"
   weight = -105
 
