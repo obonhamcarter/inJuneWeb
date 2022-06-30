@@ -30,7 +30,7 @@ pygmentsCodeFences=true
 
 [params.notFound]
   gopher = "/images/duck.jpg" # checkout https://gopherize.me/
-  h1 = 'Oh duck!!'
+  h1 = 'Duck!!'
   p = "It seems that this page does not exist."
 
 [params.sections]
@@ -43,9 +43,10 @@ pygmentsCodeFences=true
   backgroundImage = '/images/stars.png' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = 'rgba(0,0,0,0),rgba(1,1,1,1)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/images/dunno.jpg" # - default "/images/edna-west.jpg"
+
 [params.assets]
   favicon = "/images/levelup.png"
-  customCSS = ""
+  customCSS = "/images/styles.css"
 
 [params.social]
   github = "https://github.com/developmentAC"
