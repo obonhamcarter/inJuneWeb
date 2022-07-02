@@ -19,3 +19,5 @@ In my published work, my data contains only numerical values concerning the expr
 ### Cool Projects
 Otherwise, what else have I been up to? Have a look at my GitHub projects!
 + https://github.com/developmentAC
+
+---
