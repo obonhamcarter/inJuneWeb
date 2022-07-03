@@ -7,6 +7,8 @@ images: ["/images/flintAndMe2.jpg"]
 
 ### Education
 
+My overall interest in computer science is in Bioinformatics which is found at the intersection of Computer Science, Biology and Mathematics. 
+
 + __Creighton University__: Bachelors in Biology
 
 + __University of Nebraska at Omaha__: Masters in Mathematics
