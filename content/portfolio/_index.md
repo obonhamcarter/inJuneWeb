@@ -4,19 +4,6 @@ description: 'Portfolio Section'
 ---
 
 
-### Education
-
-+ __Creighton University__: Bachelors in Biology
-
-+ __University of Nebraska at Omaha__: Masters in Mathematics
-
- + Concentration: Information theory, Operations Theory and Combinatorics
-
-
-+ __University of Nebraska at Omaha__: Doctorate in Information Technology
-
- + Concentration: Bioinformatics
-
 ### An Avenue of Research
 
 One of the directions of my research is in Bioinformatics, or the marriage of Biology, Mathematics, and Computer Science. In one of my research projects, I study of expression-levels of genes which are likely to be involved with the onset of diseases such as cancer. In this work, it is thought that there are some genes that initiate the disease but are further motivated by the aid of others. We count these extraneous genes to be "guilty by association" since they either contribute or invite the onset of the disease.
