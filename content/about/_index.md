@@ -7,7 +7,7 @@ images: ["/images/flintAndMe2.jpg"]
 
 ### Education
 
-My overall interest in computer science is in Bioinformatics which is found at the intersection of Computer Science, Biology and Mathematics. 
+My overall interest in computer science is in Bioinformatics which is found at the intersection of Computer Science, Biology and Mathematics.
 
 + __Creighton University__: Bachelors in Biology
 
@@ -33,7 +33,7 @@ To be sure that I have enough time with each person during my office hours, I as
 
 ### Who are our Technical Leaders?
 
-[solution finders](https://www.cs.allegheny.edu/teaching/technicalleaders/)
+Take me to our [leaders!](https://www.cs.allegheny.edu/teaching/technicalleaders/)
 
 ![Tout sur Moi](/images/flintAndMe2.jpg)
 
