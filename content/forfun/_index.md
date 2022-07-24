@@ -8,13 +8,13 @@ draft: false
 _Sherlock Holmes: The House of Fear (1945)_
 Follow Sherlock and Dr. Watson on another thrilling adventure!
 [Read some background from wikipedia](https://en.wikipedia.org/wiki/The_House_of_Fear_1945)
-{{< youtube DN4UA3rT11M > }}
+{{< youtube DN4UA3rT11M >}}
 
 
 _Undertow (1949) Film noir_
 Undertow 1949 full movie. Scott Brady stars in this film noir crime drama as an ex gangster from Chicago who has gone straight but ends up framed for the hit on a powerful mob boss.
 [Read some background from wikipedia](https://en.wikipedia.org/wiki/Undertow_(1949_film))
-{{< youtube 5s-sSHplXRc > }}
+{{< youtube 5s-sSHplXRc >}}
 
 
 
