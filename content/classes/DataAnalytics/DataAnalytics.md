@@ -33,7 +33,7 @@ Where: Alden 101
 [Schedule an appointment](/about/)
 
 ### Syllabus:
-+ [Syllabus](/images/dataanalytics/obc_syllabus_301f2021.pdf)
++ [Syllabus](/images/dataanalytics/syllabus/syllabus_cs301.pdf)
 
 ### Planning your time
 + [Pdf: Planning your time](/images/dataanalytics/planningYourTime_cs312s2022.pdf)

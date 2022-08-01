@@ -34,7 +34,7 @@ Alden Hall, 101 Lab
 [Schedule an appointment](/about/)
 
 ### Syllabus:
-+ [Syllabus](/images/databasesystems/obc_syllabus_CS312s2022_NEXT.pdf)
++ [Syllabus](/images/databasesystems/syllabus/syllabus_cs312.pdf)
 
 ### Planning your time
 + [Pdf: Planning your time](/images/databasesystems/planningYourTime_cs312s2022.pdf)

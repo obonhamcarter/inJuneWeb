@@ -3,7 +3,7 @@ title: "Bioinformatics"
 date: 2022-06-26T13:25:33-04:00
 draft: false
 ---
-## CMPSC-300-00: Bioinformatics
+## CMPSC-300-00: Bioinformatics (4 Credits)
 
 
 
@@ -18,7 +18,7 @@ An introduction to the development and application of methods, from the computat
 In order to acquire the proper skills in technical writing, critical reading, and the presentation and evaluation of technical material, it is essential for students to have hands-on experience in a laboratory. Therefore, it is mandatory for all students to attend the laboratory sessions. If you will not be able to attend a laboratory, then please see the one of the course instructor at least one week in advance in order to explain your situation. Students who miss more than two unexcused laboratories will have their final grade in the course reduced by one letter grade. Students who miss more than four unexcused laboratories will automatically fail the course.
 
 ### Discord class server:
-TODO
+TBA
 
 ### Meeting Information:
 #### Classes:
@@ -39,7 +39,7 @@ Alden Hall, 109 Lab
 [Schedule an appointment](/about/)
 
 ### Syllabus:
-+ [Syllabus](/images/dataanalytics/obc_syllabus_301f2021.pdf)
++ [Syllabus](/images/bioinformatics/syllabus/syllabus_cs300.pdf)
 
 ### Planning your time
 + [Pdf: Planning your time](/images/bioinformatics/planningYourTime_cs300.pdf)
