@@ -3,7 +3,9 @@ languageCode = "en-us"
 title = "I, Oliver Bonham-Carter, In June"
 theme = "personal-web"
 copyright="© Oliver Bonham-Carter"
-googleAnalytics = "G-S1L5B7KHCL"
+#googleAnalytics = "G-S1L5B7KHCL"
+googleAnalytics = "G-10QTYVYMG5" #GA4
+
 enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
