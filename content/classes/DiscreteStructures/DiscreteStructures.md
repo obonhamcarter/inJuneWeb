@@ -30,7 +30,6 @@ Alden Hall, 101 Lecture
 
 #### Labs:
 
-
 T 2:30 PM - 4:20 PM
 8/30/2022 - 12/20/2022
 Alden Hall, 101 Lab
@@ -39,7 +38,6 @@ Alden Hall, 101 Lab
 ### Office Hours:
 [Schedule an appointment](/about/)
 
-### Syllabus:
 ### Syllabus:
 + [Syllabus](/images/discretestructures/syllabus/syllabus_cs102.pdf)
 
