@@ -8,7 +8,7 @@ draft: false
 
 
 
-<img src="/images/bioinformatics/reddna.png" alt="drawing" width="100" height="400"/>
+<img src="/images/bioinformatics/bioinfo2.png" alt="drawing" width="100" height="400"/>
 
 
 ### Academic Bulletin Description
