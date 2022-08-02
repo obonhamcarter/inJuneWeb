@@ -27,7 +27,7 @@ While born in America, I was raised in a traditional English family from London,
 + __Please share one fun fact/interest about yourself.__
 My favorite activities include exploring new hiking spots; solving Rubik’s cubes; writing small poetry pieces; and trying to decide between a marmite or a cucumber sandwich, or a wedge of Camembert on a slice of baguette.
 
-+ __Where, How, do I find out more about you?__
++ __Where and How could I find out more about you?__
 Make an appointment during my office-hours and I would be happy to help you with any questions that you may have. I will give priority to those questions which concern, either, the classes that I teach, or my research, its community and their current opinions. See you soon. :-)
 
 
