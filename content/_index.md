@@ -30,8 +30,8 @@ My favorite activities include exploring new hiking spots; solving Rubik’s cub
 + __Where, How, do I find out more about you?__
 Make an appointment during my office-hours and I would be happy to help you with any questions that you may have. I will give priority to those questions which concern, either, the classes that I teach, or my research, its community and their current opinions. See you soon. :-)
 
-<!--
-![YourSuccessMatters](/images/regalia.png) -->
+
+![YourSuccessMatters](/images/regalia.png)
 
 
 [Wanna see the About/ page?!](/about "Wanna See the About page?!")

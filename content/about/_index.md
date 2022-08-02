@@ -22,7 +22,7 @@ My overall interest in computer science is in Bioinformatics which is found at t
 
 ---
 
-### Office hours
+### Office Hours
 
 To be sure that I have enough time with each person during my office hours, I ask that you please schedule an appointment. If the offered times are not convenient for you, other arrangements can be made to meet (in-person and online).
 
@@ -31,9 +31,9 @@ To be sure that I have enough time with each person during my office hours, I as
 
 ---
 
-### Who are our Technical Leaders?
+### Our Technical Leaders?
 
-Take me to our [leaders!](https://www.cs.allegheny.edu/teaching/technicalleaders/)
+Who are our illustrious [Technical Leaders](https://www.cs.allegheny.edu/teaching/technicalleaders/)?! Find schedules expert TL's in your CS classes. 
 
 ![Tout sur Moi](/images/flintAndMe2.jpg)
 
@@ -54,3 +54,6 @@ obonhamcarter -{circled a}- allegheny -{period}- edu
 ### Phone
 
 +1 (814) 332-2907
+
+### CV
+Interested in learning more? See my [Curriculum Vitae](/images/profdev/cv/cv.pdf)!
