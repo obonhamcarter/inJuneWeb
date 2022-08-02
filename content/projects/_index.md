@@ -2,7 +2,7 @@
 title: Projects
 description: 'Projects Section'
 ---
-### So, what _**do**_ I teach here?
+### What have I been up to?
 
 + [My GitHub Page](https://github.com/obonhamcarter)
 
@@ -10,8 +10,9 @@ description: 'Projects Section'
 
 #### Read about some of my more interesting projects!
 
-+ [:thread: Sentiminer](https://github.com/developmentAC/sentiminer)
-+ [:Sentiminer](https://github.com/developmentAC/sentiminer)
++ [:battery: Sentiminer](/projects/sentiminer/sentiminer)
++ [:battery: GradeAlert](/projects/gradealert/gradealert)
+
 
 ---
 
