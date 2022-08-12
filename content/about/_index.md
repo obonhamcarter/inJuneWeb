@@ -35,8 +35,6 @@ To be sure that I have enough time with each person during my office hours, I as
 
 Who are our illustrious [Technical Leaders](https://www.cs.allegheny.edu/teaching/technicalleaders/)?! Find schedules expert TL's in your CS classes. 
 
-![Tout sur Moi](/images/flintAndMe2.jpg)
-
 
 ---
 
@@ -49,11 +47,18 @@ USA
 
 ### Mail
 
-obonhamcarter -{circled a}- allegheny -{period}- edu
+**obonhamcarter** _{circled a}_ **allegheny** _{period} **edu**
 
 ### Phone
 
 +1 (814) 332-2907
 
+*Note: Please use email to reach me.*
+
 ### CV
-Interested in learning more? See my [Curriculum Vitae](/images/profdev/cv/cv.pdf)!
+Interested in learning more about me? Please see my [Curriculum Vitae](/images/profdev/cv/cv.pdf)!
+
+
+
+![Tout sur Moi](/images/flintAndMe2.jpg)
+
