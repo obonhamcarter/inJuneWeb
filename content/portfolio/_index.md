@@ -24,4 +24,4 @@ Otherwise, what else have I been up to? Have a look at my GitHub projects!
 
 ---
 
-### Some main event projects 
+### Some main-event projects 
