@@ -21,6 +21,6 @@ It is necessary to update the pedagogy in CS to produce computer scientists who 
 
 Links
 
+{{< youtube A8QsWP9NGUs >}}
 ---
 
-+ Watch the [Talk](https://www.youtube.com/watch?v=A8QsWP9NGUs)

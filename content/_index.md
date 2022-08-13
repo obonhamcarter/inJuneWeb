@@ -6,12 +6,9 @@ images: ["/images/devAC.png"]
 Welcome to my site. I am an Assistant professor in Computer Science at Allegheny College and I look forward to getting to know you in class.
 
 ![Welcome](/images/me_dam_ii.png)
-
 Oliver Bonham-Carter, PhD
-Assistant professor of computer science:
-2016-present, Department of Computer Science,
-Allegheny College
 
+---
 
 ### Who I am?
 
@@ -30,8 +27,10 @@ My favorite activities include exploring new hiking spots; solving Rubik’s cub
 + __Where and How could I find out more about you?__
 Make an appointment during my office-hours and I would be happy to help you with any questions that you may have. I will give priority to those questions which concern, either, the classes that I teach, or my research, its community and their current opinions. See you soon. :-)
 
+---
 
 ![YourSuccessMatters](/images/regalia.png)
 
+[Wanna see the About/ page?!](/about)
 
-[Wanna see the About/ page?!](/about "Wanna See the About page?!")
+---
