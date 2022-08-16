@@ -36,8 +36,8 @@ Where: Alden 101
 + [Syllabus](/images/dataanalytics/syllabus/syllabus_cs301.pdf)
 
 ### Planning your time
-+ [Pdf: Planning your time](/images/dataanalytics/planningYourTime_cs312s2022.pdf)
-+ [Html: Planning your time](/images/dataanalytics/planningYourTime_cs312s2022.html)
++ [Pdf: Planning your time](/images/dataanalytics/schedule_cs301_fall2021.pdf)
++ [Html: Planning your time](/images/dataanalytics/schedule_cs301_fall2021.html)
 
 
 
