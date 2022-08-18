@@ -6,8 +6,12 @@ draft: false
 + [:computer_disk: Sherlock Holmes](/forfun/sherlockholmes/sherlockholmes)
 
 ---
+<center>
+<img src="/images/forfun/muybridge_race_horse_animated.gif" alt="Galloping Horse" style="width:300px;"/>
+</center>
 
-![Galloping Horse](/images/forfun/muybridge_race_horse_animated.gif)
+
+<!-- ![Galloping Horse](/images/forfun/muybridge_race_horse_animated.gif) -->
 
 ---
 
