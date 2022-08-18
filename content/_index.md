@@ -29,7 +29,19 @@ Make an appointment during my office-hours and I would be happy to help you with
 
 ---
 
-![YourSuccessMatters](/images/regalia.png)
+
+<center>
+<img src="/images/regalia.png" alt="YourSuccessMatters" style="width:400px;"/>
+</center>
+
+<!-- add a line drop -->
+<center>
+&#x200B;
+</center>
+
+<!-- ![YourSuccessMatters](/images/regalia.png) -->
+
+
 
 [Wanna see the About/ page?!](/about)
 
