@@ -5,10 +5,20 @@ images: ["/images/devAC.png"]
 ---
 Welcome to my site. I am an Assistant professor in Computer Science at Allegheny College and I look forward to getting to know you in class.
 
-![Welcome](/images/me_dam_ii.png)
-Oliver Bonham-Carter, PhD
+<!-- ![Welcome](/images/me_dam_ii.png)
+Oliver Bonham-Carter, PhD -->
 
----
+<center>
+<img src="images/me_dam_ii.png" alt="Oliver Bonham-Carter, PhD" style="width:700px;"/>
+</center>
+
+<!-- add a line drop -->
+<center>
+&#x200B;
+Oliver Bonham-Carter, PhD
+&#x200B;
+</center>
+
 
 ### Who I am?
 
