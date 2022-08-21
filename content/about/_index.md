@@ -1,7 +1,20 @@
 ---
-title: About and Contact
+title: Contact and About
 description: OBC, I am
 images: ["/images/flintAndMe2.jpg"]
+---
+
+
+### Office Hours
+
+To be sure that I have enough time with each person during my office hours, I ask that you please schedule an appointment. If the offered times are not convenient for you, other arrangements can be made to meet (in-person and online).
+
+<!-- [Schedule an office hours appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUgwUVdYS3FiT0VXfGRlZmF1bHR8NTUwMTVhMzEzZGZkZDQ1MTg0MzdhY2YzNmVkZDJkOWY) -->
+
+
+[Schedule an office hours appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUgwUVdYS3FiT0VXfGRlZmF1bHR8NTUwMTVhMzEzZGZkZDQ1MTg0MzdhY2YzNmVkZDJkOWY)
+
+
 ---
 
 
@@ -15,19 +28,9 @@ My overall interest in computer science is in Bioinformatics which is found at t
 
  + Concentration: Information theory, Operations Theory and Combinatorics
 
-
 + __University of Nebraska at Omaha__: Doctorate in Information Technology
 
  + Concentration: Bioinformatics
-
----
-
-### Office Hours
-
-To be sure that I have enough time with each person during my office hours, I ask that you please schedule an appointment. If the offered times are not convenient for you, other arrangements can be made to meet (in-person and online).
-
-[Schedule an office hours appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUgwUVdYS3FiT0VXfGRlZmF1bHR8NTUwMTVhMzEzZGZkZDQ1MTg0MzdhY2YzNmVkZDJkOWY)
-
 
 ---
 
@@ -45,7 +48,7 @@ Allegheny College
 Meadville, PA 16335
 USA
 
-### Mail
+### Email
 
 **obonhamcarter** _{circled a}_ **allegheny** _{period} **edu**
 
@@ -58,7 +61,14 @@ USA
 ### CV
 Interested in learning more about me? Please see my [Curriculum Vitae](/images/profdev/cv/cv.pdf)!
 
+---
 
+<center>
+<img src="/images/flintAndMe2.jpg" alt="Flint and me" style="width:200px;"/>
+</center>
 
-![Tout sur Moi](/images/flintAndMe2.jpg)
+<!-- add a line drop -->
+<center>
+&#x200B;
+</center>
 
