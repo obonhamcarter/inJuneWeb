@@ -35,6 +35,13 @@ M 2:30 PM - 4:20 PM
 8/30/2022 - 12/20/2022
 Alden Hall, 109 Lab
 
+### Calendar
+[Class calendar](https://calendar.google.com/calendar/u/0?cid=Y19jdHRuYjFkOXJhZjNhNGdlam90NXFzNGVpMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_cttnb1d9raf3a4gejot5qs4ei0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 ### Office Hours:
 [Schedule an appointment](/about/)
 
