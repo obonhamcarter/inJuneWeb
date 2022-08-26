@@ -5,7 +5,7 @@ images: ["/images/flintAndMe2.jpg"]
 ---
 
 
-### Office Hours
+#### Office Hours
 
 To be sure that I have enough time with each person during my office hours, I ask that you please schedule an appointment. If the offered times are not convenient for you, other arrangements can be made to meet (in-person and online).
 
@@ -18,7 +18,7 @@ To be sure that I have enough time with each person during my office hours, I as
 ---
 
 
-### Education
+#### Education
 
 My overall interest in computer science is in Bioinformatics which is found at the intersection of Computer Science, Biology and Mathematics.
 
@@ -34,31 +34,31 @@ My overall interest in computer science is in Bioinformatics which is found at t
 
 ---
 
-### Our Technical Leaders?
+#### Our Technical Leaders?
 
-Who are our illustrious [Technical Leaders](https://www.cs.allegheny.edu/teaching/technicalleaders/)?! Find schedules expert TL's in your CS classes. 
+Who are our illustrious [Technical Leaders](https://www.cs.allegheny.edu/teaching/technicalleaders/)?! Find schedules expert TL's in your CS classes.
 
 
 ---
 
-### Address
+#### Address
 
 Allegheny College
 520 N. Main St.,
 Meadville, PA 16335
 USA
 
-### Email
+#### Email
 
 **obonhamcarter** _{circled a}_ **allegheny** _{period} **edu**
 
-### Phone
+#### Phone
 
 +1 (814) 332-2907
 
 *Note: Please use email to reach me.*
 
-### CV
+#### CV
 Interested in learning more about me? Please see my [Curriculum Vitae](/images/profdev/cv/cv.pdf)!
 
 ---
@@ -71,4 +71,3 @@ Interested in learning more about me? Please see my [Curriculum Vitae](/images/p
 <center>
 &#x200B;
 </center>
-

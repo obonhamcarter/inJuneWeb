@@ -3,7 +3,7 @@ title: "Junior Seminar"
 date: 2022-06-26T13:25:33-04:00
 draft: false
 ---
-## CMPSC-580-00: Junior Seminar
+#### CMPSC-580-00: Junior Seminar
 
 <img src="/images/juniorseminar/cogs.png" alt="drawing" width="100" height="200"/>
 

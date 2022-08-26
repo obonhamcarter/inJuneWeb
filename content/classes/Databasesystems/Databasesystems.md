@@ -3,7 +3,7 @@ title: "DataBase Systems"
 date: 2022-06-26T13:25:33-04:00
 draft: false
 ---
-## CMPSC-312-00: Database Systems
+#### CMPSC-312-00: Database Systems
 
 <img src="/images/databasesystems/dbs.png" alt="drawing" width="100" height="400"/>
 

@@ -3,7 +3,7 @@ title: "Bioinformatics"
 date: 2022-06-26T13:25:33-04:00
 draft: false
 ---
-## CMPSC-300-00: Bioinformatics (4 Credits)
+#### CMPSC-300-00: Bioinformatics (4 Credits)
 
 
 

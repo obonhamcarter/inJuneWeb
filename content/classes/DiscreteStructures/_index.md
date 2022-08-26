@@ -3,8 +3,12 @@ title: "Discrete Structures"
 date: 2022-06-26T13:25:33-04:00
 draft: false
 ---
-## CMPSC-102 Discrete Structures (4 Credits)
+#### CMPSC-102 Discrete Structures (4 Credits)
 
+<!-- add a line drop -->
+<center>
+&#x200B;
+</center>
 
 <img src="/images/discretestructures/discrete2.png" alt="drawing" width="100" height="400"/>
 
@@ -15,6 +19,11 @@ An introduction to the foundations of computer science with an emphasis on under
 
 ### The Lab:
 In order to acquire the proper skills in technical writing, critical reading, and the presentation and evaluation of technical material, it is essential for students to have hands-on experience in a laboratory. Therefore, it is mandatory for all students to attend the laboratory sessions. If you will not be able to attend a laboratory, then please see the one of the course instructor at least one week in advance in order to explain your situation. Students who miss more than two unexcused laboratories will have their final grade in the course reduced by one letter grade. Students who miss more than four unexcused laboratories will automatically fail the course.
+
+
+### Surveys
++ [:computer_disk: Main __Surveys__ Page](/classes/discretestructures/surveys/)
+
 
 ### Discord class server:
 TBA
@@ -48,7 +57,24 @@ Alden Hall, 101 Lab
 + [Syllabus](/images/discretestructures/syllabus/syllabus_cs102.pdf)
 
 ### Planning your time
-### TextBook:
-#### Other Useful Textbooks:
+tba
+
+### TextBooks:
+
+Main
+ + Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math Featuring Python by Allan M. Stavely
+ + Doing Math with Python: Using Programming to Explore Algebra, Statistics, and More by Amit Saha
+
+Recommended
+ + Think Python 2e: How To Think Like a Computer Scientist by Allen B Downey. Open Source see publisher's [URL](https://greenteapress.com/wp/)
+ + Automate the boring stuff with Python: Practical Programming for total beginners
+by Al Sweigart. Available content, see publisher's [URL](https://pythonbooks.org/automate-the-boring-stuff-with-python-2nd-edition-practical-programming-for-total-beginners/)
+ + More good books from _PythonBooks_ at [URL](https://pythonbooks.org/free-books/)
+
 ### classDocs/ Repository
+[ClassDocs](https://github.com/CMPSC-102-Allegheny-College-Fall-2022/classDocs) at GitHub
+
 ### Gradebook Repository
+tba
+
+---

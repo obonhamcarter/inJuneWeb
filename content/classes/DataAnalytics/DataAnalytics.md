@@ -3,7 +3,7 @@ title: "Data Analytics"
 date: 2022-06-26T13:25:33-04:00
 draft: false
 ---
-## CMPSC-301-00: Data Analytics
+#### CMPSC-301-00: Data Analytics
 
 
 <img src="/images/dataanalytics/volcano.png" alt="drawing" width="100" height="400"/>

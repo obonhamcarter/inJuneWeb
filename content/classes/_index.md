@@ -4,28 +4,31 @@ description: 'Classes Section'
 ---
 ### So, what _**do**_ I teach here?
 
-<center>
-&#x200B;
-</center>
 
-+ [:dna: Bioinformatics](/classes/bioinformatics/bioinformatics/)
-+ [:man_biking: Discrete Structures](/classes/discretestructures/discretestructures/)
 <!-- add a line drop -->
-<center>
+<!-- <center>
 &#x200B;
-</center>
----
-<!-- add a line drop -->
-<center>
-&#x200B;
-</center>
+</center> -->
 
-+ [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
-+ [:compass: Academic Discord](/classes/academicdiscord/academicdiscord/)
-+ [:thread: Database Systems](/classes/databasesystems/databasesystems/)
-+ [:battery: Junior Seminar](/classes/juniorseminar/juniorseminar/)
-+ [:computer_disk: Operating Systems](/classes/operatingsystems/operatingsystems/)
+#### This semester
+ + [:dna: Bioinformatics](/classes/bioinformatics/bioinformatics/)
+<!-- need to go to index on discretestructures since there are "blog files" to host there... -->
+ + [:man_biking: Discrete Structures](/classes/discretestructures/)
 
 ---
 
-### Descriptions
+<!-- add a line drop -->
+<!-- <center>
+&#x200B;
+</center> -->
+
+#### Other semesters
+ + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
+ + [:compass: Academic Discord](/classes/academicdiscord/academicdiscord/)
+ + [:thread: Database Systems](/classes/databasesystems/databasesystems/)
+ + [:battery: Junior Seminar](/classes/juniorseminar/juniorseminar/)
+ + [:computer_disk: Operating Systems](/classes/operatingsystems/operatingsystems/)
+
+---
+
+<!-- ### Descriptions -->
