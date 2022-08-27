@@ -1,6 +1,3 @@
-[build.environment]
-  PYTHON_VERSION = "3.8"
-
  [build]
  publish = "public"
  command = "hugo --minify --gc"
@@ -8,6 +5,7 @@
  [build.environment]
  HUGO_VERSION = "0.87.0"
  HUGO_BASEURL = "/"
+ PYTHON_VERSION = "3.8"
 
  [[headers]]
  for = "/*" # This defines which paths this specific [[headers]] block will cover.
