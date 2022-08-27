@@ -61,6 +61,7 @@ pygmentsCodeFences=true
   # instagram = "https://www.instagram.com/"
   # gitlab = "https://gitlab.com/"
   # keybase = "https://keybase.io/"
+  # jupyterlite = "http://oliverbonhamcarter.com/live/"
 
 [params.contact]
   email = ""
