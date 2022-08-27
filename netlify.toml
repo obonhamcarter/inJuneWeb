@@ -2,7 +2,10 @@
  publish = "public"
  command = """
  hugo --minify --gc" &&&
- jupyter lite build --output-dir public/live
+ pip install --pre jupyterlite
+ jupyter lite init
+ jupyter lite build
+ jupyter lite serve --output-dir public/live
 """
 
  [build.environment]
