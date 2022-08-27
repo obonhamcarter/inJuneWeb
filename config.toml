@@ -61,7 +61,9 @@ pygmentsCodeFences=true
   # instagram = "https://www.instagram.com/"
   # gitlab = "https://gitlab.com/"
   # keybase = "https://keybase.io/"
-  # jupyterlite = "http://oliverbonhamcarter.com/live/"
+  tech = "http://oliverbonhamcarter.com/live/"
+  # note: the icons are kept in File: themes/personal-web/layouts/partials/svg.html
+
 
 [params.contact]
   email = ""
@@ -69,7 +71,6 @@ pygmentsCodeFences=true
 
 
 [menu]
-
 [[menu.main]]
   identifier = "classes"
   name = "My Classes"
