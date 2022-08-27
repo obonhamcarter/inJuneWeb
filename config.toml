@@ -57,7 +57,7 @@ pygmentsCodeFences=true
   # medium = "https://medium.com/"
   # codepen = "https://codepen.io/"
   # facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/channel/UCgna6cx9NHq634c0JFyK_1A"
+  # youtube = "https://www.youtube.com/channel/UCgna6cx9NHq634c0JFyK_1A"
   # instagram = "https://www.instagram.com/"
   # gitlab = "https://gitlab.com/"
   # keybase = "https://keybase.io/"
@@ -106,6 +106,16 @@ pygmentsCodeFences=true
    title = "Projejcts"
    url = "/projects/"
    weight = -90
+
+
+ [[menu.main]]
+   identifier = "Resources"
+   name = "Resources"
+   title = "Resources"
+   url = "/resources/"
+   weight = -80
+
+
 
 [sitemap]
   changefreq = "monthly"
