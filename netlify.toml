@@ -3,12 +3,7 @@
 
  [build]
  publish = "public"
- command = """
- hugo --minify --gc" &&
- pip install --pre jupyterlite &&
- jupyter lite init &&
- jupyter lite build 
-"""
+ command = "hugo --minify --gc"
 
  [build.environment]
  HUGO_VERSION = "0.87.0"
