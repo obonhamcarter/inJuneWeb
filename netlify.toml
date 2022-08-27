@@ -1,9 +1,9 @@
  [build]
  publish = "public"
  command = """
- hugo --minify --gc" &&&
- pip install --pre jupyterlite &&&
- jupyter lite init &&&
+ hugo --minify --gc" &&
+ pip install --pre jupyterlite &&
+ jupyter lite init &&
  jupyter lite build 
 """
 
