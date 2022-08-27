@@ -1,6 +1,9 @@
  [build]
  publish = "public"
- command = "hugo --minify --gc"
+ command = """
+ hugo --minify --gc &&
+ jupyter lite build --output-dir public/live
+ """
 
  [build.environment]
  HUGO_VERSION = "0.87.0"
