@@ -5,7 +5,6 @@
  pip install --pre jupyterlite
  jupyter lite init
  jupyter lite build
- jupyter lite serve --output-dir public/live
 """
 
  [build.environment]
