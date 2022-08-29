@@ -20,13 +20,12 @@ An introduction to the foundations of computer science with an emphasis on under
 ### The Lab:
 In order to acquire the proper skills in technical writing, critical reading, and the presentation and evaluation of technical material, it is essential for students to have hands-on experience in a laboratory. Therefore, it is mandatory for all students to attend the laboratory sessions. If you will not be able to attend a laboratory, then please see the one of the course instructor at least one week in advance in order to explain your situation. Students who miss more than two unexcused laboratories will have their final grade in the course reduced by one letter grade. Students who miss more than four unexcused laboratories will automatically fail the course.
 
-
 ### Surveys
 + [:computer_disk: Main __Surveys__ Page](/classes/discretestructures/surveys/)
 
+### Discord
 
-### Discord class server:
-TBA
+If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#discrete-structures`. If not, then you will need to join the department's [Discord server](https://discord.gg/7wueDqks) before you can be added to the course's channel.
 
 ### Meeting Information:
 #### Classes:
