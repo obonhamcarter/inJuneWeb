@@ -1,8 +1,8 @@
  [build]
- publish = "site"
+ publish = "public"
  command = """
  hugo --minify --gc &&
- jupyter lite build --output-dir site/live
+ jupyter lite build --output-dir public/live
  """
 
  [build.environment]
