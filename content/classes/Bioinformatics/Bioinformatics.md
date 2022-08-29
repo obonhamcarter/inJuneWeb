@@ -5,9 +5,6 @@ draft: false
 ---
 #### CMPSC-300-00: Bioinformatics (4 Credits)
 
-
-
-
 <img src="/images/bioinformatics/bioinfo2.png" alt="drawing" width="100" height="400"/>
 
 
