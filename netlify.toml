@@ -1,8 +1,8 @@
  [build]
- publish = "public"
+ publish = "site"
  command = """
  hugo --minify --gc &&
- jupyter lite build --output-dir public/live
+ jupyter lite build --output-dir site/live
  """
 
  [build.environment]
@@ -18,4 +18,3 @@
  X-XSS-Protection = "1; mode=block"
  Referrer-Policy = "same-origin"
  Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
-
