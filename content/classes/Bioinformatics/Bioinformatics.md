@@ -46,7 +46,7 @@ Alden Hall, 109 Lab
 [Schedule an appointment](/about/)
 
 ### Syllabus:
-+ [Syllabus](/images/bioinformatics/syllabus/syllabus_cs300.pdf)
++ [Syllabus]()
 
 ### Planning your time
 + [Pdf: Planning your time](/images/bioinformatics/planningYourTime_cs300.pdf)

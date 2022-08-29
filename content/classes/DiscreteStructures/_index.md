@@ -54,7 +54,7 @@ Alden Hall, 101 Lab
 [Schedule an appointment](/about/)
 
 ### Syllabus:
-+ [Syllabus](/images/discretestructures/syllabus/syllabus_cs102.pdf)
++ [Syllabus]()
 
 ### Planning your time
 tba
