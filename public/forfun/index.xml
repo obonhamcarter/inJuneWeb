@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Just For Fun on I, Oliver Bonham-Carter, In June</title>
+    <link>https://example.com/forfun/</link>
+    <description>Recent content in Just For Fun on I, Oliver Bonham-Carter, In June</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Oliver Bonham-Carter</copyright>
+    <lastBuildDate>Sun, 26 Jun 2022 15:39:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/forfun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sherlock Holmes</title>
+      <link>https://example.com/forfun/sherlockholmes/sherlockholmes/</link>
+      <pubDate>Thu, 18 Aug 2022 01:48:18 -0400</pubDate>
+      
+      <guid>https://example.com/forfun/sherlockholmes/sherlockholmes/</guid>
+      <description>Sherlock Holmes    &amp;#x200B;   _Read all the Sherlock Holmes stories online at the _ The complete Sherlock Holmes Canon, or just skip to the cool quotes from his adventures at Wikiquote   Films   Sherlock Holmes: The House of Fear (1945) Follow Sherlock and Dr. Watson on another thrilling adventure! Staring Basil Rathbone and Nigel Bruce Read some background from wikipedia     The Hound of the BaskerVilles: A great Sherlock Holmes mystery of cold hard murder.</description>
+    </item>
+    
+  </channel>
+</rss>

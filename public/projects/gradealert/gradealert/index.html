@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang='en'><head>
+  <title>Gradealert - I, Oliver Bonham-Carter, In June</title>
+  <link rel='canonical' href='https://example.com/projects/gradealert/gradealert/' />
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1' />
+  <meta name='description' content='' />
+  <meta name='theme-color' content='#0077b6' />
+  
+    <link rel="shortcut icon" href="/images/levelup.png" type="image/x-icon" />
+    <link rel="icon" href="/images/levelup.png" type="image/x-icon" />
+  
+
+  <meta name="generator" content="Hugo 0.68.3" />
+
+  
+
+
+
+
+
+<link rel="stylesheet" href="https://example.com/sass/style.min.2b2ded605b9bab9c355d6551df0997d50ac3d0eb1e885d3221bbaf66414f72cf.css" integrity="sha256-Ky3tYFubq5w1XWVR3wmX1QrD0OseiF0yIbuvZkFPcs8=" media="screen">
+<link rel="stylesheet" href="https://example.com/syntax.min.css" integrity="" media="screen">
+
+  <meta property="og:title" content="Gradealert" />
+<meta property="og:description" content="GitHub link: https://github.com/developmentAC/gradeAlert
+Table of contents  Overview Tool Usage At Terminal CSV Outputted files Placing Gradebook Files Pushing in Bulk File Structure Summary of Commands A Work In Progress  Overview GitHub Classroom is an excellent resource to handle work repositories for a course of many students. Each student, after &ldquo;accepting&rdquo; an assignment is issued a unique repository in which work can be completed and pushed to the instructor." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/projects/gradealert/gradealert/" />
+<meta property="article:published_time" content="2022-08-01T22:17:24-04:00" />
+<meta property="article:modified_time" content="2022-08-01T22:17:24-04:00" />
+
+  <meta itemprop="name" content="Gradealert">
+<meta itemprop="description" content="GitHub link: https://github.com/developmentAC/gradeAlert
+Table of contents  Overview Tool Usage At Terminal CSV Outputted files Placing Gradebook Files Pushing in Bulk File Structure Summary of Commands A Work In Progress  Overview GitHub Classroom is an excellent resource to handle work repositories for a course of many students. Each student, after &ldquo;accepting&rdquo; an assignment is issued a unique repository in which work can be completed and pushed to the instructor.">
+<meta itemprop="datePublished" content="2022-08-01T22:17:24-04:00" />
+<meta itemprop="dateModified" content="2022-08-01T22:17:24-04:00" />
+<meta itemprop="wordCount" content="1782">
+
+
+
+<meta itemprop="keywords" content="" />
+</head>
+<body>
+
+  <header style="background-image:linear-gradient(
+      rgba(0,0,0,0),rgba(1,1,1,1)
+    ),url(&#39;https://example.com/images/stars.png&#39;)">
+  <div class="intro">
+    <div class="logo-container">
+      <a href="/">
+        <img src='https://example.com/images/dunno.jpg' alt="Profile Academic Discord" class="rounded-logo">
+      </a>
+    </div>
+    <h2>I, Oliver Bonham-Carter 👋</h2>
+    <h3>Assistant Professor in Computer Science, Allegheny College</h3>
+    <div class="menu">
+      
+
+        <p>
+            <a href="/classes/">
+                My Classes
+            </a>
+        </p>
+
+        <p>
+            <a href="/about/">
+                Contact and About
+            </a>
+        </p>
+
+        <p>
+            <a href="/forfun/">
+                Just For Fun
+            </a>
+        </p>
+
+        <p>
+            <a href="/portfolio/">
+                Portfolio
+            </a>
+        </p>
+
+        <p>
+            <a href="/projects/">
+                Projects
+            </a>
+        </p>
+
+      
+    </div>
+  </div>
+
+  <div class="socials">
+      
+  
+    <a href="https://github.com/developmentAC" class="social-link" target="_blank" rel="noopener" ><div class="icon">
+  <svg width="35px" height="35px" viewBox="0 0 115 115" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
+  
+  <path d="M102.679 0H12.32C5.52 0 0 5.519 0 12.321v90.358C0 109.48 5.519 115 12.321 115h90.358c6.802 0 12.321-5.519 12.321-12.321V12.32C115 5.52 109.481 0 102.679 0zM71.182 98.494c-2.156.385-2.952-.95-2.952-2.053 0-1.386.051-8.471.051-14.195 0-4.005-1.335-6.546-2.9-7.881C74.878 73.313 84.89 72.003 84.89 55.6c0-4.671-1.669-7.007-4.39-10.01.436-1.105 1.9-5.648-.436-11.552-3.568-1.104-11.731 4.595-11.731 4.595-3.389-.95-7.06-1.438-10.679-1.438-3.62 0-7.29.488-10.679 1.438 0 0-8.163-5.699-11.73-4.595-2.337 5.878-.899 10.422-.437 11.551-2.72 3.004-4.004 5.34-4.004 10.011 0 16.326 9.574 17.712 19.072 18.765-1.232 1.104-2.336 3.003-2.72 5.724-2.44 1.104-8.677 3.004-12.4-3.568-2.335-4.056-6.545-4.39-6.545-4.39-4.159-.05-.282 2.619-.282 2.619 2.772 1.283 4.723 6.212 4.723 6.212 2.49 7.624 14.4 5.057 14.4 5.057 0 3.568.052 9.37.052 10.422 0 1.104-.77 2.438-2.952 2.053C27.21 92.821 15.35 76.701 15.35 57.86c0-23.564 18.02-41.456 41.585-41.456s42.663 17.892 42.663 41.456c.026 18.842-11.474 34.988-28.416 40.635zM46 82.81c-.488.103-.95-.102-1.001-.436-.051-.385.282-.719.77-.822.488-.05.95.154 1.001.488.077.334-.257.668-.77.77zm-2.439-.23c0 .333-.385.615-.898.615-.565.052-.95-.23-.95-.616 0-.333.385-.616.899-.616.487-.051.95.231.95.616zm-3.516-.283c-.103.334-.616.488-1.053.334-.488-.103-.821-.488-.719-.822.103-.334.617-.488 1.053-.385.513.154.847.54.719.873zm-3.158-1.386c-.23.282-.718.23-1.104-.154-.385-.334-.487-.822-.23-1.053.23-.282.718-.23 1.103.154.334.334.462.847.231 1.053zm-2.336-2.336c-.23.154-.667 0-.95-.385-.282-.385-.282-.822 0-1.001.283-.231.72-.052.95.333.283.385.283.847 0 1.053zm-1.668-2.49c-.231.23-.616.103-.899-.154-.282-.334-.333-.719-.102-.899.23-.23.616-.102.898.154.282.334.334.72.103.899zm-1.72-1.9c-.103.231-.436.283-.719.103-.334-.154-.488-.436-.385-.667.103-.154.385-.231.719-.103.334.18.488.462.385.667z"/>
+  
+  </svg>
+</div>
+</a>
+  
+
+  
+    <a href="https://www.youtube.com/channel/UCgna6cx9NHq634c0JFyK_1A" class="social-link" target="_blank" rel="noopener" ><div class="icon">
+  <svg width="35px" height="35px" viewBox="0 0 115 115" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
+  
+  <path d="M47.95 43.664l24.438 13.887L47.951 71.44V43.664zM115 12.321v90.358c0 6.802-5.519 12.321-12.321 12.321H12.32C5.52 115 0 109.481 0 102.679V12.32C0 5.52 5.519 0 12.321 0h90.358C109.48 0 115 5.519 115 12.321zm-10.781 45.256s0-15.3-1.951-22.64c-1.078-4.056-4.236-7.24-8.266-8.318-7.264-1.976-36.502-1.976-36.502-1.976s-29.238 0-36.502 1.976c-4.03 1.079-7.188 4.262-8.266 8.317-1.95 7.316-1.95 22.641-1.95 22.641s0 15.3 1.95 22.64c1.078 4.056 4.236 7.111 8.266 8.19 7.264 1.95 36.502 1.95 36.502 1.95s29.238 0 36.502-1.976c4.03-1.079 7.188-4.133 8.266-8.189 1.95-7.316 1.95-22.615 1.95-22.615z" />
+  
+  </svg>
+</div>
+</a>
+  
+
+  </div>
+</header>
+
+<div class="mobile-header">
+  <p> I, Oliver Bonham-Carter, In June </p>
+  <div class="hamburger">
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+  </div>
+</div>
+
+<div class="overlay-menu">
+  <header>
+    <div class="intro">
+      <div class="logo-container">
+        <a href="/">
+          <img src='https://example.com/images/dunno.jpg' alt="Profile Academic Discord" class="rounded-logo">
+        </a>
+      </div>
+      <h2>I, Oliver Bonham-Carter 👋</h2>
+      <h3>Assistant Professor in Computer Science, Allegheny College</h3>
+      <div class="menu">
+        
+
+        <p>
+            <a href="/classes/">
+                My Classes
+            </a>
+        </p>
+
+        <p>
+            <a href="/about/">
+                Contact and About
+            </a>
+        </p>
+
+        <p>
+            <a href="/forfun/">
+                Just For Fun
+            </a>
+        </p>
+
+        <p>
+            <a href="/portfolio/">
+                Portfolio
+            </a>
+        </p>
+
+        <p>
+            <a href="/projects/">
+                Projects
+            </a>
+        </p>
+
+        
+      </div>
+    </div>
+
+    <div class="socials">
+        
+  
+    <a href="https://github.com/developmentAC" class="social-link" target="_blank" rel="noopener" ><div class="icon">
+  <svg width="35px" height="35px" viewBox="0 0 115 115" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
+  
+  <path d="M102.679 0H12.32C5.52 0 0 5.519 0 12.321v90.358C0 109.48 5.519 115 12.321 115h90.358c6.802 0 12.321-5.519 12.321-12.321V12.32C115 5.52 109.481 0 102.679 0zM71.182 98.494c-2.156.385-2.952-.95-2.952-2.053 0-1.386.051-8.471.051-14.195 0-4.005-1.335-6.546-2.9-7.881C74.878 73.313 84.89 72.003 84.89 55.6c0-4.671-1.669-7.007-4.39-10.01.436-1.105 1.9-5.648-.436-11.552-3.568-1.104-11.731 4.595-11.731 4.595-3.389-.95-7.06-1.438-10.679-1.438-3.62 0-7.29.488-10.679 1.438 0 0-8.163-5.699-11.73-4.595-2.337 5.878-.899 10.422-.437 11.551-2.72 3.004-4.004 5.34-4.004 10.011 0 16.326 9.574 17.712 19.072 18.765-1.232 1.104-2.336 3.003-2.72 5.724-2.44 1.104-8.677 3.004-12.4-3.568-2.335-4.056-6.545-4.39-6.545-4.39-4.159-.05-.282 2.619-.282 2.619 2.772 1.283 4.723 6.212 4.723 6.212 2.49 7.624 14.4 5.057 14.4 5.057 0 3.568.052 9.37.052 10.422 0 1.104-.77 2.438-2.952 2.053C27.21 92.821 15.35 76.701 15.35 57.86c0-23.564 18.02-41.456 41.585-41.456s42.663 17.892 42.663 41.456c.026 18.842-11.474 34.988-28.416 40.635zM46 82.81c-.488.103-.95-.102-1.001-.436-.051-.385.282-.719.77-.822.488-.05.95.154 1.001.488.077.334-.257.668-.77.77zm-2.439-.23c0 .333-.385.615-.898.615-.565.052-.95-.23-.95-.616 0-.333.385-.616.899-.616.487-.051.95.231.95.616zm-3.516-.283c-.103.334-.616.488-1.053.334-.488-.103-.821-.488-.719-.822.103-.334.617-.488 1.053-.385.513.154.847.54.719.873zm-3.158-1.386c-.23.282-.718.23-1.104-.154-.385-.334-.487-.822-.23-1.053.23-.282.718-.23 1.103.154.334.334.462.847.231 1.053zm-2.336-2.336c-.23.154-.667 0-.95-.385-.282-.385-.282-.822 0-1.001.283-.231.72-.052.95.333.283.385.283.847 0 1.053zm-1.668-2.49c-.231.23-.616.103-.899-.154-.282-.334-.333-.719-.102-.899.23-.23.616-.102.898.154.282.334.334.72.103.899zm-1.72-1.9c-.103.231-.436.283-.719.103-.334-.154-.488-.436-.385-.667.103-.154.385-.231.719-.103.334.18.488.462.385.667z"/>
+  
+  </svg>
+</div>
+</a>
+  
+
+  
+    <a href="https://www.youtube.com/channel/UCgna6cx9NHq634c0JFyK_1A" class="social-link" target="_blank" rel="noopener" ><div class="icon">
+  <svg width="35px" height="35px" viewBox="0 0 115 115" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
+  
+  <path d="M47.95 43.664l24.438 13.887L47.951 71.44V43.664zM115 12.321v90.358c0 6.802-5.519 12.321-12.321 12.321H12.32C5.52 115 0 109.481 0 102.679V12.32C0 5.52 5.519 0 12.321 0h90.358C109.48 0 115 5.519 115 12.321zm-10.781 45.256s0-15.3-1.951-22.64c-1.078-4.056-4.236-7.24-8.266-8.318-7.264-1.976-36.502-1.976-36.502-1.976s-29.238 0-36.502 1.976c-4.03 1.079-7.188 4.262-8.266 8.317-1.95 7.316-1.95 22.641-1.95 22.641s0 15.3 1.95 22.64c1.078 4.056 4.236 7.111 8.266 8.19 7.264 1.95 36.502 1.95 36.502 1.95s29.238 0 36.502-1.976c4.03-1.079 7.188-4.133 8.266-8.189 1.95-7.316 1.95-22.615 1.95-22.615z" />
+  
+  </svg>
+</div>
+</a>
+  
+
+    </div>
+  </header>
+</div>
+
+  <div class="content-wrapper">
+    
+      <div class="breadcrumb">
+  
+
+
+
+
+
+<span >
+  <a href="https://example.com/">Home</a>
+   / 
+</span>
+
+
+<span >
+  <a href="https://example.com/projects/">Projects</a>
+   / 
+</span>
+
+
+<span  class="active">
+  <a href="https://example.com/projects/gradealert/gradealert/">Gradealert</a>
+  
+</span>
+
+</div>
+
+    
+    <main id="content" class="projects">
+
+<h1>Gradealert</h1>
+
+
+<!-- ##### GradeAlert
+##### Date: 15 November 2021
+##### Oliver Bonham-Carter, [Allegheny College](https://allegheny.edu/)
+##### email: obonhamcarter@allegheny.edu -->
+<hr>
+<p><img src="/images/projects/gradealert/graphics/gradeAlert_logo.png" alt="logo"></p>
+<!-- 
+[![MIT Licence](https://img.shields.io/bower/l/bootstrap)](https://opensource.org/licenses/MIT)
+
+[![BLM](https://img.shields.io/badge/BlackLivesMatter-yellow)](https://blacklivesmatter.com/) -->
+<p>GitHub link: <a href="https://github.com/developmentAC/gradeAlert">https://github.com/developmentAC/gradeAlert</a></p>
+<h3 id="table-of-contents">Table of contents</h3>
+<ul>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#tool">Tool</a></li>
+<li><a href="#usage-at-terminal">Usage At Terminal</a></li>
+<li><a href="#CSV">CSV</a></li>
+<li><a href="#outputted-files">Outputted files</a></li>
+<li><a href="#placing-gradebook-files">Placing Gradebook Files</a></li>
+<li><a href="#pushing-in-bulk">Pushing in Bulk</a></li>
+<li><a href="#structure">File Structure</a></li>
+<li><a href="summary-of-commands">Summary of Commands</a></li>
+<li><a href="#a-work-in-progress">A Work In Progress</a></li>
+</ul>
+<h3 id="overview">Overview</h3>
+<p>GitHub Classroom is an excellent resource to handle work repositories for a course of many students. Each student, after &ldquo;accepting&rdquo; an assignment is issued a unique repository in which work can be completed and pushed to the instructor.</p>
+<p>Here, we suggest that GitHub Classroom be used to report grades to each student who has a grade book &ldquo;assignment&rdquo; repository. The instructor, who has access to this repository, places a file containing grades and feedback into this repository for the student to consult. With a little setup and configuration, Grade-Alert can place each gradebook file into its corresponding repository. This step saves the user from having to remember which file goes into what repository. All parts of this project have been written to run in Linux or MacOS operating systems. If you are using Windows, then parts of the project (such as file copying) may not work as expected.</p>
+<p><img src="/images/projects/gradealert/graphics/gradeAlert_demo.gif" alt="Demo"></p>
+<h3 id="tool">Tool</h3>
+<p>All grades in a course are kept in a CSV spreadsheet. Grade-alert parses each row of the  spreadsheet and all contents are formatted and placed into a separate markdown file which is named according to the first column of the spreadsheet. These files are then to be placed into grade book repositories (discussed below) and pushed for the student to access.</p>
+<h3 id="usage-at-terminal">Usage-At-Terminal</h3>
+<p>To run the program in Linux or MacOS, Python3 is necessary. This program is sure to also run in Windows, although this has not been tested.</p>
+<p>To process the CSV spreadsheet, <code>demoGrades_short.csv</code> (files formats are discussed below), the command is the following: <code>./gradeAlert.py demoGrades_short.csv</code>. In addition, online help is available by at the terminal with the command, <code>./gradeAlert.py -h</code>.
+To copy the outputted files into their respectful repositories for a bulk push, <code>./gradeAlert.py -P</code></p>
+<p><em>Note: discussion for each of these commands is below.</em></p>
+<h3 id="csv">CSV</h3>
+<p>To use this Grade-Alert, the student grades are to be kept in a comma separated variable (CSV) file. Please note that no commas may be used in the fields of the CSV file as they will serve to confuse the true delimiters of the CSV structure and will prevent Grade-Alert from opening the CSV files correctly.</p>
+<p>In a grade book spreadsheet, each row contains the grades of the individuals in the course. The columns header provide details of the assignment and type of feedback. The first column <strong>must</strong> contain the name of the student; this information will be used to name the outputted files and serve to inform which output file corresponds with what grade book repository. The rest of the information for a row will be formatted and placed into the outputted file. The CSV formatting for a grade book CSV files is shown below in the table.</p>
+<table>
+<thead>
+<tr>
+<th>Student Name</th>
+<th>Student ID</th>
+<th>Activity 01</th>
+<th>Activity 01 Comments</th>
+<th>Activity 02</th>
+<th>Activity 02 comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>student1</td>
+<td>x0001</td>
+<td>100</td>
+<td>All requirements satisfied</td>
+<td>100</td>
+<td>excellent</td>
+</tr>
+<tr>
+<td>student2</td>
+<td>x0002</td>
+<td>100</td>
+<td>Excellent</td>
+<td>100</td>
+<td>excellent</td>
+</tr>
+<tr>
+<td>student3</td>
+<td>x0003</td>
+<td>100</td>
+<td>Excellent</td>
+<td>100</td>
+<td>excellent</td>
+</tr>
+<tr>
+<td>student4</td>
+<td>x0004</td>
+<td>0</td>
+<td>Nothing submitted</td>
+<td>95</td>
+<td>excellent</td>
+</tr>
+<tr>
+<td>student5</td>
+<td>x0005</td>
+<td>100</td>
+<td>Excellent</td>
+<td>95</td>
+<td>ok</td>
+</tr>
+<tr>
+<td>student6</td>
+<td>x0006</td>
+<td>100</td>
+<td>Excellent</td>
+<td>100</td>
+<td>excellent</td>
+</tr>
+<tr>
+<td>student7</td>
+<td>x0007</td>
+<td>0</td>
+<td>Nothing submitted</td>
+<td>0</td>
+<td>nothing submitted?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="outputted-files">Outputted files</h3>
+<p>After running the Grade-Alert tool on a CSV file containing the information of the above table, a file for each row is outputted. For example, the report of <code>student1</code> will take the following form.</p>
+<p>File: <code>student1_gradebook.md</code></p>
+<pre><code>Student Name : student1
+
+Student ID : x0001
+
+Activity 01 : 100
+
+Activity 01 Comments : All requirements satisfied
+
+Activity 02 : 100
+
+Activity 02 comments : excellent
+
+____
+
+</code></pre><p>Each prepared file is to be then to be placed into its associated grade book repository and is pushed out for the student.</p>
+<h3 id="placing-gradebook-files">Placing Gradebook Files</h3>
+<p>Using option <code>-P</code>, the user can have Grade-Alert copy the gradebook markdown files into their associated repositories for bulk pushing (discussed below).</p>
+<h6 id="usage">Usage</h6>
+<p><code>./gradeAlert.py -P</code></p>
+<p>For this step, the File <code>pairings.txt</code> must be in the same directory as the <code>gradeAlert.py</code>. The pairing files lists the files (<em>left</em>) separated by a comma, and the repositories (<em>right</em>) into which the file is to be copied before pushing.</p>
+<p>Shown below are the contents of <code>pairings.txt</code> for the accompanying gradebook spreadsheet example.</p>
+<pre><code>student1_gradebook.md,studentGradeBook_Repos/gradebook_A/
+student2_gradebook.md,studentGradeBook_Repos/gradebook_B/
+student3_gradebook.md,studentGradeBook_Repos/gradebook_C/
+student4_gradebook.md,studentGradeBook_Repos/gradebook_D/
+student5_gradebook.md,studentGradeBook_Repos/gradebook_E/
+student6_gradebook.md,studentGradeBook_Repos/gradebook_F/
+student7_gradebook.md,studentGradeBook_Repos/gradebook_G/
+</code></pre><p>Note: Be sure to remove all spaces in the <code>pairings.txt</code> file.</p>
+<p>For his or her own requirements, the user is to modify this file, which is essentially a <code>csv</code> file that could be created by a spreadsheet such as <a href="https://www.libreoffice.org/">LibreOffice</a> Calc. If the pairing file is not present when the option <code>-P</code> is invoked, then an error message will result and end the Grade-Alert execution.</p>
+<h6 id="output">Output</h6>
+<p>The output of this copying-job is shown below.</p>
+<pre><code>[+] Copying files into associated repositories
+ as defined in pairings.txt.
+
+0_out/student1_gradebook.md
+	--&gt;  studentGradeBook_Repos/gradebook_A/
+0_out/student2_gradebook.md
+	--&gt;  studentGradeBook_Repos/gradebook_B/
+0_out/student3_gradebook.md
+	--&gt;  studentGradeBook_Repos/gradebook_C/
+0_out/student4_gradebook.md
+	--&gt;  studentGradeBook_Repos/gradebook_D/
+0_out/student5_gradebook.md
+	--&gt;  studentGradeBook_Repos/gradebook_E/
+0_out/student6_gradebook.md
+	--&gt;  studentGradeBook_Repos/gradebook_F/
+0_out/student7_gradebook.md
+	--&gt;  studentGradeBook_Repos/gradebook_G/
+
+[+] Saving file for bulkPusher: dirNames
+</code></pre><p>Note that a new file, <code>dirNames</code> will be created from this copying operation, shown below.</p>
+<pre><code>studentGradeBook_Repos/gradebook_A/
+studentGradeBook_Repos/gradebook_B/
+studentGradeBook_Repos/gradebook_C/
+studentGradeBook_Repos/gradebook_D/
+studentGradeBook_Repos/gradebook_E/
+studentGradeBook_Repos/gradebook_F/
+</code></pre><p>The <code>dirNames</code> file may be used with the <code>bulkPusher.sh</code> script (explained below) for bulk pushing using <code>git</code>. We note that this file is especially useful since it only lists the successful copies of gradebook files into corresponding repositories. If an error occurred during copying, then the program would skip the repository and the <code>dirNames</code> would have no listing for the offending repository.</p>
+<h3 id="pushing-in-bulk">Pushing in Bulk</h3>
+<p>Each student who has accepted the grade book &ldquo;assignment&rdquo; will have a repository that the instructor can access. Sadly, the <a href="http://https://classroom.github.com/assistant">GitHub Assistant</a> (link: <a href="https://classroom.github.com/assistant">https://classroom.github.com/assistant</a>) will not work to create repositories into which grades may be pushed. Instead, the instructor is to clone each of the grade book &ldquo;assignment&rdquo; repositories listed by GitHub Classroom and then copy the individual gradebook files into each repository.</p>
+<p>The creation of multiple gradebook repositories may be done by adding the <code>git clone</code> statements into a script file such as the included file, <code>repoBuilder.sh</code> and then running the script using, <code>sh repoBuilder.sh</code>. The user is advised to edit this script file as necessary &ndash; there are two lines that have been added create a directory called <code>student_repos/</code> and then to copy in all repositories starting with <code>gradebook_</code> into the directory.</p>
+<p>Grade book repositories may now be pushed by the instructor using the below <code>bulkPusher.sh</code> script.</p>
+<p>After completing course grades save a copy of the spreadsheet as a CSV file. Grader-Alert may be executed with the CSV file as the parameter. The resulting files will have to be placed into the individual grade book repositories.</p>
+<p>To facilitate the pushing of all these repositories, the below script (located in <code>src/bulkPusher.sh</code>) may be be used. To execute this script in Linux and MacOS, use the command, <code>sh bulkPusher.sh</code> when the files have been copied into the grade book repositories.</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">
+<span class="c1"># Bulk Pusher script.</span>
+<span class="c1"># Date: 11 Sept 2021</span>
+<span class="c1"># Oliver Bonham-Carter, obonhamcarter@allegheny.edu</span>
+<span class="c1"># This script uses the File, dirNames, to locate repositories to push</span>
+<span class="c1"># The current date is printed in the commit message of the submit</span>
+<span class="c1"># A file, &#34;0_thisLastPush.txt&#34; is created to state when the last bulk push was completed.</span>
+
+
+<span class="nv">NOW</span><span class="o">=</span><span class="sb">`</span>date<span class="sb">`</span>
+<span class="nb">printf</span> <span class="s2">&#34;Current date and time in Linux is: </span><span class="nv">$NOW</span><span class="s2">&#34;</span>
+
+date &gt; 0_thisLastPush.txt
+
+<span class="nb">pwd</span> &gt; mydir
+<span class="k">for</span> z in <span class="sb">`</span>cat mydir<span class="sb">`</span><span class="p">;</span> <span class="k">do</span> <span class="nb">cd</span> <span class="nv">$z</span><span class="p">;</span> <span class="k">done</span>
+<span class="k">for</span> DIRNAME in <span class="k">$(</span>cat dirNames<span class="k">)</span>
+<span class="k">do</span>
+    <span class="nb">cd</span> <span class="nv">$DIRNAME</span>
+    <span class="nb">echo</span> Checking: <span class="nv">$DIRNAME</span>
+     git add -A
+     git commit -m <span class="s2">&#34;Grade update: </span><span class="nv">$NOW</span><span class="s2">&#34;</span>
+     git push
+    <span class="nb">cd</span> <span class="nv">$z</span>/
+<span class="k">done</span>
+
+rm mydir
+</code></pre></div><p>The file, <code>dirNames</code> contains the paths of the repositories to which we push. To conveniently prepare this file, begin with the following command from the directory where the class repositories are stored.</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">ls &gt; dirNames
+</code></pre></div><p>This file is to be edited to contain only the paths to the student grade book repositories. This file is then to be stored in the same root as the repositories so that the <code>bulkPushers.sh</code> can find it (and the repository paths it contains) when run.</p>
+<p>The contents of the student repositories directory should be similar to the following.</p>
+<pre><code>repos/gradebook-student1
+repos/gradebook-student2
+...
+repos/dirNames
+repos/bulkPusher.sh
+</code></pre><p>In a convenient setup, the repositories, the files <code>dirNames</code> and <code>bulkPusher.sh</code> are to stored in root directory. The structure of the file system is discussed below.</p>
+<h3 id="structure">Structure</h3>
+<p>The files are to be arranged in the following way for a typical usage. Note, this arrangement shows the demonstration files.</p>
+<pre><code>
+ ./0_out/
+   - ./student1_gradebook.md
+   - ./student2_gradebook.md
+   - ./student3_gradebook.md
+   - ./student4_gradebook.md
+   - ./student5_gradebook.md
+   - ./student6_gradebook.md
+   - ./student7_gradebook.md
+
+ ./studentGradeBook_Repos/
+   - gradebook_A/
+   - gradebook_B/
+   - gradebook_C/
+   - gradebook_D/
+   - gradebook_E/
+   - gradebook_F/
+   - gradebook_G/
+
+ - ./bulkPusher.sh
+ - ./demoGrades_short.csv
+ - ./dirNames
+ - ./gradeAlert.py
+ - ./pairings.txt
+ - ./repoBuilder.sh
+
+</code></pre><p><em>Note: As the user uses Grade-Alert to handle gradebook repositories and markdown files, having the files in the above order will help to simplify the commands to use them.</em></p>
+<h3 id="summary-of-commands">Summary of Commands</h3>
+<ul>
+<li>
+<p>Be sure that you have all student repositories in a directory called, <code>student_repos/</code>. Note: it is recommended that these repositories be created by copying all the <code>git clone</code> statements into a script file so that the repositories can be automatically created with each grade-update. Once the grades have been updated, then these repositories could be removed from the working directory to reduce clutter. Just an idea.</p>
+</li>
+<li>
+<p>Save a gradebook file in a CSV file format (ex: <code>mygradebook.csv</code>).</p>
+</li>
+<li>
+<p>Be sure that the <code>pairings.txt</code> file is present in the local directory and has been correctly formatted. For example, each line has the following format:</p>
+</li>
+<li>
+<p><code>gradeBookFile,repositoryPath</code></p>
+</li>
+<li>
+<p>Note: the line will look like: <code>studentName_gradebook.md,student_repos/gradebook-StudentName</code>)</p>
+</li>
+<li>
+<p>Run <code>python3 gradeAlert.py mygradebook.csv</code> (this makes the gradebook files from the rows of the CSV file and are stored in <code>0_out/</code>).</p>
+</li>
+<li>
+<p>Run <code>python3 gradeAlert.py -p</code> (this copies the gradebook files into their associated repositories which are defined in the <code>pairing.txt</code> file.)</p>
+</li>
+<li>
+<p>Use <code>bulkPusher.sh</code> to push out all updated files to the gradebook repositories.</p>
+</li>
+</ul>
+<h3 id="a-work-in-progress">A work in progress</h3>
+<p>Check back often to see the evolution of this project!! Grade-Alert is a work-in-progress. Updates are likely to come soon with feedback. If you would like to contribute to this project, <strong>then please do!</strong> For instance, if you see some low-hanging fruit or task that you could easily complete, that could add value to the project, then I would love to have your insight.</p>
+<p>Otherwise, please create an Issue for bugs or errors. Since I am a teaching faculty member at Allegheny College, I may not have all the time necessary to quickly fix the bugs and so I would be very happy to have any help that I can get from the OpenSource community for any technological insight. Much thanks in advance. I hope that this project helps you to conveniently publish your course grades.</p>
+<p>If you appreciate this project, please consider clicking the project&rsquo;s <em>Star</em> button.
+:-)</p>
+
+
+    </main>
+  </div>
+  <footer>
+    <div class="footer-wrapper">
+      <p>Made with ❤ &mdash; Powered by <a href="https://gohugo.io/" target="_blank" rel="external">Hugo</a> and the <a href="https://github.com/bjacquemet/personal-web" target='_blank' rel="external">Personal Web</a> theme. Icons come from the great <a href="https://fontawesome.com/license" target="_blank" rel="external">Font Awesome</a> library</p>
+      <p>© Oliver Bonham-Carter</p>
+    </div>
+  </footer>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:500,600|Raleway:400,400i,600" rel="stylesheet">
+  
+  <script type="text/javascript">
+    document.querySelector('.mobile-header').addEventListener('click', function () {
+      var om = document.querySelector(".overlay-menu");
+      if (document.querySelector('.hamburger').classList.contains("cross")) {
+        document.querySelector('.hamburger').classList.remove("cross");
+        om.style.display = "none";
+        om.style.width = "0%";
+        om.style.height = "0%";
+      }
+      else {
+        document.querySelector('.hamburger').classList.add("cross");
+        om.style.width = "100%";
+        om.style.height = "100vh";
+        om.style.display = "block";
+      }
+    });
+  </script>
+</body>
+</html>

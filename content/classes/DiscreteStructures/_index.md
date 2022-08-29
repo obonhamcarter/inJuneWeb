@@ -49,15 +49,12 @@ Alden Hall, 101 Lab
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_uj562m6crmj7krb9e9rnngeu2c%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-
 ### Office Hours:
-[Schedule an appointment](/about/)
+[Schedule an appointment](/contactandabout/)
 
-### Syllabus:
-+ [Syllabus]()
+### Syllabus and Planning Your Time
++ See [README.md](https://github.com/CMPSC-102-Allegheny-College-Fall-2022/classDocs/blob/main/README.md) at `classDocs/`
 
-### Planning your time
-tba
 
 ### TextBooks:
 
@@ -75,6 +72,6 @@ by Al Sweigart. Available content, see publisher's [URL](https://pythonbooks.org
 [ClassDocs](https://github.com/CMPSC-102-Allegheny-College-Fall-2022/classDocs) at GitHub
 
 ### Gradebook Repository
-tba
+TBA
 
 ---

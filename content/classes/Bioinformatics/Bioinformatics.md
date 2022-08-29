@@ -43,15 +43,10 @@ Alden Hall, 109 Lab
 
 
 ### Office Hours:
-[Schedule an appointment](/about/)
+[Schedule an appointment](/contactandabout/)
 
-### Syllabus:
-+ [Syllabus]()
-
-### Planning your time
-+ [Pdf: Planning your time](/images/bioinformatics/planningYourTime_cs300.pdf)
-+ [Html: Planning your time](/images/bioinformatics/planningYourTime_cs300.html)
-
+### Syllabus and Planning Your Time
++ See [README.md](https://github.com/CMPSC-300-Allegheny-College-Fall-2022/classDocs/blob/main/README.md) at `classDocs/`
 
 ### TextBook:
 + Exploring Bioinformatics: A Project-based Approach, second edition, by Caroline St. Clair and Jonathan E. Visick. ISBN paperback: 978-1-284-02344-2
@@ -64,9 +59,7 @@ Alden Hall, 109 Lab
 + Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
 
 ### classDocs/ Repository
-Use the ssh or http link (below) to get the classDocs repository containing all class materials.
-
-+ Web based access: TODO
++ [classDocs/ at GitHub](https://github.com/CMPSC-300-Allegheny-College-Fall-2022/classDocs)
 
 ### Gradebook Repository
-TODO
+TBA
