@@ -17,23 +17,6 @@ To be sure that I have enough time with each person during my office hours, I as
 
 ---
 
-
-#### Education
-
-My overall interest in computer science is in Bioinformatics which is found at the intersection of Computer Science, Biology and Mathematics.
-
-+ __Creighton University__: Bachelors in Biology
-
-+ __University of Nebraska at Omaha__: Masters in Mathematics
-
- + Concentration: Information theory, Operations Theory and Combinatorics
-
-+ __University of Nebraska at Omaha__: Doctorate in Information Technology
-
- + Concentration: Bioinformatics
-
----
-
 #### Our Technical Leaders?
 
 Who are our illustrious [Technical Leaders](https://www.cs.allegheny.edu/teaching/technicalleaders/)?! Find schedules expert TL's in your CS classes.
