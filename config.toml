@@ -51,6 +51,7 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
+  # note: the icons are kept in File: themes/personal-web/layouts/partials/svg.html
   github = "https://github.com/developmentAC"
   # twitter = "https://twitter.com/"
   # linkedin = "https://www.linkedin.com/in/"
@@ -62,7 +63,6 @@ pygmentsCodeFences=true
   # gitlab = "https://gitlab.com/"
   # keybase = "https://keybase.io/"
   tech = "https://jupyter.cs.allegheny.edu/"
-  # note: the icons are kept in File: themes/personal-web/layouts/partials/svg.html
   glasses = "http://oliverbonhamcarter.com/live/"
 
 [params.contact]
