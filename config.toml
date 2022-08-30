@@ -61,9 +61,9 @@ pygmentsCodeFences=true
   # instagram = "https://www.instagram.com/"
   # gitlab = "https://gitlab.com/"
   # keybase = "https://keybase.io/"
-  tech = "http://oliverbonhamcarter.com/live/"
+  tech = "https://jupyter.cs.allegheny.edu/"
   # note: the icons are kept in File: themes/personal-web/layouts/partials/svg.html
-
+  glasses = "http://oliverbonhamcarter.com/live/"
 
 [params.contact]
   email = ""
