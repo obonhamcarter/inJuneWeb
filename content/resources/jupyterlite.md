@@ -16,7 +16,7 @@ Play with Python in a convenient online browser. Remember, to save all your impo
 
 <!-- [<img src="/images/resources/jlite.png" alt="JupyterLite" style="width:200px;"/>](https://www.oliverbonhamcarter.com/live/) -->
 
-Note: you can also reach this Python3 play-space using the displayed URL. 
+Note: you can also reach this Python3 play-space using the displayed URL.
 <center>
 <img src="/images/resources/jlite.png" alt="JupyterLite" style="width:500px;"/>
 </center>
@@ -29,7 +29,6 @@ Note: you can also reach this Python3 play-space using the displayed URL.
 <center>
 &#x200B;
 </center>
-
 
 ---
 
