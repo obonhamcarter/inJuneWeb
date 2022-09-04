@@ -71,6 +71,6 @@ by Al Sweigart. Available content, see publisher's [URL](https://pythonbooks.org
 [ClassDocs](https://github.com/CMPSC-102-Allegheny-College-Fall-2022/classDocs) at GitHub
 
 ### Gradebook Repository
-TBA
+ + [https://classroom.github.com/a/X0YnIQnZ](https://classroom.github.com/a/X0YnIQnZ)
 
 ---
