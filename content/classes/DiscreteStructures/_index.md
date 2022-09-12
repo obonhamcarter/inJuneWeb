@@ -25,7 +25,7 @@ In order to acquire the proper skills in technical writing, critical reading, an
 
 ### Discord
 
-If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#discrete-structures`. If not, then you will need to join the department's [Discord server](https://discord.gg/7wueDqks) before you can be added to the course's channel.
+If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#discrete-structures`. If not, then you will need to join the department's [Discord server](https://discord.gg/qUbTMjaq) before you can be added to the course's channel.
 
 ### Meeting Information:
 #### Classes:
