@@ -68,7 +68,7 @@ by Al Sweigart. Available content, see publisher's [URL](https://pythonbooks.org
  + More good books from _PythonBooks_ at [URL](https://pythonbooks.org/free-books/)
 
 ### classDocs/ Repository
-[ClassDocs](https://github.com/CMPSC-102-Allegheny-College-Fall-2022/classDocs) at GitHub
+ + [classDocs/ at GitHub](https://github.com/CMPSC-102-Allegheny-College-Fall-2022/classDocs) at GitHub
 
 ### Gradebook Repository
  + [https://classroom.github.com/a/X0YnIQnZ](https://classroom.github.com/a/X0YnIQnZ)

@@ -44,20 +44,20 @@ Alden Hall, 109 Lab
 [Schedule an appointment](/contactandabout/)
 
 ### Syllabus and Planning Your Time
-+ See [README.md](https://github.com/CMPSC-300-Allegheny-College-Fall-2022/classDocs/blob/main/README.md) at `classDocs/`
+ + See [README.md](https://github.com/CMPSC-300-Allegheny-College-Fall-2022/classDocs/blob/main/README.md) at `classDocs/`
 
 ### TextBook:
-+ Exploring Bioinformatics: A Project-based Approach, second edition, by Caroline St. Clair and Jonathan E. Visick. ISBN paperback: 978-1-284-02344-2
-+ Think Python, first edition, by Allen B. Downey.
+ + Exploring Bioinformatics: A Project-based Approach, second edition, by Caroline St. Clair and Jonathan E. Visick. ISBN paperback: 978-1-284-02344-2
+ + Think Python, first edition, by Allen B. Downey.
 [Publisher Website](https://greenteapress.com/wp/)
 
 #### Other Useful Textbooks:
-+ BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
+ + BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
 
-+ Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
+ + Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
 
 ### classDocs/ Repository
-+ [classDocs/ at GitHub](https://github.com/CMPSC-300-Allegheny-College-Fall-2022/classDocs)
+ + [classDocs/ at GitHub](https://github.com/CMPSC-300-Allegheny-College-Fall-2022/classDocs)
 
 ### Gradebook Repository
-+ [https://classroom.github.com/a/PDnOsq62](https://classroom.github.com/a/PDnOsq62)
+ + [https://classroom.github.com/a/PDnOsq62](https://classroom.github.com/a/PDnOsq62)
