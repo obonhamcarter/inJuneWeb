@@ -5,8 +5,7 @@ draft: false
 ---
 
 
-#### Sherlock Holmes
-
+#### On the world's most famous __Consulting Detective__
 
 <center>
 <img src="/images/forfun/bakerstreet.png" alt="221b BakerStreet" style="width:200px;"/>
@@ -30,12 +29,39 @@ draft: false
 </center>
 
 
+### Sherlock in words
+
  + _Read all the Sherlock Holmes stories online at the _
 [The complete Sherlock Holmes Canon](https://sherlock-holm.es/), or just skip to the cool quotes from his adventures at [Wikiquote](https://en.wikiquote.org/wiki/Sherlock_Holmes)
 
+
+ + Dr. Bell -- the professor of medicine who taugh at Sir Arthur Conan Doyal's medical school who would form the image of the famous Sherlock Holmes. [The Man Who Was Sherlock Holmes](https://flashbak.com/the-man-who-was-sherlock-holmes-441368/)
+
+
+#### Read about the writer!
+
+<center>
+<img src="/images/forfun/doyal.jpg" alt="Arthur Conan Doyal" style="width:200px;"/>
+</center>
+
+<!-- add a line drop -->
+<center>
+&#x200B;
+</center>
+
+
+ + Who was the [creator](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle) of Sherlock Holmes?
+
+
+
 ---
 
-### Films
+### Sherlock in Film
+
+
++ _The Empty House_: with Jeremy Brett as Sherlock Holmes and Edward Hardwicke as Dr. Watson.
+{{< youtube KeIGNlltnhQ >}}
+
 
  + _Sherlock Holmes: The House of Fear (1945)_
 Follow Sherlock and Dr. Watson on another thrilling adventure!
@@ -58,24 +84,4 @@ Find out more about the inspiration behind Arthur Conan Doyle's famous novel.
 {{<youtube NJEoHy7R9IQ>}}
 
 ---
-
-#### Read about the writer!
-
-<center>
-<img src="/images/forfun/doyal.jpg" alt="Arthur Conan Doyal" style="width:200px;"/>
-</center>
-
-<!-- add a line drop -->
-<center>
-&#x200B;
-</center>
-
-
- + Who was the [creator](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle) of Sherlock Holmes?
-
-
-
-<!-- 
-[![Arthur Conan Doyal](/images/forfun/doyal.jpg)](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle) -->
-
 
