@@ -12,13 +12,22 @@ draft: false
 <img src="/images/forfun/bakerstreet.png" alt="221b BakerStreet" style="width:200px;"/>
 </center>
 
+
 <!-- add a line drop -->
 <center>
 &#x200B;
 </center>
 
-<!-- ![Sherlock Holmes](/images/forfun/bakerstreet.png) -->
+<center>
+<img src="/images/forfun/sh_train_i.jpg" alt="221b BakerStreet" width = "300" height = "400">
+</center>
 
+
+
+<!-- add a line drop -->
+<center>
+&#x200B;
+</center>
 
 
  + _Read all the Sherlock Holmes stories online at the _
@@ -69,6 +78,4 @@ Find out more about the inspiration behind Arthur Conan Doyle's famous novel.
 <!-- 
 [![Arthur Conan Doyal](/images/forfun/doyal.jpg)](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle) -->
 
-
----
 
