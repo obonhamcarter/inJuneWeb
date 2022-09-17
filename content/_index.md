@@ -8,7 +8,6 @@ Welcome to my site. I am an Assistant professor in Computer Science at Allegheny
 <!-- ![Welcome](/images/me_dam_ii.png)
 Oliver Bonham-Carter, PhD -->
 
-
 <center>
 <img src="images/main/me_dam_700.png" alt="Oliver Bonham-Carter, PhD" style="width:400px;"/>
 </center>
@@ -20,7 +19,6 @@ Oliver Bonham-Carter, PhD -->
 Oliver Bonham-Carter, PhD
 &#x200B;
 </center>
-
 
 ### Who I am?
 

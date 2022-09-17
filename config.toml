@@ -69,14 +69,13 @@ pygmentsCodeFences=true
   email = ""
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
-
 [menu]
 [[menu.main]]
   identifier = "classes"
   name = "My Classes"
   title = "Classes section"
   url = "/classes/"
-  weight = -120
+  weight = -150
 
 
 [[menu.main]]
@@ -84,14 +83,14 @@ pygmentsCodeFences=true
   name = "Contact and About"
   title = "Contact and About Section"
   url = "/contactandabout/"
-  weight = -110
+  weight = -140
 
 [[menu.main]]
   identifier = "justforfun"
   name = "Just For Fun"
   title = "Just For Fun"
   url = "/forfun/"
-  weight = -105
+  weight = -130
 
 
 [[menu.main]]
@@ -99,7 +98,7 @@ pygmentsCodeFences=true
   name = "Portfolio"
   title = "Portfolio"
   url = "/portfolio/"
-  weight = -100
+  weight = -120
 
 
  [[menu.main]]
@@ -107,7 +106,7 @@ pygmentsCodeFences=true
    name = "Projects"
    title = "Projejcts"
    url = "/projects/"
-   weight = -90
+   weight = -110
 
 
  [[menu.main]]
@@ -115,7 +114,14 @@ pygmentsCodeFences=true
    name = "Resources"
    title = "Resources"
    url = "/resources/"
-   weight = -80
+   weight = -100
+
+[[menu.main]]
+   identifier = "iTea"
+   name = "iTea"
+   title = "iTea"
+   url = "/forfun/itea/itea"
+   weight = -100
 
 
 
