@@ -6,6 +6,18 @@ draft: false
 
 Welcome to a resources page for Bioinformatics research. Here you will find a list of links for data, tools, tutorials and related resources that may be very helpful to your work.
 
+
+#### Videos, Skill Builders and Tutorials:
+
+ + TCoffee: [http://tcoffee.crg.cat/apps/tcoffee/tutorial.html](http://tcoffee.crg.cat/apps/tcoffee/tutorial.html)
+ + Hidden Markov Models (Youtube): [https://www.youtube.com/watch?v=TPRoLreU9lA](https://www.youtube.com/watch?v=TPRoLreU9lA)
+ + The Double Helix (Documentary about DNA discovery, 17 mins): [https://media.hhmi.org/biointeractive/films/Double_Helix.html](https://media.hhmi.org/biointeractive/films/Double_Helix.html)
+ + The Chemical Structure of DNA: [https://www.biointeractive.org/classroom-resources/chemical-structure-dna](https://www.biointeractive.org/classroom-resources/chemical-structure-dna)
+ + The Structure of DNA: [https://www.youtube.com/watch?v=o_-6JXLYS-k](https://www.youtube.com/watch?v=o_-6JXLYS-k)
+ + The definition to 5' end and 3' end of a DNA strand - Simple animated HD: [https://www.youtube.com/watch?v=qWZYpHSXvJo](https://www.youtube.com/watch?v=qWZYpHSXvJo)
+ + What happens when your DNA is damaged?: [https://www.youtube.com/watch?v=vP8-5Bhd2ag](https://www.youtube.com/watch?v=vP8-5Bhd2ag)
+ + Mutations and Natural Selection: [https://www.youtube.com/watch?v=BBI7GoIyoog](https://www.youtube.com/watch?v=BBI7GoIyoog)
+
 ### Helpful links for Bioinformatics Research
 
 #### Python
@@ -44,24 +56,11 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
  + DrugBank -- a pharmaceutical knowledge base that is enabling major advances across the data-driven medicine industry: [https://go.drugbank.com/](https://go.drugbank.com/)
  + Augustus [gene prediction] -- a software to predict genes in eukaryotic genomic sequences: [http://bioinf.uni-greifswald.de/augustus/](http://bioinf.uni-greifswald.de/augustus/)
 
-#### Skill Builders and Tutorials:
-
- + TCoffee: [http://tcoffee.crg.cat/apps/tcoffee/tutorial.html](http://tcoffee.crg.cat/apps/tcoffee/tutorial.html)
- + Hidden Markov Models (Youtube): [https://www.youtube.com/watch?v=TPRoLreU9lA](https://www.youtube.com/watch?v=TPRoLreU9lA)
- + The Double Helix (Documentary about DNA discovery, 17 mins): [https://media.hhmi.org/biointeractive/films/Double_Helix.html](https://media.hhmi.org/biointeractive/films/Double_Helix.html)
- + The Chemical Structure of DNA: [https://www.biointeractive.org/classroom-resources/chemical-structure-dna](https://www.biointeractive.org/classroom-resources/chemical-structure-dna)
- + The Structure of DNA: [https://www.youtube.com/watch?v=o_-6JXLYS-k](https://www.youtube.com/watch?v=o_-6JXLYS-k)
- + The definition to 5' end and 3' end of a DNA strand - Simple animated HD: [https://www.youtube.com/watch?v=qWZYpHSXvJo](https://www.youtube.com/watch?v=qWZYpHSXvJo)
-
-
-
-
-
 ### Research Organizations
  + Cataracts and Genetics: https://knowyourdna.com/cataracts-and-genetics/
  + National Human Genome Research Institute: https://www.genome.gov/
  + Max Planck Institute For Molecular Genetics: https://www.molgen.mpg.de/2168/en
 
-
+---
  ### Note
  If you find a good link for Bioinformatics research that you believe would fit nicely here, please let me know!
