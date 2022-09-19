@@ -17,6 +17,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
  + The definition to 5' end and 3' end of a DNA strand - Simple animated HD: [https://www.youtube.com/watch?v=qWZYpHSXvJo](https://www.youtube.com/watch?v=qWZYpHSXvJo)
  + What happens when your DNA is damaged?: [https://www.youtube.com/watch?v=vP8-5Bhd2ag](https://www.youtube.com/watch?v=vP8-5Bhd2ag)
  + Mutations and Natural Selection: [https://www.youtube.com/watch?v=BBI7GoIyoog](https://www.youtube.com/watch?v=BBI7GoIyoog)
+ + Protein synthesis animation: [https://www.youtube.com/watch?v=NDIJexTT9j0](https://www.youtube.com/watch?v=NDIJexTT9j0)
 
 ### Helpful links for Bioinformatics Research
 
