@@ -9,10 +9,12 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
 ### Helpful links for Bioinformatics Research
 
 #### Python
+
  + Python for Biologists: [https://www.pythonforbiologists.org/](https://www.pythonforbiologists.org/)
  + BioPython [http://biopython.org/DIST/docs/tutorial/Tutorial.html](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
 
-### Tools
+#### Tools
+
  + Codon Usage Database: [https://www.kazusa.or.jp/codon/](https://www.kazusa.or.jp/codon/)
  + The Comprehensive Antibiotic Resistance Database: [https://card.mcmaster.ca/](https://card.mcmaster.ca/)
  + ermB anti resistance gene: [https://card.mcmaster.ca/ontology/36514](https://card.mcmaster.ca/ontology/36514)]
@@ -46,8 +48,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
 
  + TCoffee: [http://tcoffee.crg.cat/apps/tcoffee/tutorial.html](http://tcoffee.crg.cat/apps/tcoffee/tutorial.html)
  + Hidden Markov Models (Youtube): [https://www.youtube.com/watch?v=TPRoLreU9lA](https://www.youtube.com/watch?v=TPRoLreU9lA)
- + The Double Helix (Documentary about DNA discovery, 17 mins): [https://media.hhmi.org/biointeractive/films/Double_Helix.html]
-(https://media.hhmi.org/biointeractive/films/Double_Helix.html)
+ + The Double Helix (Documentary about DNA discovery, 17 mins): [https://media.hhmi.org/biointeractive/films/Double_Helix.html](https://media.hhmi.org/biointeractive/films/Double_Helix.html)
  + The Chemical Structure of DNA: [https://www.biointeractive.org/classroom-resources/chemical-structure-dna](https://www.biointeractive.org/classroom-resources/chemical-structure-dna)
  + The Structure of DNA: [https://www.youtube.com/watch?v=o_-6JXLYS-k](https://www.youtube.com/watch?v=o_-6JXLYS-k)
  + The definition to 5' end and 3' end of a DNA strand - Simple animated HD: [https://www.youtube.com/watch?v=qWZYpHSXvJo](https://www.youtube.com/watch?v=qWZYpHSXvJo)
