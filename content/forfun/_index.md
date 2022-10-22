@@ -7,8 +7,6 @@ draft: false
 + [:coffee: iTea](/forfun/itea/itea)
 
 
-{{<audio src="/sound/airhorn.mp3" caption="air horn" >}}
-
 ---
 <center>
 <img src="/images/forfun/muybridge_race_horse_animated.gif" alt="Galloping Horse" style="width:300px;"/>
