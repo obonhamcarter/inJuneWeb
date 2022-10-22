@@ -26,6 +26,9 @@ draft: false
 </center>
 
 
++ _The Turning Point (1952)_: The Turning Point is a 1952 American film noir crime film directed by William Dieterle and starring William Holden, Edmond O'Brien and Alexis Smith. It was inspired by the Kefauver Committee's hearings dealing with organized crime.
+{{<youtube fCL4ahTjB0c>}}
+
 
 + _Picture of Dorian Gray (1973)_: The Picture of Dorian Gray is a philosophical novel by Irish writer Oscar Wilde.
 [Read some background from wikipedia](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray).
