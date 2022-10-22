@@ -27,7 +27,7 @@ draft: false
 
 
 + _TheOdd1sOut_: What Your Early Twenties Will Be Like
-{{< youtube 3hw_y9hI_js>}}
+{{<youtube 3hw_y9hI_js>}}
 
 + _Picture of Dorian Gray (1973)_: The Picture of Dorian Gray is a philosophical novel by Irish writer Oscar Wilde.
 [Read some background from wikipedia](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray).
@@ -42,11 +42,11 @@ An enchanting tail of a young couple who finally discover each other during a no
 + _Undertow (1949) Film noir_
 Undertow 1949 full movie. Scott Brady stars in this film noir crime drama as an ex gangster from Chicago who has gone straight but ends up framed for the hit on a powerful mob boss.
 [Read some background from wikipedia](https://en.wikipedia.org/wiki/Undertow_(1949_film))
-{{< youtube 5s-sSHplXRc >}}
+{{<youtube 5s-sSHplXRc>}}
 
 
 + _Horror Express_: One of the most scary films I ever thought I would care about. [Read some background from wikipedia ](https://en.wikipedia.org/wiki/Horror_Express).
-{{< youtube 4LCtzLEebBI >}}
+{{<youtube 4LCtzLEebBI>}}
 
 ---
 
