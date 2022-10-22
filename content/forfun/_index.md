@@ -25,10 +25,12 @@ draft: false
 &#x200B;
 </center>
 
-+ _Picture of Dorian Gray (1973)_: The Picture of Dorian Gray is a philosophical novel by Irish writer Oscar Wilde. A shorter novella-length version was published in the July 1890 issue of the American periodical Lippincott's Monthly Magazine. The novel-length version was published in April 1891.
 
-The story revolves around a portrait of Dorian Gray painted by Basil Hallward, a friend of Dorian's and an artist infatuated with Dorian's beauty. Through Basil, Dorian meets Lord Henry Wotton and is soon enthralled by the aristocrat's hedonistic worldview: that beauty and sensual fulfillment are the only things worth pursuing in life. Newly understanding that his beauty will fade, Dorian expresses the desire to sell his soul, to ensure that the picture, rather than he, will age and fade. The wish is granted, and Dorian pursues a libertine life of varied amoral experiences while staying young and beautiful; all the while, his portrait ages and visually records every one of Dorian's sins.
-[Read some background from wikipedia ]https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray).
++ _TheOdd1sOut_: What Your Early Twenties Will Be Like
+{{< youtube 3hw_y9hI_js>}}
+
++ _Picture of Dorian Gray (1973)_: The Picture of Dorian Gray is a philosophical novel by Irish writer Oscar Wilde.
+[Read some background from wikipedia]https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray).
 
 {{< youtube p5Khfvkw1lE >}}
 
