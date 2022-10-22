@@ -27,6 +27,10 @@ draft: false
 </center>
 
 
++ _QUARTERMAINE'S TERMS (Edward Fox, John Gielgud) 1987_: Quartermaine's Terms is a play by Simon Gray which won The Cheltenham Prize in 1982. [Read some background from wikipedia](https://en.wikipedia.org/wiki/Quartermaine%27s_Terms#Plot)
+{{<youtube 2guyebo1WDc>}}
+
+
 + _The Turning Point (1952)_: The Turning Point is a 1952 American film noir crime film directed by William Dieterle and starring William Holden, Edmond O'Brien and Alexis Smith. It was inspired by the Kefauver Committee's hearings dealing with organized crime.
 {{<youtube fCL4ahTjB0c>}}
 
