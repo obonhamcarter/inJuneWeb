@@ -29,11 +29,13 @@ draft: false
 
 The story revolves around a portrait of Dorian Gray painted by Basil Hallward, a friend of Dorian's and an artist infatuated with Dorian's beauty. Through Basil, Dorian meets Lord Henry Wotton and is soon enthralled by the aristocrat's hedonistic worldview: that beauty and sensual fulfillment are the only things worth pursuing in life. Newly understanding that his beauty will fade, Dorian expresses the desire to sell his soul, to ensure that the picture, rather than he, will age and fade. The wish is granted, and Dorian pursues a libertine life of varied amoral experiences while staying young and beautiful; all the while, his portrait ages and visually records every one of Dorian's sins.
 [Read some background from wikipedia ]https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray).
+
 {{< youtube p5Khfvkw1lE >}}
 
 
 + _Plan 9 From Outer Space (1959)_
 An enchanting tail of a young couple who finally discover each other during a noisy summer of hopes, dreams and unusual failures. Nah; Just kidding. Plan 9 from Outer Space is a 1957 American independent science fiction-horror film produced, written, directed, and edited by Ed Wood. The film was shot in black-and-white in November 1956 and had a theatrical preview screening on March 15, 1957, at the Carlton Theatre in Los Angeles (the onscreen title at this time read Grave Robbers from Outer Space). It went into general release on July 22, 1959, in Texas and several other southern states re-titled Plan 9 from Outer Space, before being sold to television in 1961.
+
 {{< youtube Ln7WF78PolA >}}
 
 
