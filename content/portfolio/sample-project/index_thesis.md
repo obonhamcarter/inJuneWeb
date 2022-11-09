@@ -36,8 +36,12 @@ We apply this framework to study the signals to learn about protein stress respo
 * Links to Supporting documents
   + __Modeling the Effects of Microgravity On Oxidation in Mitochondria: A Protein Damage Assessment Across a Diverse Set of Life. We study the content of regions which are likely causes to protein failure in protein.__ We find that mitochondria has some protection against protein failure which is not detected in non-mitochondrial protein.
     - [microgravity slides](/talks/microgravity_i.pdf)
+    - [Paper](https://www.researchgate.net/publication/259356146_Modeling_the_Effects_of_Microgravity_On_Oxidation_in_Mitochondria_A_Protein_Damage_Assessment_Across_a_Diverse_Set_of_Life_Forms)
 
   + __sEncrypt: An Encryption Tool using biological data to encrypt information.__ We propose a conceptual encryption framework which uses the wealth of data available from bioinformatics research projects (DNA, codon bias tables for specific organisms) to render plain text unreadable. The plain text is recovered with the knowledge of which data was used. Since there is so much data available form so many different research projects, the text may never be recovered without specific information. Furthermore, since biology does not follow logical rules, brute-force approaches may prove ineffective in this system. 
       - [sencrypt slides](/talks/sencrypt.pdf)
+      - [Paper](https://www.researchgate.net/publication/261313485_sEncrypt_An_Encryption_Algorithm_Inspired_From_Biological_Processes)
+
   + __Post-translational modification bias between organism complexity: Trends observed across diverse lifeforms__ In this work, we ask how are the Post-translational modification (PTMs) distributions are different between the mitochondria (Mt) and non-Mt proteomes. We then ask, how are the PTM reactive site distributions different between the Mt and non-Mt proteomes? And, yes, there was a difference in distributions!
       - [newcomplexity slides](/talks/newcomplexity_ii_capstone.pdf)
+      - [Paper](https://www.researchgate.net/publication/268223779_Evidence_of_post_translational_modification_bias_extracted_from_the_tRNA_and_corresponding_amino_acid_interplay_across_a_set_of_diverse_organisms)
