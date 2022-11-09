@@ -27,10 +27,17 @@ We apply this framework to study the signals to learn about protein stress respo
 
 ---
 
-Links
+## Selected Readings
 
----
+* Links to Project Documents
+  + View the [Presentation](/images/gradschool/watersedge_defense.pdf)
+  + Read the [Thesis](https://digitalcommons.unomaha.edu/studentwork/2905/)
 
-+ View the [Presentation](/images/gradschool/watersedge_defense.pdf)
+* Links to Supporting documents
+  + __Modeling the Effects of Microgravity On Oxidation in Mitochondria: A Protein Damage Assessment Across a Diverse Set of Life. We study the content of regions which are likely causes to protein failure in protein.__ We find that mitochondria has some protection against protein failure which is not detected in non-mitochondrial protein.
+    - [microgravity slides](/talks/microgravity_i.pdf)
 
-+ Read the [Thesis](https://digitalcommons.unomaha.edu/studentwork/2905/)
+  + __sEncrypt: An Encryption Tool using biological data to encrypt information.__ We propose a conceptual encryption framework which uses the wealth of data available from bioinformatics research projects (DNA, codon bias tables for specific organisms) to render plain text unreadable. The plain text is recovered with the knowledge of which data was used. Since there is so much data available form so many different research projects, the text may never be recovered without specific information. Furthermore, since biology does not follow logical rules, brute-force approaches may prove ineffective in this system. 
+      - [sencrypt slides](/talks/sencrypt.pdf)
+  + __Post-translational modification bias between organism complexity: Trends observed across diverse lifeforms__ In this work, we ask how are the Post-translational modification (PTMs) distributions are different between the mitochondria (Mt) and non-Mt proteomes. We then ask, how are the PTM reactive site distributions different between the Mt and non-Mt proteomes? And, yes, there was a difference in distributions!
+      - [newcomplexity slides](/talks/newcomplexity_ii_capstone.pdf)
