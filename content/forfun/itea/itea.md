@@ -55,6 +55,3 @@ draft: false
 [:coffee:]
 [:coffee:]
 [:coffee:]
-
-
-
