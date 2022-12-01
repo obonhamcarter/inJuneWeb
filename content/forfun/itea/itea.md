@@ -19,6 +19,8 @@ draft: false
 [:coffee:]
 [:coffee:]
 [:coffee:]
+[:coffee:]
+[:coffee:]
 
 
 ![/images/forfun/itea_2022.png](/images/forfun/itea_2022.png)
@@ -36,8 +38,6 @@ draft: false
 &#x200B;
 </center>
 
-[:coffee:]
-[:coffee:]
 [:coffee:]
 [:coffee:]
 [:coffee:]
