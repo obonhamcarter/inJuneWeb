@@ -27,6 +27,10 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
  + BioPython [http://biopython.org/DIST/docs/tutorial/Tutorial.html](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
 
 #### Tools
+
+ + The Lung Endothelial Cell Atlas [http://www.lungendothelialcellatlas.com](http://www.lungendothelialcellatlas.com)
+ + The COPD Cell Atlas [http://www.copdcellatlas.com](http://www.copdcellatlas.com)
+ + The COVID Cell Atlas: [http://www.covidcellatlas.com](http://www.covidcellatlas.com)
  + Idiopathic Pulmonary Fibrosis Cell Atlas: [http://www.ipfcellatlas.com/](http://www.ipfcellatlas.com/)
  + Codon Usage Database: [https://www.kazusa.or.jp/codon/](https://www.kazusa.or.jp/codon/)
  + The Comprehensive Antibiotic Resistance Database: [https://card.mcmaster.ca/](https://card.mcmaster.ca/)
