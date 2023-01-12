@@ -4,6 +4,12 @@ description: OBC, I am
 images: ["/images/flintAndMe2.jpg"]
 ---
 
+<img src="/images/main/starComputing3.jpg" alt="computing under the stars" width="100"/>
+
+<!-- add a line drop -->
+<center>
+&#x200B;
+</center>
 
 #### Office Hours
 

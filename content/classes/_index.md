@@ -4,11 +4,15 @@ description: 'Classes Section'
 ---
 ### So, what _**do**_ I teach here?
 
+<img src="/images/main/starComputing1.jpg" alt="computing under the stars" width="100"/>
+
+<!-- <img src="/images/main/starComputing1.jpg" alt="computing under the stars" width="100" height="400"/> -->
+
 
 <!-- add a line drop -->
-<!-- <center>
+<center>
 &#x200B;
-</center> -->
+</center>
 
 #### This semester
  + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
