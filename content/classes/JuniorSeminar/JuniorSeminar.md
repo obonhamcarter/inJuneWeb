@@ -7,7 +7,6 @@ draft: false
 
 <img src="/images/juniorseminar/cogs.png" alt="drawing" width="100" height="200"/>
 
-
 ### Academic Bulletin Description
 
 A team-based investigation of select topics in computer science, preparing students for the proposal and completion of a senior project. Working in teams to complete hands-on activities, students learn how to read research papers, state and motivate research questions, design and conduct experiments, and collect and organize evidence for evaluating scientific hypotheses. During a weekly laboratory session students use state-of-the-art technology to gain practical skills in scientific and technical writing, the presentation of computational and mathematical concepts, and the visualization of experimental data. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: CMPSC 101 and at least one of the Fundamentals courses.
