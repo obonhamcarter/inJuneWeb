@@ -15,6 +15,7 @@ description: 'Classes Section'
 </center>
 
 #### This semester
+
  + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
  + [:woman_climbing: Junior Seminar](/classes/juniorseminar/juniorseminar/)
 
@@ -26,6 +27,7 @@ description: 'Classes Section'
 </center> -->
 
 #### Other semesters
+
  + [:compass: Academic Discord](/classes/academicdiscord/academicdiscord/)
  + [:thread: Database Systems](/classes/databasesystems/databasesystems/)
  + [:computer_disk: Operating Systems](/classes/operatingsystems/operatingsystems/)
