@@ -7,10 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Oliver Bonham-Carter</copyright>
-    <lastBuildDate>Fri, 26 Aug 2022 00:42:54 -0400</lastBuildDate>
-    
-	<atom:link href="https://example.com/classes/discretestructures/surveys/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 26 Aug 2022 00:42:54 -0400</lastBuildDate><atom:link href="https://example.com/classes/discretestructures/surveys/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

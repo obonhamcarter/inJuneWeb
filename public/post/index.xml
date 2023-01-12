@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Oliver Bonham-Carter</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate>
-    
-	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started</title>
       <link>https://example.com/post/getting-started/</link>
@@ -28,9 +24,8 @@
       
       <guid>https://example.com/post/portfolio-definition/</guid>
       <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/post/images/portfolio-example.png&#34;
-         alt=&#34;Example of Portfolio page&#34;/&gt; &lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://example.com/post/images/portfolio-example.png&#34;
+         alt=&#34;Example of Portfolio page&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;Example of Portfolio page&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;</description>
@@ -71,7 +66,8 @@
       
       <guid>https://example.com/post/define-specific-og-image/</guid>
       <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
-For example, see content/_index.md page:</description>
+For example, see content/_index.md page:
+images: [&amp;#34;/images/sample.jpg&amp;#34;] </description>
     </item>
     
   </channel>
