@@ -4,6 +4,15 @@ description: 'Classes Section'
 ---
 ### So, what _**do**_ I teach here?
 
+#### This semester
+
+ + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
+ + [:woman_climbing: Junior Seminar](/classes/juniorseminar/juniorseminar/)
+
+<center>
+&#x200B;
+</center>
+
 <img src="/images/main/starComputing1.jpg" alt="computing under the stars" width="100"/>
 
 <!-- <img src="/images/main/starComputing1.jpg" alt="computing under the stars" width="100" height="400"/> -->
@@ -13,13 +22,6 @@ description: 'Classes Section'
 <center>
 &#x200B;
 </center>
-
-#### This semester
-
- + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
- + [:woman_climbing: Junior Seminar](/classes/juniorseminar/juniorseminar/)
-
----
 
 <!-- add a line drop -->
 <!-- <center>
