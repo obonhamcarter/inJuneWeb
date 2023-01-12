@@ -22,12 +22,13 @@ description: 'Classes Section'
 &#x200B;
 </center>
 
-<!-- add a line drop -->
-<!-- <center>
-&#x200B;
-</center> -->
 
 #### However, During Other Semesters, I teach ...
+
+<!-- add a line drop --> 
+<center>
+&#x200B;
+</center>
 
  + [:compass: Academic Discord](/classes/academicdiscord/academicdiscord/)
  + [:thread: Database Systems](/classes/databasesystems/databasesystems/)
