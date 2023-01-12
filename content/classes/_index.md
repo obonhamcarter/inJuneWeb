@@ -4,7 +4,7 @@ description: 'Classes Section'
 ---
 ### So, what _**do**_ I teach here?
 
-#### This semester
+#### This semester, I am teaching ...
 
  + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
  + [:woman_climbing: Junior Seminar](/classes/juniorseminar/juniorseminar/)
@@ -17,7 +17,6 @@ description: 'Classes Section'
 
 <!-- <img src="/images/main/starComputing1.jpg" alt="computing under the stars" width="100" height="400"/> -->
 
-
 <!-- add a line drop -->
 <center>
 &#x200B;
@@ -28,7 +27,7 @@ description: 'Classes Section'
 &#x200B;
 </center> -->
 
-#### Other semesters
+#### However, During Other Semesters, I teach ...
 
  + [:compass: Academic Discord](/classes/academicdiscord/academicdiscord/)
  + [:thread: Database Systems](/classes/databasesystems/databasesystems/)
