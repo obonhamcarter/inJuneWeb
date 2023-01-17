@@ -8,7 +8,7 @@ draft: false
 <img src="/images/dataanalytics/volcano.png" alt="drawing" width="100" height="400"/>
 
 
-### AAAcademic Bulletin Description
+### Academic Bulletin Description
 
 An introduction to computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to extract knowledge from, for instance, financial, political, and scientific sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting computational techniques. During a weekly laboratory session, students use state-of-the-art statistical software to complete projects, reporting on their findings through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: FS*102 or FS*200, or permission of the instructor. Distribution Requirements: QR, PD.
 
