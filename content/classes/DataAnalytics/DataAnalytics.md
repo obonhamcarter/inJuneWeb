@@ -128,4 +128,4 @@ TBA
 
 ### Ungraded Class Activities
 
- + [:sparkles: Activity 01](/classes/dataanalytics/activity01)
+ + [:sparkles: Activity 01](/base/dataanalytics/activity01)
