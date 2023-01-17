@@ -82,6 +82,7 @@ TBA
 * Software (Installations)
   + [RStudio](https://posit.co/)
   + [The R Programming Language](https://cran.rstudio.com/)
+  + [Python Programming Language](https://www.python.org/downloads/)
 * Free Data for projects
 
   + [Pelletier Library at Allegheny College (online services)](https://allegheny.libguides.com/az.php)
