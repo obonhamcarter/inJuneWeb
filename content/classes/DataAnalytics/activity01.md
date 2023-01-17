@@ -553,4 +553,4 @@ ocean	2
 
 ```
 
-__Were you able to figure it out without computational tools?[!](/classes/dataanalytics/activity01_sols))__
+<u>Were you able to figure it out without computational tools?[!](/classes/dataanalytics/activity01_sols))</u>
