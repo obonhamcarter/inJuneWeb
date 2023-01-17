@@ -81,7 +81,7 @@ TBA
 
 * Software (Installations)
   + [RStudio](https://posit.co/)
-  + [The R Programming Language](https://cran.rstudio.com/)
+  + [R Programming Language](https://cran.rstudio.com/)
   + [Python Programming Language](https://www.python.org/downloads/)
 * Free Data for projects
 
