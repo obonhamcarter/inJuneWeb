@@ -8,7 +8,7 @@ draft: false
 <img src="/images/dataanalytics/volcano.png" alt="drawing" width="100" height="400"/>
 
 
-### Academic Bulletin Description
+### AAAcademic Bulletin Description
 
 An introduction to computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to extract knowledge from, for instance, financial, political, and scientific sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting computational techniques. During a weekly laboratory session, students use state-of-the-art statistical software to complete projects, reporting on their findings through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: FS*102 or FS*200, or permission of the instructor. Distribution Requirements: QR, PD.
 
@@ -81,13 +81,15 @@ TBA
 
 ### Resources
 
-* Software 
+* Software
+
   + Installations
 
     - [RStudio](https://posit.co/)
     - [R Programming Language](https://cran.rstudio.com/)
     - [Python Programming Language](https://www.python.org/downloads/)
     - [Git For Windows](https://gitforwindows.org/)
+
   + Online Tools
 
     - [Online R programming](https://www.jdoodle.com/execute-r-online/)
@@ -98,6 +100,7 @@ TBA
     - [Setting up Git](https://swcarpentry.github.io/git-novice/02-setup/index.html)
     - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
     - [11 Best VS Code extensions for Python (2022)](https://towardsthecloud.com/best-vscode-extensions-python)
+    
 * Free Data for projects
 
   + [Pelletier Library at Allegheny College (online services)](https://allegheny.libguides.com/az.php)
@@ -120,3 +123,9 @@ TBA
   + [Kaggle's Star Trek Scripts (Could be a cool idea!)](https://www.kaggle.com/gjbroughton/start-trek-scripts)
   + [Project Gutenberg: Free eBooks](https://www.gutenberg.org/)
   + [And many more that you may conveniently find using online searches. Please remember to cite your data in your report; giving the name and its web address.
+
+---
+
+### Activity
+
+ + [:woman_climbing: Data Analytics](/classes/dataanalytics/activity01)

@@ -6,7 +6,7 @@ description: 'Classes Section'
 
 #### This semester, I am teaching ...
 
- + [:bar_chart: Data Analytics](/classes/dataanalytics/dataanalytics/)
+ + [:bar_chart: Data Analytics](/classes/dataanalytics/)
  + [:woman_climbing: Junior Seminar](/classes/juniorseminar/juniorseminar/)
 
 <center>
