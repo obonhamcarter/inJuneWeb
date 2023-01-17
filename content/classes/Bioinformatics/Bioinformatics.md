@@ -77,4 +77,6 @@ Alden Hall, 109 Lab
 
 ### Resources
 
-  + [:dna: Bioinformatics](/resources/bioinformatics_resources/)
+  + [:dna: Main page for BioInfo resources](/resources/bioinformatics_resources/)
+### Resources
+
