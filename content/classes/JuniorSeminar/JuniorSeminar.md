@@ -105,3 +105,7 @@ TBA
   + [Kaggle's Star Trek Scripts (Could be a cool idea!)](https://www.kaggle.com/gjbroughton/start-trek-scripts)
   + [Project Gutenberg: Free eBooks](https://www.gutenberg.org/)
   + [And many more that you may conveniently find using online searches. Please remember to cite your data in your report; giving the name and its web address.
+
+### Ungraded Class Activities
+
+ + [:sparkles: Survey01](https://forms.gle/dGFrHhZEeVTGquHb9)
