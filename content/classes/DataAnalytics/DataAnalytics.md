@@ -81,10 +81,23 @@ TBA
 
 ### Resources
 
-* Software (Installations)
-  + [RStudio](https://posit.co/)
-  + [R Programming Language](https://cran.rstudio.com/)
-  + [Python Programming Language](https://www.python.org/downloads/)
+* Software 
+  + Installations
+
+    - [RStudio](https://posit.co/)
+    - [R Programming Language](https://cran.rstudio.com/)
+    - [Python Programming Language](https://www.python.org/downloads/)
+    - [Git For Windows](https://gitforwindows.org/)
+  + Online Tools
+
+    - [Online R programming](https://www.jdoodle.com/execute-r-online/)
+
+  + Tutorials
+
+    - [Setting Up Git on Linux](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04)
+    - [Setting up Git](https://swcarpentry.github.io/git-novice/02-setup/index.html)
+    - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+    - [11 Best VS Code extensions for Python (2022)](https://towardsthecloud.com/best-vscode-extensions-python)
 * Free Data for projects
 
   + [Pelletier Library at Allegheny College (online services)](https://allegheny.libguides.com/az.php)
