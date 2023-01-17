@@ -30,13 +30,13 @@ Spring 2023
 Main Campus
 
 T/Th 9:30 AM - 10:45 AM
-1/17/2023 - 5/9/2023
+17 Jan 2023 - 9 May 2023
 Alden Hall, 101 Lecture
 
 #### Labs:
 
 M 2:30 PM - 4:20 PM
-1/17/2023 - 5/9/2023
+17 Jan 2023 - 9 May 2023
 Alden Hall, 101 Lab
 
 ### Calendar
