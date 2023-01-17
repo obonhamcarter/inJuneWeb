@@ -126,6 +126,6 @@ TBA
 
 ---
 
-### Activity
+### Ungraded Class Activities
 
- + [:woman_climbing: Data Analytics](/classes/dataanalytics/activity01)
+ + [:sparkles: Activity 01](/classes/dataanalytics/activity01)
