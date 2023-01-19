@@ -4,10 +4,9 @@ date: 2023-01-16T21:00:00-04:00
 draft: false
 ---
 
+# Resources
+
 Welcome to a resources page for Bioinformatics research. Here you will find a list of links for data, tools, tutorials and related resources that may be very helpful to your work.
-
-
-### Resources
 
 * Software
 
@@ -16,7 +15,9 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [RStudio](https://posit.co/)
     - [R Programming Language](https://cran.rstudio.com/)
     - [Python Programming Language](https://www.python.org/downloads/)
-    - [Git For Windows](https://gitforwindows.org/)
+    - [Git for Mac](https://mac.github.com/)
+    - [Git for Windows](https://windows.github.com/)
+    - [Git for all platforms](https://git-scm.com/)
 
   + Online Tools
 

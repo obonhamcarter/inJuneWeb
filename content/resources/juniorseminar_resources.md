@@ -4,13 +4,17 @@ date: 2023-01-19T13:19:26-05:00
 draft: false
 ---
 
+# Resources
 
 Welcome to a resources page for Junior Seminar research. Here you will find a list of links for data, tools, tutorials and related resources that may be very helpful to your work.
 
-
-#### Videos, Skill Builders and Tutorials:
-
 * Software
+    + [RStudio](https://posit.co/)
+    + [R Programming Language](https://cran.rstudio.com/)
+    + [Python Programming Language](https://www.python.org/downloads/)
+    + [Git for Mac](https://mac.github.com/)
+    + [Git for Windows](https://windows.github.com/)
+    + [Git for all platforms](https://git-scm.com/)
 
 * Tutorials
 
