@@ -4,8 +4,6 @@ date: 2022-09-18T21:00:00-04:00
 draft: false
 ---
 
-# Resources
-
 Welcome to a resources page for Bioinformatics research. Here you will find a list of links for data, tools, tutorials and related resources that may be very helpful to your work.
 
 * TCoffee: [http://tcoffee.crg.cat/apps/tcoffee/tutorial.html](http://tcoffee.crg.cat/apps/tcoffee/tutorial.html)

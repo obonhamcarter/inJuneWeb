@@ -4,8 +4,6 @@ date: 2023-01-16T21:00:00-04:00
 draft: false
 ---
 
-# Resources
-
 Welcome to a resources page for Bioinformatics research. Here you will find a list of links for data, tools, tutorials and related resources that may be very helpful to your work.
 
 * Software

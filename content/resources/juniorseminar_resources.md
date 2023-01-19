@@ -1,10 +1,9 @@
 ---
-title: "Junior Seminar resources"
+title: "Junior Seminar Resources"
 date: 2023-01-19T13:19:26-05:00
 draft: false
 ---
 
-# Resources
 
 Welcome to a resources page for Junior Seminar research. Here you will find a list of links for data, tools, tutorials and related resources that may be very helpful to your work.
 
