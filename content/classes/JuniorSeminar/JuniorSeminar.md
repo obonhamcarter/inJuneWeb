@@ -86,7 +86,7 @@ TBA
 
 ### Resources
 
-[:woman_climbing: Main page for DA resources](/resources/) 
+[:woman_climbing: Main page for resources](/resources/) 
 
 ### Ungraded Class Activities
 

@@ -83,7 +83,7 @@ TBA
 
 ### Resources
 
-[:bar_chart: Main page for DA resources](/resources/) 
+[:bar_chart: Main page for resources](/resources/) 
 
 ---
 
