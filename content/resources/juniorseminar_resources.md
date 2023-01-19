@@ -1,5 +1,5 @@
 ---
-title: "Juniorseminar"
+title: "Junior Seminar Resources"
 date: 2023-01-19T12:57:01-05:00
 draft: true
 ---
