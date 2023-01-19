@@ -83,7 +83,7 @@ TBA
 
 ### Resources
 
-[:bar_chart: Main page for DA resources](/resources/dataanalytics_resources) 
+[:bar_chart: Main page for DA resources](/resources/) 
 
 ---
 
