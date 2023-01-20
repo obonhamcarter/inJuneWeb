@@ -6,6 +6,10 @@
     <description>Recent content in Techs on I, Oliver Bonham-Carter, In June</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Oliver Bonham-Carter</copyright><atom:link href="https://example.com/techs/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Oliver Bonham-Carter</copyright>
+    
+	<atom:link href="https://example.com/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

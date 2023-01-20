@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Oliver Bonham-Carter</copyright>
-    <lastBuildDate>Fri, 26 Aug 2022 00:42:54 -0400</lastBuildDate><atom:link href="https://example.com/classes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Aug 2022 00:42:54 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/classes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Academic Discord</title>
       <link>https://example.com/classes/academicdiscord/academicdiscord/</link>
@@ -32,7 +36,7 @@
       <pubDate>Sun, 26 Jun 2022 13:25:33 -0400</pubDate>
       
       <guid>https://example.com/classes/dataanalytics/dataanalytics/</guid>
-      <description>CMPSC-301-00: Data Analytics Academic Bulletin Description An introduction to computational and analytical methods for finding patterns in large data sets. Using statistical procedures that they design and implement in programming environments, students extract knowledge from financial, political, scientific, and other data sources, exploring the issues of power and privilege that emerge from their discoveries. Students also learn to contrast their own perspectives with the ones identified by their analyses, reflecting on the ethical consequences of using the power that originates from computationally derived knowledge.</description>
+      <description>CMPSC-301-00: Data Analytics Academic Bulletin Description An introduction to computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to extract knowledge from, for instance, financial, political, and scientific sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting computational techniques.</description>
     </item>
     
     <item>
