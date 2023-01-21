@@ -29,12 +29,25 @@ Below is code to create a website and then to add posts (blogs) to the project. 
 
 ### Creating a Web Site
 
-* `hugo new site myAnubisThemeSite`
-* Get the site ready to add to github: `git init`
+* Create the new site with the command.
+
+``` bash
+hugo new site myAnubisThemeSite
+```
+
+* Get the site ready to add to github.
+
+``` bash
+git init
+```
 
 #### Adding Posts
 
-* Add a directory "Post" and place in it a Markdown file post1.md: `hugo new /post/post1.md`
+* Add a directory "Post" and place in it a Markdown file post1.md.
+
+``` bash
+hugo new /post/post1.md
+```
 
 #### Theme
 You could use seemingly any theme that you want to use -- there are [quite a lot available](https://themes.gohugo.io/). In this tutorial, we will use a simple one called [Anubis](https://github.com/mitrichius/hugo-theme-anubis) that will provide a basic page by page view of notes. 
