@@ -79,7 +79,7 @@ Alden Hall, 101 Lab
 
 ### Grade book Repository
 
-TBA
+* [GradeBook repository](https://classroom.github.com/a/9QhtvWWZ)
 
 ### Resources
 
