@@ -1,5 +1,5 @@
 ---
-title: "Hugo Sites and a Theme"
+title: "Build a Hugo Site with a Theme"
 date: 2023-01-20T18:28:30-05:00
 draft: false
 ---
