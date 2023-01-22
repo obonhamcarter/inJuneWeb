@@ -20,9 +20,12 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Python for Biologists](https://www.pythonforbiologists.org/)
     - [BioPython](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
 
-  + Online Tools
+  + Online
 
     - [Online R programming](https://www.jdoodle.com/execute-r-online/)
+
+* Articles
+    - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
   + Tutorials
     - [Allegheny College Department of Computer Science tutorials](https://www.youtube.com/playlist?list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)

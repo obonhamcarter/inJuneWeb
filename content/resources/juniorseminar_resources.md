@@ -26,6 +26,7 @@ Welcome to a resources page for Junior Seminar research. Here you will find a li
     - [Luman's ssh keys video tutorial](https://www.youtube.com/watch?v=qEPjUGQFmzQ&list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
 
 * Articles
+    - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
 * Data
 
