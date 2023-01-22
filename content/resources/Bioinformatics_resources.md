@@ -31,7 +31,9 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Setting up Git](https://swcarpentry.github.io/git-novice/02-setup/index.html)
     - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
     - [11 Best VS Code extensions for Python (2022)](https://towardsthecloud.com/best-vscode-extensions-python)
-    
+    - [ssh keys](https://www.ssh.com/ssh/keygen/)
+    - [Luman's ssh keys video tutorial](https://www.youtube.com/watch?v=qEPjUGQFmzQ&list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
+
 * Tools
 
   + TCoffee: [http://tcoffee.crg.cat/apps/tcoffee/tutorial.html](http://tcoffee.crg.cat/apps/tcoffee/tutorial.html)
