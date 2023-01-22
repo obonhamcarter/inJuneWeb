@@ -16,6 +16,12 @@ Welcome to a resources page for Junior Seminar research. Here you will find a li
     + [Git for all platforms](https://git-scm.com/)
 
 * Tutorials
+    - [Allegheny College Department of Computer Science tutorials](https://www.youtube.com/playlist?list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
+    - [Coding Train's Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+    - [Setting Up Git on Linux](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04)
+    - [Setting up Git](https://swcarpentry.github.io/git-novice/02-setup/index.html)
+    - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+    - [11 Best VS Code extensions for Python (2022)](https://towardsthecloud.com/best-vscode-extensions-python)
 
 * Articles
 
