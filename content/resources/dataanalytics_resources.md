@@ -22,7 +22,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Online R programming](https://www.jdoodle.com/execute-r-online/)
 
   + Tutorials
-
+    - [Coding Trains's Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
     - [Setting Up Git on Linux](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04)
     - [Setting up Git](https://swcarpentry.github.io/git-novice/02-setup/index.html)
     - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
