@@ -15,10 +15,11 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Git for Mac](https://mac.github.com/)
     - [Git for Windows](https://windows.github.com/)
     - [Git for all platforms](https://git-scm.com/)
-    
+
   + Online Tools
     - [Online R programming](https://www.jdoodle.com/execute-r-online/)
     - [Snippets -- Run any R code you line online](https://rdrr.io/snippets/)
+    
 * Articles
     - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
