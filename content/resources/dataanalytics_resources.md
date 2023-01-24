@@ -30,6 +30,9 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [11 Best VS Code extensions for Python (2022)](https://towardsthecloud.com/best-vscode-extensions-python)
     - [ssh keys](https://www.ssh.com/ssh/keygen/)
     - [Luman's ssh keys video tutorial](https://www.youtube.com/watch?v=qEPjUGQFmzQ&list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
+    - [Machine Learning in R for beginners](https://www.datacamp.com/tutorial/machine-learning-in-r)
+
+
 
 * Free Data for projects
 

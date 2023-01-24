@@ -17,13 +17,9 @@ draft: false
 [:coffee:]
 [:coffee:]
 [:coffee:]
-[:coffee:]
-[:coffee:]
-[:coffee:]
-[:coffee:]
 
 
-![/images/forfun/itea_2022.png](/images/forfun/itea_2022.png)
+![/images/forfun/itea_spring2023.jpg](/images/forfun/itea_spring2023.jpg)
 
 <center>
    <font size="9">Come join in the fun!! </font> 
@@ -38,10 +34,6 @@ draft: false
 &#x200B;
 </center>
 
-[:coffee:]
-[:coffee:]
-[:coffee:]
-[:coffee:]
 [:coffee:]
 [:coffee:]
 [:coffee:]
