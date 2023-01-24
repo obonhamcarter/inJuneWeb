@@ -6,6 +6,15 @@ draft: false
 
 Welcome to a resources page for Bioinformatics research. Here you will find a list of links for data, tools, tutorials and related resources that may be very helpful to your work.
 
+<iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
+
+
+<!-- add a line drop -->
+<center>
+&#x200B;
+</center>
+
+
 * Software
   + Installations
 
@@ -19,7 +28,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
   + Online Tools
     - [Online R programming](https://www.jdoodle.com/execute-r-online/)
     - [Snippets -- Run any R code you line online](https://rdrr.io/snippets/)
-    
+
 * Articles
     - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
