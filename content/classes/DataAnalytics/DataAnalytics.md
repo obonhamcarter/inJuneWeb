@@ -22,7 +22,7 @@ In order to acquire the proper skills in technical writing, critical reading, an
 
 If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#dataanalytics`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
 
-[Invite link (active until 24 Jan 2023)](https://discord.gg/C4YGgFd5)
+[Invite link (active until 1 Feb 2023)](https://discord.gg/u7qfs7gG)
 
 ### Meeting Information:
 
