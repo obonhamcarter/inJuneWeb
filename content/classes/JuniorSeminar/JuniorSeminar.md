@@ -78,7 +78,7 @@ Alden Hall, 109 Lab
 
 ### classDocs/ Repository
 
-* [classDocs/ at GitHub](https://github.com/CMPSC-301-Allegheny-College-Spring-2023/classDocs)
+* [classDocs/ at GitHub](https://github.com/CMPSC-580-Allegheny-College-Spring-2023/classDocs)
 
 ### Grade book Repository
 
