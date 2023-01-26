@@ -6,8 +6,11 @@ draft: false
 
 Welcome to a resources page for Bioinformatics research. Here you will find a list of links for data, tools, tutorials and related resources that may be very helpful to your work.
 
-<iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
+---
 
+<iframe width='100%' height='800' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
+
+---
 
 <!-- add a line drop -->
 <center>

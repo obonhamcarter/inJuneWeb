@@ -5,7 +5,7 @@ draft: false
 ---
 
 <center>
-<img src="/images/main/futuristic.png" alt="logo" style="width:500px;"/>
+<img src="/images/main/futuristic.png" alt="logo" style="width:400px;"/>
 </center>
 
 <!-- ![logo](/images/main/futuristic.png) -->

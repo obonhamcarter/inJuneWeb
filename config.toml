@@ -108,7 +108,6 @@ pygmentsCodeFences=true
    url = "/projects/"
    weight = -110
 
-
  [[menu.main]]
    identifier = "Resources"
    name = "Resources"
@@ -121,9 +120,14 @@ pygmentsCodeFences=true
    name = "iTea"
    title = "iTea"
    url = "/forfun/itea/itea"
-   weight = -100
+   weight = -90
 
-
+[[menu.main]]
+   identifier = "OutReach"
+   name = "OutReach"
+   title = "OutReach"
+   url = "/outreach/"
+   weight = -80
 
 [sitemap]
   changefreq = "monthly"
