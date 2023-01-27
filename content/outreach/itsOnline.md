@@ -10,6 +10,8 @@ Welcome! Here, you will find a list of interactive Data Analytics resources. Com
   + [How Music Taste Evolved](https://pudding.cool/2017/03/music-history/)
   + [How Billboard’s Top Hits Changed](https://pudding.cool/projects/music-history/)
   + [Largest Vocabulary in Hip Hop](https://pudding.cool/projects/vocabulary/)
+  + [Interactive Info Visualization of Spotify Music Genre Overtime](https://observablehq.com/@ca25d09366015836/csc-485-final-project-report)
+  + [Exploratory Data Analysis of Various Music Datasets](https://observablehq.com/@uw-info474/exploratory-data-analysis-of-various-music-datasets)
 
 * __Library__
   + [New York Public Library](https://www.nypl.org/research/collections/digital-collections/public-domain)
@@ -40,3 +42,4 @@ Welcome! Here, you will find a list of interactive Data Analytics resources. Com
   + [WPdatatables](https://wpdatatables.com/interactive-data-visualization/)
   + [10 Must-Read Data Analytics Websites](https://www.anodot.com/blog/top-10-analytics-websites/)
   + [The Best Data Visualization Tools Of 2023](https://www.forbes.com/advisor/business/software/best-data-visualization-tools/)
+  + [The 5 Most Creative Music Visualization](https://datalion.com/the-five-most-creative-music-visualizations/)
