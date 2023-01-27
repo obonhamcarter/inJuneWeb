@@ -17,8 +17,10 @@ draft: false
 
 # Welcome! 
 
-On this page, you will find some beginner resources for getting aquatinted with data, data analytics and research. In effect, you can make your own tracks in to research project without writing a single line of code. I hope you enjoy your stay!
+On these pages, you will find some beginner resources for getting acquainted with data analytics, information and research. 
 
----
+This part of the site is a work in progress. As you click through the pages, you will note that each page has a specific theme which addresses a particular element of analysis (visualizations, programming, data collection and similar).
 
-### Descriptions of works
+I hope you enjoy your stay here, and that you will let me know of any ideas that you may have that may improve the comprehension, programming, technique of these pages.
+
+### Themes
