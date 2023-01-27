@@ -28,7 +28,8 @@ Welcome! Here, you will find a list of interactive Data Analytics resources. Com
   + [https://ourworldindata.org/co2-emissions](https://opencellid.org/#zoom=12&lat=44.8177&lon=20.4568)
   + [Virus Explorer](https://www.biointeractive.org/classroom-resources/virus-explorer)
   + [Steer through the Suez Canal](https://edition.cnn.com/interactive/2021/03/cnnix-steership/)
-  + [Satellites Orbiting Earth](https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth)*  - [Every Satellite Orbiting Earth and Who Owns Them](https://dewesoft.com/daq/every-satellite-orbiting-earth-and-who-owns-them)
+  + [Satellites Orbiting Earth](https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth)*  
+  + [Every Satellite Orbiting Earth and Who Owns Them](https://dewesoft.com/daq/every-satellite-orbiting-earth-and-who-owns-them)
   + [The Colors of Motion](https://thecolorsofmotion.com/)
   + [Interactive Real-Time Map of Berlin Traffic](https://www.vbb.de/fahrinfo)
   + [COVID-19 Vaccination Tracker](https://ourworldindata.org/covid-vaccinations)
