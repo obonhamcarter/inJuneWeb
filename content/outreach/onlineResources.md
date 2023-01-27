@@ -4,6 +4,16 @@ date: 2023-01-25T21:30:44-05:00
 draft: false
 ---
 
+<!-- add a line drop -->
+<center>
+&#x200B;
+</center>
+
+<center>
+<img src="/images/outreach/bluePlot.jpg" alt="Futuristic Classrooms" style="width:700px;"/>
+<!-- <img src="/images/outreach/fc1.jpg" alt="Futuristic Classrooms" width = "600" height = "600"/> -->
+
+
 Welcome! Here, you will find a list of interactive Data Analytics resources. Come play with data without having to write a line of code!
 
 * __Music__
