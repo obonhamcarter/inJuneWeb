@@ -21,4 +21,4 @@ On this page, you will find some beginner resources for getting aquatinted with 
 
 ---
 
-### Descriptions of works. 
+### Descriptions of works
