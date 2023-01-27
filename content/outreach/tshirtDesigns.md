@@ -1,8 +1,9 @@
 ---
 title: "Which design of t-shirt?!"
 date: 2023-01-25T21:30:44-05:00
-draft: false
+draft: true
 ---
+
 Welcome! Here, we will collect some data from the members of the classroom. We will then put that data into computer code and prepare some plots of the 
 
 

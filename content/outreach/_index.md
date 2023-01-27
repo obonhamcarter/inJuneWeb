@@ -4,8 +4,6 @@ description: 'OutReach Section'
 draft: false
 ---
 
-
-
 <!-- add a line drop -->
 <center>
 &#x200B;
@@ -19,8 +17,7 @@ draft: false
 
 # Welcome! 
 
-On this page, you will find a series of short tutorials that are designed to give you a taste of what data analytics research is all about. While the problems that we work on here may not be giant, the ideas that you might have after running the experiments may allow help you move mountains. I hope you enjoy your stay!
-
+On this page, you will find some beginner resources for getting aquatinted with data, data analytics and research. In effect, you can make your own tracks in to research project without writing a single line of code. I hope you enjoy your stay!
 
 ---
 

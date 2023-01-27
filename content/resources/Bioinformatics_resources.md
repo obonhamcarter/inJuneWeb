@@ -38,7 +38,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Luman's ssh keys video tutorial](https://www.youtube.com/watch?v=qEPjUGQFmzQ&list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
 
 * Tools
-
+  + [Virus Explorer](https://www.biointeractive.org/classroom-resources/virus-explorer)
   + TCoffee: [http://tcoffee.crg.cat/apps/tcoffee/tutorial.html](http://tcoffee.crg.cat/apps/tcoffee/tutorial.html)
   + Hidden Markov Models (Youtube): [https://www.youtube.com/watch?v=TPRoLreU9lA](https://www.youtube.com/watch?v=TPRoLreU9lA)
   + The Double Helix (Documentary about DNA discovery, 17 mins): [https://media.hhmi.org/biointeractive/films/Double_Helix.html](https://media.hhmi.org/biointeractive/films/Double_Helix.html)
