@@ -56,6 +56,6 @@ Make an appointment during my office-hours and I would be happy to help you with
 
 
 
-[Wanna see the About/ page?!](/about)
+[Wanna see the About/ page?!](/contactandabout/)
 
 ---
