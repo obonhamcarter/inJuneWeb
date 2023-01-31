@@ -43,7 +43,12 @@ hugo new site myAnubisThemeSite
 
 * Create a GitHub repository using your campus email to host your web site project. Get the site ready to add to github. If you want to skip this part for now, be sure to at least initialize your project using `git init`.
 
-## Adding Posts
+## Note: 
+To see site in a fully prepared state, copy the files from `themes/anubis/exampleSite/config.toml` into your root directory and simply edit the `config.toml` file, in addition to the posts. If you want to see how to create a web site from scratch, keep reading.
+
+
+
+## Adding posts
 
 * Add a directory "Post" and place in it a Markdown file `post1.md`.
 
@@ -51,7 +56,7 @@ hugo new site myAnubisThemeSite
 hugo new post/post1.md
 ```
 
-### Modify Your Post
+### Modify your post
 
 Use your favorite editor to modify file that you just created. 
 
@@ -78,12 +83,10 @@ You may not be able to see much until you have installed your theme to control t
 Add a submodule of the theme to `themes/` directory. Note adding repository as a submodule allows us to embed a GitHub project within another GitHub project. Git does not like multiple `.git` directories in a project.
 
 ```bash
-git submodule add 
-  https://github.com/mitrichius/hugo-theme-anubis.git
-  themes/anubis
+git submodule add https://github.com/mitrichius/hugo-theme-anubis.git themes/anubis
 ```
 
-### Connect site to a theme: Add the following to `confit.toml`
+### Connect site to a theme: Add the following to `config.toml`
 
 ``` bash
 baseURL = "http://example.org/"
@@ -92,7 +95,7 @@ title = "My Amazing Site!"
 theme = "anubis"
 ```
 
-### Add a Menu System: Add the following to `confit.toml`
+### Add a Menu System: Add the following to `config.toml`
 
 Note, you can add as many menu items as necessary. Be sure to increment the `weight` variable by one for each item.
 
@@ -104,7 +107,21 @@ identifier = "about"
 name = "posts"
 url = "/posts/"
 weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
+
 ```
+
 
 ### Adding a photo to a post
 
