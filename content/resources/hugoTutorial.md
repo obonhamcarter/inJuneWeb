@@ -120,14 +120,15 @@ weight = 3
 
 ```
 
-
 ### Adding a photo to a post
 
-* Store all photos in the `static/ directory in the root. Note: it might be better to organize photos by different directories.
+* Store all photos in the `static/` directory in the root. Note: it might be better to organize photos by different directories.
 * Add a header and then place code to access the png file.
 
 ``` bash
 ## A photo of the Allegheny College Mascot
 
-![Photo](/graphics/mascot.png)
+![Photo](graphics/mascot.png)
 ```
+
+Note, the File `mascot.png` is located in 
