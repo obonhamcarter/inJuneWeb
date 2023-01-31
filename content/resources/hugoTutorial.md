@@ -43,11 +43,6 @@ hugo new site myAnubisThemeSite
 
 * Create a GitHub repository using your campus email to host your web site project. Get the site ready to add to github. If you want to skip this part for now, be sure to at least initialize your project using `git init`.
 
-## Note: 
-To see site in a fully prepared state, copy the files from `themes/anubis/exampleSite/config.toml` into your root directory and simply edit the `config.toml` file, in addition to the posts. If you want to see how to create a web site from scratch, keep reading.
-
-
-
 ## Adding posts
 
 * Add a directory "Post" and place in it a Markdown file `post1.md`.
@@ -85,6 +80,9 @@ Add a submodule of the theme to `themes/` directory. Note adding repository as a
 ```bash
 git submodule add https://github.com/mitrichius/hugo-theme-anubis.git themes/anubis
 ```
+
+## Note: 
+To see site in a fully prepared state, copy the files from `themes/anubis/exampleSite/config.toml` into your root directory and simply edit the `config.toml` file, in addition to the posts. If you want to see how to configure a web site from scratch, keep reading.
 
 ### Connect site to a theme: Add the following to `config.toml`
 
