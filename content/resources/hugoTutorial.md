@@ -43,7 +43,7 @@ hugo new site myAnubisThemeSite
 
 * Create a GitHub repository using your campus email to host your web site project. Get the site ready to add to github. If you want to skip this part for now, be sure to at least initialize your project using `git init`.
 
-### Adding Posts
+## Adding Posts
 
 * Add a directory "Post" and place in it a Markdown file `post1.md`.
 
@@ -71,7 +71,7 @@ draft: true
 
 Modify the file by adding some content. Then change the `draft: true` to `draft: false` once you are ready to publish your new post. Push your 
 
-#### Install a Theme
+## Install a Theme
 
 You may not be able to see much until you have installed your theme to control the user-interface. You could use seemingly any theme that you want to use -- there are [quite a lot available](https://themes.gohugo.io/). In this tutorial, we will use a simple one called [Anubis](https://github.com/mitrichius/hugo-theme-anubis) that will provide a basic page by page view of notes. Feel free to try other themes to find the one that perfectly fits your site.
 
@@ -83,7 +83,7 @@ git submodule add
   themes/anubis
 ```
 
-#### Connect site to a theme: Add the following to `confit.toml`
+### Connect site to a theme: Add the following to `confit.toml`
 
 ``` bash
 baseURL = "http://example.org/"
@@ -92,7 +92,7 @@ title = "My Amazing Site!"
 theme = "anubis"
 ```
 
-#### Add a Menu System: Add the following to `confit.toml`
+### Add a Menu System: Add the following to `confit.toml`
 
 Note, you can add as many menu items as necessary. Be sure to increment the `weight` variable by one for each item.
 
