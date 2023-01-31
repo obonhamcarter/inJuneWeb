@@ -69,7 +69,21 @@ draft: true
 ---
 ```
 
-Modify the file by adding some content. Then change the `draft: true` to `draft: false` once you are ready to publish your new post. Push your 
+Modify the file by adding some content. Then change the `draft: true` to `draft: false` once you are ready to publish your new post. 
+
+## Viewing your local site.
+To view your site, use the below code to see all posts for which `draft` is set to `true`.
+
+``` bash
+hugo server
+```
+
+If you want to see all posts, regardless of whether their `draft` parameter is set to `true` or to `false`, use the below code instead.
+
+``` bash
+hugo server -D
+```
+
 
 ## Install a Theme
 
@@ -81,7 +95,7 @@ Add a submodule of the theme to `themes/` directory. Note adding repository as a
 git submodule add https://github.com/mitrichius/hugo-theme-anubis.git themes/anubis
 ```
 
-## Note: 
+### Note 
 To see site in a fully prepared state, copy the files from `themes/anubis/exampleSite/config.toml` into your root directory and simply edit the `config.toml` file, in addition to the posts. If you want to see how to configure a web site from scratch, keep reading.
 
 ### Connect site to a theme: Add the following to `config.toml`
@@ -128,7 +142,11 @@ weight = 3
 ``` bash
 ## A photo of the Allegheny College Mascot
 
-![Photo](graphics/mascot.png)
+![Photo](/graphics/mascot.png)
 ```
 
-Note, the File `mascot.png` is located in 
+Note, the File `mascot.png` is actually located in `myAnubisThemeSite/static/graphics`.
+
+## Netlify
+
+When you push your project to GitHub, the File `Netlify.toml` will signal GitHub to signal netlify to launch your site. Please read up on how to create an account at Netlify and make configurations to launch your site.
