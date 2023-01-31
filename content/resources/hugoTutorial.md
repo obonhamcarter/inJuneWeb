@@ -26,31 +26,54 @@ Below is code to create a website and then to add posts (blogs) to the project. 
 &#x200B;
 </center>
 
+## Setting Up
 
-### Creating a Web Site
+You will need to first install [HUGO](https://gohugo.io/installation/) to build and test your website locally. Once you are satisfied with how your site looks, you will push the entire project (i.e., all files for the project) to [GitHub](https://github.com/). Once your site is on GitHub, you will use [Netlify](https://www.netlify.com/) to build and publish your website.  
 
+## Creating a Web Site
+
+* We assume here that your local machine has `HUGO` installed on it.
 * Create the new site with the command.
 
 ``` bash
 hugo new site myAnubisThemeSite
 ```
 
-* Get the site ready to add to github.
+## GitHub to host your project
+
+* Create a GitHub repository using your campus email to host your web site project. Get the site ready to add to github. If you want to skip this part for now, be sure to at least initialize your project using `git init`.
+
+### Adding Posts
+
+* Add a directory "Post" and place in it a Markdown file `post1.md`.
 
 ``` bash
-git init
+hugo new post/post1.md
 ```
 
-#### Adding Posts
+### Modify Your Post
 
-* Add a directory "Post" and place in it a Markdown file post1.md.
+Use your favorite editor to modify file that you just created. 
 
 ``` bash
-hugo new /post/post1.md
+code content/post/post1.md 
 ```
 
-#### Theme
-You could use seemingly any theme that you want to use -- there are [quite a lot available](https://themes.gohugo.io/). In this tutorial, we will use a simple one called [Anubis](https://github.com/mitrichius/hugo-theme-anubis) that will provide a basic page by page view of notes. 
+You will see that the only contents of the file are, 
+
+``` bash 
+---
+title: "Post1"
+date: 2023-01-30T22:30:39-05:00
+draft: true
+---
+```
+
+Modify the file by adding some content. Then change the `draft: true` to `draft: false` once you are ready to publish your new post. Push your 
+
+#### Install a Theme
+
+You may not be able to see much until you have installed your theme to control the user-interface. You could use seemingly any theme that you want to use -- there are [quite a lot available](https://themes.gohugo.io/). In this tutorial, we will use a simple one called [Anubis](https://github.com/mitrichius/hugo-theme-anubis) that will provide a basic page by page view of notes. Feel free to try other themes to find the one that perfectly fits your site.
 
 Add a submodule of the theme to `themes/` directory. Note adding repository as a submodule allows us to embed a GitHub project within another GitHub project. Git does not like multiple `.git` directories in a project.
 
@@ -70,7 +93,9 @@ theme = "anubis"
 ```
 
 #### Add a Menu System: Add the following to `confit.toml`
-Note, you can add as many menu items as necessary. Be sure to increment the `weight` variable by one for each item.   
+
+Note, you can add as many menu items as necessary. Be sure to increment the `weight` variable by one for each item.
+
 ``` bash
 [menu]
 
