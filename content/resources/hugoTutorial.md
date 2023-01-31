@@ -95,7 +95,7 @@ theme = "anubis"
 
 ### Add a Menu System: Add the following to `config.toml`
 
-Note, you can add as many menu items as necessary. Be sure to increment the `weight` variable by one for each item.
+Note, you can add as many menu items as necessary. Be sure to increment the `weight` variable by one for each menu item. The `weight` variable helps to control the order of the item in the menu. 
 
 ``` bash
 [menu]
