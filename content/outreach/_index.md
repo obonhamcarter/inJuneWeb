@@ -10,7 +10,7 @@ draft: false
 </center>
 
 <center>
-<img src="/images/outreach/fc1.jpg" alt="Futuristic Classrooms" style="width:400px;"/>
+<img src="/images/outreach/fc1.jpg" alt="A Futuristic Classroom" style="width:400px;"/>
 <!-- <img src="/images/outreach/fc1.jpg" alt="Futuristic Classrooms" width = "600" height = "600"/> -->
 
 </center>
