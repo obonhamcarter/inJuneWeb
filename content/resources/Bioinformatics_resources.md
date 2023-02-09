@@ -88,5 +88,5 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
 * Max Planck Institute For Molecular Genetics: https://www.molgen.mpg.de/2168/en
 
 ---
- ### Note
- If you find a good link for Bioinformatics research that you believe would fit nicely here, please let me know!
+### Note
+If you find a good link for Bioinformatics research that you believe would fit nicely here, please let me know!
