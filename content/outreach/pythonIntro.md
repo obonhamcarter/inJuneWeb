@@ -36,7 +36,7 @@ You are invited to help yourself to the below links to learn about Python. Be su
     + Write code locally using [Jupyter Interactive Python](http://oliverbonhamcarter.com/live/).
     + Think Python, a textbook, by Allen B. Downey.
 [Publisher Website](https://greenteapress.com/wp/)
-    + [Python Programming Language](https://www.python.org/downloads/)
+    + The [Python Programming Language](https://www.python.org/downloads/)
 
 <!-- add a line drop -->
 <center>
