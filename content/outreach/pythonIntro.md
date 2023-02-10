@@ -30,14 +30,14 @@ You are invited to help yourself to the below links to learn about Python. Be su
 &#x200B;
 </center>
 
-* Resources
+* Python Programming Resources
 
-    + Play with code from W3's super [Python Tutorial](https://www.w3schools.com/python/)
-    + Write code locally using [Jupyter Interactive Python](http://oliverbonhamcarter.com/live/).
-    + Think Python, a textbook, by Allen B. Downey.
+    - Play with code from W3's super [Python Tutorial](https://www.w3schools.com/python/)
+    - Write code locally using [Jupyter Interactive Python](http://oliverbonhamcarter.com/live/).
+    - Think Python, a textbook, by Allen B. Downey.
 [Publisher Website](https://greenteapress.com/wp/)
-    + The [Python Programming Language](https://www.python.org/downloads/)
-
+    - The [Python Programming Language](https://www.python.org/downloads/)
+    
 <!-- add a line drop -->
 <center>
 &#x200B;

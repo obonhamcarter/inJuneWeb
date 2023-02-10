@@ -20,6 +20,14 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Python for Biologists](https://www.pythonforbiologists.org/)
     - [BioPython](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
 
+* Python Programming Resources
+
+    - Play with code from W3's super [Python Tutorial](https://www.w3schools.com/python/)
+    - Write code locally using [Jupyter Interactive Python](http://oliverbonhamcarter.com/live/).
+    - Think Python, a textbook, by Allen B. Downey.
+[Publisher Website](https://greenteapress.com/wp/)
+    - The [Python Programming Language](https://www.python.org/downloads/)
+
   + Online
 
     - [Online R programming](https://www.jdoodle.com/execute-r-online/)

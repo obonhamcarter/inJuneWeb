@@ -12,7 +12,7 @@ draft: false
 <center>
 <img src="/images/outreach/bluePlot.jpg" alt="Futuristic Classrooms" style="width:700px;"/>
 <!-- <img src="/images/outreach/fc1.jpg" alt="Futuristic Classrooms" width = "600" height = "600"/> -->
-
+</center>
 
 Welcome! Here, you will find a list of interactive Data Analytics resources. Come play with data without having to write a line of code!
 
@@ -22,6 +22,8 @@ Welcome! Here, you will find a list of interactive Data Analytics resources. Com
   + [Largest Vocabulary in Hip Hop](https://pudding.cool/projects/vocabulary/)
   + [Interactive Info Visualization of Spotify Music Genre Overtime](https://observablehq.com/@ca25d09366015836/csc-485-final-project-report)
   + [Exploratory Data Analysis of Various Music Datasets](https://observablehq.com/@uw-info474/exploratory-data-analysis-of-various-music-datasets)
+
+
 
 * __Library__
   + [New York Public Library](https://www.nypl.org/research/collections/digital-collections/public-domain)
