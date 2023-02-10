@@ -23,7 +23,6 @@ draft: false
 </center>
 
 
-
 <!-- add a line drop -->
 <center>
 &#x200B;
@@ -38,6 +37,15 @@ draft: false
 
  + Dr. Bell -- the professor of medicine who taugh at Sir Arthur Conan Doyal's medical school who would form the image of the famous Sherlock Holmes. [The Man Who Was Sherlock Holmes](https://flashbak.com/the-man-who-was-sherlock-holmes-441368/)
 
+
+<!-- add a line drop -->
+<center>
+&#x200B;
+</center>
+
+<center>
+<img src="/images/forfun/shjw.png" alt="sherlock and john" style="width:500px;"/>
+</center>
 
 #### Read about the writer!
 
