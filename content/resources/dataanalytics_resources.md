@@ -31,6 +31,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
   + Online Tools
     - [Online R programming](https://www.jdoodle.com/execute-r-online/)
     - [Snippets -- Run any R code you line online](https://rdrr.io/snippets/)
+    - [JJdoodle](https://www.jdoodle.com/execute-r-online/)
 
 * Python Programming Resources
 
