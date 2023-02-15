@@ -45,6 +45,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
 * Tutorials
+    - [Stat545: a reference for R and programming in Analytics](https://stat545.com/)
     - [Allegheny College Department of Computer Science tutorials](https://www.youtube.com/playlist?list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
     - [Coding Train's Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
     - [Setting Up Git on Linux](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04)
