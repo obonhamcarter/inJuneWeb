@@ -67,6 +67,9 @@ Alden Hall, 101 Lab
 * Think Python, first edition, by Allen B. Downey.
   + [Publisher Website](https://greenteapress.com/wp/)
 
+* _Circular Visualization in R_ by Zuguang Gu
+  +[Book Website](https://jokergoo.github.io/circlize_book/book/introduction.html)
+
 #### Other Useful Textbooks:
 
 * BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
