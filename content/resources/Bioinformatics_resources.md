@@ -36,7 +36,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
 
     - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
-  + Tutorials
+* Tutorials
 
     - [Dealing with GenBank files in Biopython](https://warwick.ac.uk/fac/sci/moac/people/students/peter_cock/python/genbank/)
     - [Allegheny College Department of Computer Science tutorials](https://www.youtube.com/playlist?list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
