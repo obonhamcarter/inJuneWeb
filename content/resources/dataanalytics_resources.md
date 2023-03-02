@@ -19,14 +19,21 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
 
 * Textbooks
 
-+ Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
-  - [Book Website](https://r4ds.had.co.nz/)
-+ Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
-  - [Book Website](https://www.tidytextmining.com/)
-+ Think Python, first edition, by Allen B. Downey.
-  - [Publisher Website](https://greenteapress.com/wp/)
-+ Circular Visualization in R by Zuguang Gu
-  -[Book Website](https://jokergoo.github.io/circlize_book/book/introduction.html)
+  + Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
+
+    - [Book Website](https://r4ds.had.co.nz/)
+
+  + Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
+
+    - [Book Website](https://www.tidytextmining.com/)
+
+  + Think Python, first edition, by Allen B. Downey.
+
+    - [Publisher Website](https://greenteapress.com/wp/)
+
+  + Circular Visualization in R by Zuguang Gu
+  
+    -[Book Website](https://jokergoo.github.io/circlize_book/book/introduction.html)
 
 * Software
   + Installations
