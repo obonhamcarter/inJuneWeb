@@ -68,7 +68,7 @@ Alden Hall, 101 Lab
   + [Publisher Website](https://greenteapress.com/wp/)
 
 * _Circular Visualization in R_ by Zuguang Gu
-  +[Book Website](https://jokergoo.github.io/circlize_book/book/introduction.html)
+  + [Book Website](https://jokergoo.github.io/circlize_book/book/introduction.html)
 
 #### Other Useful Textbooks:
 
