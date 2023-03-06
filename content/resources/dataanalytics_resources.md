@@ -46,6 +46,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Git for all platforms](https://git-scm.com/)
 
   + Online Tools
+
     - [Online R programming](https://www.jdoodle.com/execute-r-online/)
     - [Snippets -- Run any R code you line online](https://rdrr.io/snippets/)
     - [JDoodle](https://www.jdoodle.com/execute-r-online/)
@@ -59,9 +60,13 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - The [Python Programming Language](https://www.python.org/downloads/)
 
 * Articles
+
     - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
 * Tutorials
+    -[ANOVA in R | A Complete Step-by-Step Guide with Examples](https://www.scribbr.com/statistics/anova-in-r/)
+    -[The Paired t-Test](https://www.jmp.com/en_us/statistics-knowledge-portal/t-test/paired-t-test.html)
+    - [An Introduction to t-Tests | Definitions, Formula and Examples](https://www.scribbr.com/statistics/t-test/#frequently-asked-questions-about-t-tests)
     - [Colors for Plotting in R](https://thomasleeper.com/Rcourse/Tutorials/plotcolors.html)
     - [Stat545: a reference for R and programming in Analytics](https://stat545.com/)
     - [Allegheny College Department of Computer Science tutorials](https://www.youtube.com/playlist?list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
