@@ -36,6 +36,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     -[Book Website](https://jokergoo.github.io/circlize_book/book/introduction.html)
 
 * Software
+
   + Installations
 
     - [RStudio](https://posit.co/)
@@ -64,6 +65,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
 * Tutorials
+
     -[ANOVA in R | A Complete Step-by-Step Guide with Examples](https://www.scribbr.com/statistics/anova-in-r/)
     -[The Paired t-Test](https://www.jmp.com/en_us/statistics-knowledge-portal/t-test/paired-t-test.html)
     - [An Introduction to t-Tests | Definitions, Formula and Examples](https://www.scribbr.com/statistics/t-test/#frequently-asked-questions-about-t-tests)
