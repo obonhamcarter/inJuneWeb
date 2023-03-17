@@ -151,13 +151,12 @@ plt.show()
 ``` python
 import matplotlib.pyplot as plt
 import numpy as np
-
 # An "interface" to matplotlib.axes.Axes.hist() method
 d = np.random.laplace(loc=15, scale=3, size=500)
-n, bins, patches = plt.hist(x=d, 
-                    bins='auto', 
-                    color='#0504aa',
-                    alpha=0.7, rwidth=0.85)
+n, bins, patches = plt.hist(x=d,
+bins='auto',
+color='#0504aa',
+alpha=0.7, rwidth=0.85)
 plt.grid(axis='y', alpha=0.75)
 plt.xlabel('Value')
 plt.ylabel('Frequency')
@@ -165,8 +164,14 @@ plt.title('Laplace Distribution')
 plt.text(23, 45, r'$\mu=15, b=3$')
 maxfreq = n.max()
 # Set a clean upper y-axis limit.
-plt.ylim(ymax=np.ceil(maxfreq / 10) * 10 
+plt.ylim(ymax=np.ceil(maxfreq / 10) * 10
 if maxfreq % 10 else maxfreq + 10)
+plt.show()
+```
+
+### Chronological plot :: Laplace
+
+``` python
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
@@ -184,12 +189,14 @@ plt.ylabel('No. of people')
 # plot title
 plt.title('A Normal Distribution')
 
-
 plt.plot(x_axis, ages)
 plt.show()
 ```
 
-### Binomial Distribution
+
+
+
+### Binomial Distribution :: Values
 
 ``` python
 from numpy import random
@@ -198,7 +205,7 @@ print(x)
 ```
 
 
-### Histogram (Bar Chart)
+### Histogram :: Binomial
 
 ``` python
 from numpy import random
@@ -210,16 +217,16 @@ ages = list(random.binomial(n=10, p=0.5, size=1000))
  
 # setting the ranges and no. of intervals
 range = (0, 10)
-bins = 50
+bins = 10
 
 # plotting a histogram
 plt.hist(ages, bins, range, 
 color = 'blue', 
-histtype = 'bar', 
-rwidth = 0.8)
+histtype = 'bar',
+rwidth = 0.9)
   
 # x-axis label
-plt.xlabel('age')
+plt.xlabel('Age')
 # frequency label
 plt.ylabel('No. of people')
 # plot title
@@ -231,7 +238,7 @@ plt.show()
 
 ---
 
-### Poisson Distribution
+### Poisson Distribution :: Values
 
 ``` python
 from numpy import random
@@ -240,7 +247,7 @@ print(x)
 ```
 
 
-### Histogram
+### Histogram :: Poisson
 
 ``` python
 from numpy import random
@@ -277,7 +284,7 @@ plt.show()
 
 ---
 
-### Uniform Distribution
+### Histogram :: Uniform Distribution
 
 ``` python
 import numpy
@@ -289,7 +296,7 @@ plt.hist(x, 5)
 plt.show()
 ```
 
-### Line Plot
+### Line Plot :: Uniform
 
 ``` python
 import numpy
@@ -301,7 +308,7 @@ plt.hist(x, 100)
 plt.show()
 ```
 
-### Histogram Plot
+### Another Histogram Plot :: Uniform
 
 ``` python
 import numpy as np 
@@ -346,7 +353,7 @@ plt.plot(x_axis, ages)
 plt.show()
 ```
 
-### Normal Inverse Gaussian continuous random variable Distribution
+### Normal Inverse Gaussian Continuous Random Variable Distribution :: Values
 
 ``` python
 from scipy.stats import norminvgauss
@@ -356,7 +363,7 @@ r = norminvgauss.rvs(a, b, size=10)
 print(r)
 ```
 
-### Line Plot
+### Line Plot :: Normal Inverse Gaussian Continuous Random Variable
 
 ``` python
 import numpy as np
@@ -386,7 +393,7 @@ ax.legend(loc='best', frameon=False)
 plt.show()
 ```
 
-### Logistic Distribution
+### Logistic Distribution :: Values
 
 ``` python
 from numpy import random
@@ -394,8 +401,7 @@ x = random.logistic(loc=1, scale=2, size=(2, 3))
 print(x)
 ```
 
-
-### Histogram plot
+### Histogram plot :: Logistic
 
 ``` python
 import matplotlib.pyplot as plt 
@@ -411,7 +417,7 @@ plt.xlabel('Values')
 plt.show()
 ```
 
-### Line Plot
+### Chronological Plot :: Logistic
 
 ``` python
 import numpy as np
@@ -421,7 +427,6 @@ import statistics
   
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
-#ages = random.uniform(size=(2000,1))
 ages = random.logistic(loc=1, scale=.5, size=(2000, 1))
 
 # x-axis label
@@ -429,7 +434,7 @@ plt.xlabel('age')
 # frequency label
 plt.ylabel('No. of people')
 # plot title
-plt.title('A Uniform Distribution')
+plt.title('A Logistic Distribution')
 
 plt.plot(x_axis, ages)
 plt.show()
