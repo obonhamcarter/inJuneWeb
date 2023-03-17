@@ -172,10 +172,8 @@ plt.show()
 ## Uniform Distribution
 
 ``` python
-from numpy import random
-#x = random.uniform(size=(2, 3))
-ages = list(random.uniform(size=(2, 3)))#lam=2, size=100
-
+import numpy as np
+x = np.random.uniform(0.01, 0.99, 1000) 
 print(x)
 ```
 
@@ -205,29 +203,20 @@ plt.show()
 ### Histogram Plot
 
 ``` python
-from numpy import random
-import matplotlib.pyplot as plt
-
-# frequencies
-ages = random.uniform(size=(2, 3))#lam=2, size=100
-print(f"The data in the variable ages : {ages}, {type(ages)}")  
+import numpy as np 
+import matplotlib.pyplot as plt 
  
-# setting the ranges and no. of intervals
-range = (0, 10)
-bins = 10
+values = np.random.uniform(0.01, 0.99, 1000) 
+count, bins, ignored = plt.hist(values, 20, density=True)
+plt.plot(bins, np.ones_like(bins),color='r')
 
-# plotting a histogram
-plt.hist(ages, bins, range, color = 'blue', histtype = 'bar', rwidth = 0.8)
-  
-# x-axis label
-plt.xlabel('age')
+# add title
+plt.title('Uniform Distribution')
 
-# frequency label
-plt.ylabel('No. of people')
+# label the axes
+plt.ylabel('Density')
+plt.xlabel('Values')
 
-# plot title
-plt.title('A Poisson Distribution')
-  
 # function to show the plot
 plt.show()
 ```
