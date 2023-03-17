@@ -17,7 +17,7 @@ draft: False
 We will spend a moment to study different ways of visually describing data using plots. Here we will develope some Python programming techniques to create some data to be used for plotting. In specific, we will look at several types of plots and then decide what types of features each plot has and how it could be helpful when describing data.
 
 
-### A basic histogram
+### A Basic Histogram
 
 ``` python
 # libraries to help the code to perform
@@ -47,14 +47,14 @@ plt.show()
 
 Read more about this type of code at [RealPython](https://realpython.com/python-histograms/)
 
-### Making random data for plotting
+### Distributions
 
 Let's start making some random data for plotting! There are different types of data to use. For instance, we could study typical data from several different __distributions__ of numbers. 
 
 A [distribution](https://www.ibm.com/docs/en/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_ca_dshb.doc/statisticaldistribution.html) type provides us with a statistical vocabulary with which we can use to explain what kinds of values are common, and which are uncommon for a field of numbers. Reference: [w3schools](https://www.w3schools.com/python/numpy/)
 
 
-## Normal Distribution
+### Normal Distribution :: Values
 
 ``` python
 from numpy import random
@@ -72,7 +72,7 @@ x = random.normal(size=(2, 3))
 print(x)
 ```
 
-### Line
+### Line plot :: Normal
 
 ``` python
 import numpy as np
@@ -99,7 +99,19 @@ plt.plot(x_axis, age )
 plt.show()
 ```
 
-### Histogram
+### Histogram :: Normal
+
+``` python
+import numpy
+import matplotlib.pyplot as plt
+
+x = numpy.random.normal(5.0, 1.0, 100000)
+
+plt.hist(x, 100)
+plt.show()
+```
+
+### Chronological Plot :: Normal
 
 ``` python
 import numpy as np
@@ -123,10 +135,22 @@ plt.show()
 ```
 
 
-## Laplace Distribution
+
+
+
+
+
+
+
+
+
+
+
+### Laplace Distribution
 
 ``` python
 import matplotlib.pyplot as plt
+import numpy as np
 
 # An "interface" to matplotlib.axes.Axes.hist() method
 d = np.random.laplace(loc=15, scale=3, size=500)
@@ -143,9 +167,29 @@ maxfreq = n.max()
 # Set a clean upper y-axis limit.
 plt.ylim(ymax=np.ceil(maxfreq / 10) * 10 
 if maxfreq % 10 else maxfreq + 10)
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import norm
+import statistics
+from numpy import random
+# Plot between -10 and 10 with .001 steps.
+x_axis = np.arange(-10, 10, 0.01)
+ages = random.normal(size=(2000,1))
+
+
+# x-axis label
+plt.xlabel('age')
+# frequency label
+plt.ylabel('No. of people')
+# plot title
+plt.title('A Normal Distribution')
+
+
+plt.plot(x_axis, ages)
+plt.show()
 ```
 
-## Binomial Distribution
+### Binomial Distribution
 
 ``` python
 from numpy import random
@@ -187,7 +231,7 @@ plt.show()
 
 ---
 
-## Poisson Distribution
+### Poisson Distribution
 
 ``` python
 from numpy import random
@@ -233,34 +277,27 @@ plt.show()
 
 ---
 
-## Uniform Distribution
+### Uniform Distribution
 
 ``` python
-import numpy as np
-x = np.random.uniform(0.01, 0.99, 10) 
-print(x)
+import numpy
+import matplotlib.pyplot as plt
+
+x = numpy.random.uniform(0.0, 5.0, 250)
+
+plt.hist(x, 5)
+plt.show()
 ```
 
 ### Line Plot
 
 ``` python
-import numpy as np
+import numpy
 import matplotlib.pyplot as plt
-from scipy.stats import norm
-import statistics
-  
-# Plot between -10 and 10 with .001 steps.
-x_axis = np.arange(-10, 10, 0.01)
-ages = random.uniform(size=(2000,1))
 
-# x-axis label
-plt.xlabel('age')
-# frequency label
-plt.ylabel('No. of people')
-# plot title
-plt.title('A Uniform Distribution')
+x = numpy.random.uniform(0.0, 5.0, 100000)
 
-plt.plot(x_axis, ages)
+plt.hist(x, 100)
 plt.show()
 ```
 
@@ -282,6 +319,30 @@ plt.ylabel('Density')
 plt.xlabel('Values')
 
 # function to show the plot
+plt.show()
+```
+
+### Chronological Plot :: Uniform
+
+``` python
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import norm
+import statistics
+from numpy import random
+  
+# Plot between -10 and 10 with .001 steps.
+x_axis = np.arange(-10, 10, 0.01)
+ages = random.uniform(size=(2000,1))
+
+# x-axis label
+plt.xlabel('age')
+# frequency label
+plt.ylabel('No. of people')
+# plot title
+plt.title('A Uniform Distribution')
+
+plt.plot(x_axis, ages)
 plt.show()
 ```
 
@@ -334,7 +395,7 @@ print(x)
 ```
 
 
-#### Histogram plot
+### Histogram plot
 
 ``` python
 import matplotlib.pyplot as plt 
