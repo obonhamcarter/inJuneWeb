@@ -77,12 +77,15 @@ Alden Hall, 109 Lab
 * Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
 
 ### classDocs/ Repository
+* <a href="https://github.com/CMPSC-580-Allegheny-College-Spring-2023/classDocs" target="_blank">classDocs/ at GitHub</a>
 
-* [classDocs/ at GitHub](https://github.com/CMPSC-580-Allegheny-College-Spring-2023/classDocs)
+<!-- * [classDocs/ at GitHub](https://github.com/CMPSC-580-Allegheny-College-Spring-2023/classDocs) -->
 
 ### Grade book Repository
 
-* [Gradebook Repository](https://classroom.github.com/a/YQZCHw1t)
+* <a href="https://classroom.github.com/a/YQZCHw1t" target="_blank">Gradebook Repository</a>
+
+<!-- * [Gradebook Repository](https://classroom.github.com/a/YQZCHw1t) -->
 
 ### Resources
 

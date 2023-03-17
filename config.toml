@@ -64,6 +64,7 @@ pygmentsCodeFences=true
   # keybase = "https://keybase.io/"
   tech = "https://jupyter.cs.allegheny.edu/"
   glasses = "http://oliverbonhamcarter.com/live/"
+  #glasses = "<a href="http://oliverbonhamcarter.com/live/" target="_blank">Jupyter</a>"
 
 [params.contact]
   email = ""

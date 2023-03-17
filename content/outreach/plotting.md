@@ -16,6 +16,7 @@ draft: False
 
 We will spend a moment to study different ways of visually describing data using plots. Here we will develope some Python programming techniques to create some data to be used for plotting. In specific, we will look at several types of plots and then decide what types of features each plot has and how it could be helpful when describing data.
 
+But first, let's get into a <a href="http://oliverbonhamcarter.com/live/" target="_blank">Jupyter</a> client where we can run Python code.
 
 ### A Basic Histogram
 

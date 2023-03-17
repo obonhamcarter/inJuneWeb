@@ -78,12 +78,14 @@ Alden Hall, 101 Lab
 
 ### classDocs/ Repository
 
-* [classDocs/ at GitHub](https://github.com/CMPSC-301-Allegheny-College-Spring-2023/classDocs)
+* <a href="https://github.com/CMPSC-301-Allegheny-College-Spring-2023/classDocs" target="_blank">classDocs/ at GitHub</a>
+
+<!-- * [classDocs/ at GitHub](https://github.com/CMPSC-301-Allegheny-College-Spring-2023/classDocs) -->
 
 ### Grade book Repository
 
-* [GradeBook repository](https://classroom.github.com/a/9QhtvWWZ)
-
+<!-- * [GradeBook repository](https://classroom.github.com/a/9QhtvWWZ) -->
+* <a href="https://classroom.github.com/a/9QhtvWWZ" target="_blank">Gradebook Repository</a>
 ### Resources
 
 [:bar_chart: Main page for resources](/resources/) 
