@@ -297,6 +297,8 @@ plt.plot(x_axis, ages)
 plt.show()
 ```
 
+---
+
 ### Normal Inverse Gaussian Continuous Random Variable Distribution :: Values
 
 ``` python
@@ -340,6 +342,8 @@ ax.set_xlim([x[0], x[-1]])
 ax.legend(loc='best', frameon=False)
 plt.show()
 ```
+
+---
 
 ### Logistic Distribution :: Values
 
