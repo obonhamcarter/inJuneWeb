@@ -314,6 +314,7 @@ print(r)
 import numpy as np
 from scipy.stats import norminvgauss
 import matplotlib.pyplot as plt
+
 fig, ax = plt.subplots(1, 1)
 a, b = 1.25, 0.5
 mean, var, skew, kurt = norminvgauss.stats(
