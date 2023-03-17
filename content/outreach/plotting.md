@@ -47,7 +47,13 @@ Read more about this type of code at [RealPython](https://realpython.com/python-
 
 Let's start making some random data for plotting! There are different types of data to use. For instance, we could study typical data from several different __distributions__ of numbers. 
 
-A [distribution](https://www.ibm.com/docs/en/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_ca_dshb.doc/statisticaldistribution.html) type provides us with a statistical vocabulary with which we can use to explain what kinds of values are common, and which are uncommon for a field of numbers. Reference: [w3schools](https://www.w3schools.com/python/numpy/)
+A Reference: <a href="https://www.ibm.com/docs/en/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_ca_dshb.doc/statisticaldistribution.html" target="_blank">distribution</a> type provides us with a statistical vocabulary with which we can use to explain what kinds of values are common, and which are uncommon for a field of numbers.
+
+Reference: <a href="https://www.w3schools.com/python/numpy/" target="_blank">W3schools</a>
+
+---
+
+ <!-- Reference: [w3schools](https://www.w3schools.com/python/numpy/) -->
 
 
 ### Normal Distribution :: Values
@@ -472,7 +478,9 @@ fig.colorbar(c, ax=ax)
 
 plt.show()
 ```
-[Reference](https://stackoverflow.com/questions/33282368/plotting-a-2d-heatmap) 
+<!-- [Reference](https://stackoverflow.com/questions/33282368/plotting-a-2d-heatmap)  -->
+
+Reference: <a href="https://stackoverflow.com/questions/33282368/plotting-a-2d-heatmap" target="_blank">Stackoverflow</a>
 
 ### Scatter plots
 
@@ -508,8 +516,10 @@ plt.legend(loc='upper left')
 # plt.savefig('images/02_06.png', dpi=300)
 plt.show()
 ```
-Reference: [vitalflux](https://vitalflux.com/python-creating-scatter-plot-with-iris-dataset/)
+<!-- Reference: [vitalflux](https://vitalflux.com/python-creating-scatter-plot-with-iris-dataset/) -->
+
+Reference: <a href="https://vitalflux.com/python-creating-scatter-plot-with-iris-dataset/" target="_blank">Vitalflux</a>
 
 ---
 
-Check out more plotting and Python code at [w3schools](https://www.w3schools.com/python/default.asp)
+Check out more plotting and Python code at Reference: <a href="https://www.w3schools.com/python/numpy/" target="_blank">W3schools</a>
