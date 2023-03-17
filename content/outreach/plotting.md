@@ -106,7 +106,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
-  
+from numpy import random
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
 ages = random.normal(size=(2000,1))
