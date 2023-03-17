@@ -60,10 +60,10 @@ A [distribution](https://www.ibm.com/docs/en/SSEP7J_11.1.0/com.ibm.swg.ba.cognos
 from numpy import random
 import statistics
 from scipy.stats import norm
-  
+import numpy as np
+
 # Calculating mean and standard deviation
 x_axis = np.arange(-20, 20, 0.01)
-
 mean = statistics.mean(x_axis)
 sd = statistics.stdev(x_axis)
 norm.pdf(x_axis, mean, sd)
@@ -79,10 +79,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
-  
+
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-20, 20, 0.01)
-  
+
 # Calculating mean and standard deviation
 mean = statistics.mean(x_axis)
 sd = statistics.stdev(x_axis)
