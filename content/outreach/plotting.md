@@ -57,10 +57,12 @@ A [distribution](https://www.ibm.com/docs/en/SSEP7J_11.1.0/com.ibm.swg.ba.cognos
 ## Normal Distribution
 
 ``` python
-x_axis = np.arange(-20, 20, 0.01)
+from numpy import random
+import statistics
+from scipy.stats import norm
   
 # Calculating mean and standard deviation
-from numpy import random
+x_axis = np.arange(-20, 20, 0.01)
 
 mean = statistics.mean(x_axis)
 sd = statistics.stdev(x_axis)
@@ -128,8 +130,10 @@ import matplotlib.pyplot as plt
 
 # An "interface" to matplotlib.axes.Axes.hist() method
 d = np.random.laplace(loc=15, scale=3, size=500)
-n, bins, patches = plt.hist(x=d, bins='auto', color='#0504aa',
-                            alpha=0.7, rwidth=0.85)
+n, bins, patches = plt.hist(x=d, 
+                    bins='auto', 
+                    color='#0504aa',
+                    alpha=0.7, rwidth=0.85)
 plt.grid(axis='y', alpha=0.75)
 plt.xlabel('Value')
 plt.ylabel('Frequency')
@@ -137,7 +141,8 @@ plt.title('Laplace Distribution')
 plt.text(23, 45, r'$\mu=15, b=3$')
 maxfreq = n.max()
 # Set a clean upper y-axis limit.
-plt.ylim(ymax=np.ceil(maxfreq / 10) * 10 if maxfreq % 10 else maxfreq + 10)
+plt.ylim(ymax=np.ceil(maxfreq / 10) * 10 
+if maxfreq % 10 else maxfreq + 10)
 ```
 
 ## Binomial Distribution
@@ -157,14 +162,17 @@ import matplotlib.pyplot as plt
 
 # frequencies
 ages = list(random.binomial(n=10, p=0.5, size=1000))
-print(f"The data in the variable ages : {ages}, {type(ages)}")  
+# print(f" {ages}, {type(ages)}")  
  
 # setting the ranges and no. of intervals
 range = (0, 10)
 bins = 50
 
 # plotting a histogram
-plt.hist(ages, bins, range, color = 'blue', histtype = 'bar', rwidth = 0.8)
+plt.hist(ages, bins, range, 
+color = 'blue', 
+histtype = 'bar', 
+rwidth = 0.8)
   
 # x-axis label
 plt.xlabel('age')
@@ -195,15 +203,20 @@ from numpy import random
 import matplotlib.pyplot as plt
 
 # frequencies
-ages = random.uniform(size=(2, 10)) #size(y_max, x_iterations)
-print(f"The data in the variable ages : {ages}, {type(ages)}")  
+ages = random.uniform(size=(2, 10)) 
+print(f"{ages}, {type(ages)}")  
  
 # setting the ranges and no. of intervals
 range = (0, 20)
 bins = 1
 
 # plotting a histogram
-plt.hist(ages, bins, range,  histtype = 'bar', rwidth = 1)
+plt.hist(
+    ages, 
+    bins, 
+    range, 
+    histtype = 'bar', 
+    rwidth = 1)
   
 # x-axis label
 plt.xlabel('age')
@@ -224,7 +237,7 @@ plt.show()
 
 ``` python
 import numpy as np
-x = np.random.uniform(0.01, 0.99, 1000) 
+x = np.random.uniform(0.01, 0.99, 10) 
 print(x)
 ```
 
@@ -337,8 +350,6 @@ plt.xlabel('Values')
 plt.show()
 ```
 
-
-
 ### Line Plot
 
 ``` python
@@ -363,7 +374,6 @@ plt.plot(x_axis, ages)
 plt.show()
 ```
 
-
 ---
 
 Plots can also look different from these too!
@@ -376,6 +386,10 @@ import numpy as np
 
 # Generate 100 random data points along 3 dimensions
 x, y, scale = np.random.randn(3, 100)
+# x = [1,2,3,4,5,6]
+# y = [1,2,3,4,5,6]
+# scale = [1,2,3,4,5,6]
+
 fig, ax = plt.subplots()
 
 # Map each onto a scatterplot we'll create with Matplotlib
@@ -404,17 +418,24 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # generate 2 2d grids for the x & y bounds
-y, x = np.meshgrid(np.linspace(-3, 3, 100), np.linspace(-3, 3, 100))
+y, x = np.meshgrid(
+    np.linspace(-3, 3, 100), np.linspace(-3, 3, 100))
 
-z = (1 - x / 2. + x ** 5 + y ** 3) * np.exp(-x ** 2 - y ** 2)
-# x and y are bounds, so z should be the value *inside* those bounds.
-# Therefore, remove the last value from the z array.
+tmp = np.exp(-x ** 2 - y ** 2)
+z = (1 - x / 2. + x ** 5 + y ** 3) * tmp
+# x and y are bounds, so z 
+# should be the value *inside* those bounds.
+# Therefore, remove the last value 
+# from the z array.
 z = z[:-1, :-1]
 z_min, z_max = -np.abs(z).max(), np.abs(z).max()
 
 fig, ax = plt.subplots()
 
-c = ax.pcolormesh(x, y, z, cmap='RdBu', vmin=z_min, vmax=z_max)
+c = ax.pcolormesh(x, y, z, 
+cmap='RdBu', 
+vmin=z_min, 
+vmax=z_max)
 ax.set_title('pcolormesh')
 # set the limits of the plot to the limits of the data
 ax.axis([x.min(), x.max(), y.min(), y.max()])
@@ -427,7 +448,6 @@ plt.show()
 ### Scatter plots
 
 ``` python
-%matplotlib inline
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -435,8 +455,9 @@ import pandas as pd
 from sklearn.datasets import load_iris
 iris = load_iris()
  
-df= pd.DataFrame(data= np.c_[iris['data'], iris['target']],
-                 columns= iris['feature_names'] + ['target'])
+df= pd.DataFrame(
+    data= np.c_[iris['data'], iris['target']],
+    columns= iris['feature_names'] + ['target'])
  
 # select setosa and versicolor
 y = df.iloc[0:100, 4].values
