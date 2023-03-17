@@ -16,9 +16,44 @@ draft: False
 
 We will spend a moment to study different ways of visually describing data using plots. Here we will develope some Python programming techniques to create some data to be used for plotting. In specific, we will look at several types of plots and then decide what types of features each plot has and how it could be helpful when describing data.
 
+
+### A basic histogram
+
+``` python
+# libraries to help the code to perform
+# new functions
+import matplotlib.pyplot as plt
+import numpy as np
+
+# define the x axis.
+#x = np.random.normal(170, 10, 250)
+x = [10,20,30]
+
+# x-axis label
+plt.xlabel('x-axis')
+
+# frequency label
+plt.ylabel('y-axise')
+
+# plot title
+plt.title('My Cool Histogram')
+  
+# plot the histogram in memory.
+plt.hist(x)
+
+# Draw the histogram to the screen.
+plt.show()
+```
+
+
+
+
+
 ### Making random data for plotting
 
-We first begin by making come random data which we could use for plotting later. There are different types of data to create. For instance, we will make data from several types of __distributions__. A [distribution](https://www.ibm.com/docs/en/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_ca_dshb.doc/statisticaldistribution.html) type provides a statistical vocabulary which describes which values are common, and which are uncommon for a field of numbers. Reference: [w3schools](https://www.w3schools.com/python/numpy/)
+Let's start making some random data for plotting! There are different types of data to use. For instance, we could study typical data from several different __distributions__ of numbers. 
+
+A [distribution](https://www.ibm.com/docs/en/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_ca_dshb.doc/statisticaldistribution.html) type provides us with a statistical vocabulary with which we can use to explain what kinds of values are common, and which are uncommon for a field of numbers. Reference: [w3schools](https://www.w3schools.com/python/numpy/)
 
 
 ## Normal Distribution
