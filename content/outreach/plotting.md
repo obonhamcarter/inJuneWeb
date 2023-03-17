@@ -17,9 +17,8 @@ draft: False
 We will spend a moment to study different ways of visually describing data using plots. Here we will develope some Python programming techniques to create some data to be used for plotting. In specific, we will look at several types of plots and then decide what types of features each plot has and how it could be helpful when describing data.
 
 ### Making random data for plotting
-We first begin by making come random data which we could use for plotting later. There are different types of data to create. For instance, we will make data from several types of __distributions__. A [distribution](https://www.ibm.com/docs/en/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_ca_dshb.doc/statisticaldistribution.html) type provides a statistical vocabulary which describes which values are common, and which are uncommon for a field of numbers.
 
----
+We first begin by making come random data which we could use for plotting later. There are different types of data to create. For instance, we will make data from several types of __distributions__. A [distribution](https://www.ibm.com/docs/en/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_ca_dshb.doc/statisticaldistribution.html) type provides a statistical vocabulary which describes which values are common, and which are uncommon for a field of numbers. Reference: [w3schools](https://www.w3schools.com/python/numpy/)
 
 
 ## Normal Distribution
@@ -88,6 +87,25 @@ plt.plot(x_axis, ages)
 plt.show()
 ```
 
+
+## Laplace Distribution
+
+``` python
+import matplotlib.pyplot as plt
+
+# An "interface" to matplotlib.axes.Axes.hist() method
+d = np.random.laplace(loc=15, scale=3, size=500)
+n, bins, patches = plt.hist(x=d, bins='auto', color='#0504aa',
+                            alpha=0.7, rwidth=0.85)
+plt.grid(axis='y', alpha=0.75)
+plt.xlabel('Value')
+plt.ylabel('Frequency')
+plt.title('Laplace Distribution')
+plt.text(23, 45, r'$\mu=15, b=3$')
+maxfreq = n.max()
+# Set a clean upper y-axis limit.
+plt.ylim(ymax=np.ceil(maxfreq / 10) * 10 if maxfreq % 10 else maxfreq + 10)
+```
 
 ## Binomial Distribution
 
@@ -260,3 +278,119 @@ ax.set_xlim([x[0], x[-1]])
 ax.legend(loc='best', frameon=False)
 plt.show()
 ```
+
+### Logistic Distribution
+
+``` python
+from numpy import random
+x = random.logistic(loc=1, scale=2, size=(2, 3))
+print(x)
+```
+
+
+#### Histogram plot
+
+``` python
+import matplotlib.pyplot as plt 
+
+values = random.logistic(loc=1, scale=.5, size=(200, 1))
+count, bins, ignored = plt.hist(values, 20, density=True)
+plt.plot(bins, np.ones_like(bins),color='r')
+plt.title('Logistic Distribution')
+plt.ylabel('Density')
+plt.xlabel('Values')
+
+# function to show the plot
+plt.show()
+```
+
+
+
+### Line Plot
+
+``` python
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import norm
+import statistics
+  
+# Plot between -10 and 10 with .001 steps.
+x_axis = np.arange(-10, 10, 0.01)
+#ages = random.uniform(size=(2000,1))
+ages = random.logistic(loc=1, scale=.5, size=(2000, 1))
+
+# x-axis label
+plt.xlabel('age')
+# frequency label
+plt.ylabel('No. of people')
+# plot title
+plt.title('A Uniform Distribution')
+
+plt.plot(x_axis, ages)
+plt.show()
+```
+
+
+---
+
+Plots can also look different from these too!
+
+### Bubble Plot
+
+``` python
+from matplotlib import pyplot as plt
+import numpy as np
+
+# Generate 100 random data points along 3 dimensions
+x, y, scale = np.random.randn(3, 100)
+fig, ax = plt.subplots()
+
+# Map each onto a scatterplot we'll create with Matplotlib
+ax.scatter(x=x, y=y, c=scale, s=np.abs(scale)*500)
+ax.set(title="Some random data, plotted as bubbles!")
+plt.show()
+```
+
+### Heatmaps
+
+``` python
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+a = np.random.random((16, 16))
+plt.imshow(a, cmap='hot', interpolation='nearest')
+plt.show()
+```
+[Reference](https://stackoverflow.com/questions/33282368/plotting-a-2d-heatmap) 
+
+### Another Heatmap
+
+``` python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# generate 2 2d grids for the x & y bounds
+y, x = np.meshgrid(np.linspace(-3, 3, 100), np.linspace(-3, 3, 100))
+
+z = (1 - x / 2. + x ** 5 + y ** 3) * np.exp(-x ** 2 - y ** 2)
+# x and y are bounds, so z should be the value *inside* those bounds.
+# Therefore, remove the last value from the z array.
+z = z[:-1, :-1]
+z_min, z_max = -np.abs(z).max(), np.abs(z).max()
+
+fig, ax = plt.subplots()
+
+c = ax.pcolormesh(x, y, z, cmap='RdBu', vmin=z_min, vmax=z_max)
+ax.set_title('pcolormesh')
+# set the limits of the plot to the limits of the data
+ax.axis([x.min(), x.max(), y.min(), y.max()])
+fig.colorbar(c, ax=ax)
+
+plt.show()
+```
+[Reference](https://stackoverflow.com/questions/33282368/plotting-a-2d-heatmap) 
+
+---
+
+Check out more plotting and Python code at [w3schools](https://www.w3schools.com/python/default.asp)
