@@ -479,7 +479,7 @@ plt.legend(loc='upper left')
 # plt.savefig('images/02_06.png', dpi=300)
 plt.show()
 ```
-
+Reference: [vitalflux](https://vitalflux.com/python-creating-scatter-plot-with-iris-dataset/)
 
 ---
 
