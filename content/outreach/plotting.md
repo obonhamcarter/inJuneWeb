@@ -28,19 +28,14 @@ import numpy as np
 # define the x axis.
 #x = np.random.normal(170, 10, 250)
 x = [10,20,30]
-
 # x-axis label
 plt.xlabel('x-axis')
-
 # frequency label
 plt.ylabel('y-axise')
-
 # plot title
 plt.title('My Cool Histogram')
-  
 # plot the histogram in memory.
 plt.hist(x)
-
 # Draw the histogram to the screen.
 plt.show()
 ```
@@ -61,13 +56,11 @@ from numpy import random
 import statistics
 from scipy.stats import norm
 import numpy as np
-
 # Calculating mean and standard deviation
 x_axis = np.arange(-20, 20, 0.01)
 mean = statistics.mean(x_axis)
 sd = statistics.stdev(x_axis)
 norm.pdf(x_axis, mean, sd)
-
 x = random.normal(size=(2, 3))
 print(x)
 ```
@@ -79,22 +72,18 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
-
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-20, 20, 0.01)
-
 # Calculating mean and standard deviation
 mean = statistics.mean(x_axis)
 sd = statistics.stdev(x_axis)
 age = norm.pdf(x_axis, mean, sd)
-
 # x-axis label
 plt.xlabel('age')
 # frequency label
 plt.ylabel('No. of people')
 # plot title
 plt.title('A Normal Distribution')
-
 plt.plot(x_axis, age )
 plt.show()
 ```
@@ -104,9 +93,7 @@ plt.show()
 ``` python
 import numpy
 import matplotlib.pyplot as plt
-
 x = numpy.random.normal(5.0, 1.0, 100000)
-
 plt.hist(x, 100)
 plt.show()
 ```
@@ -122,7 +109,6 @@ from numpy import random
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
 ages = random.normal(size=(2000,1))
-
 # x-axis label
 plt.xlabel('age')
 # frequency label
@@ -133,18 +119,6 @@ plt.title('A Normal Distribution')
 plt.plot(x_axis, ages)
 plt.show()
 ```
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Laplace Distribution
 
@@ -180,21 +154,15 @@ from numpy import random
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
 ages = random.normal(size=(2000,1))
-
-
 # x-axis label
 plt.xlabel('age')
 # frequency label
 plt.ylabel('No. of people')
 # plot title
 plt.title('A Normal Distribution')
-
 plt.plot(x_axis, ages)
 plt.show()
 ```
-
-
-
 
 ### Binomial Distribution :: Values
 
@@ -204,34 +172,28 @@ x = random.binomial(n=10, p=0.5, size=10)
 print(x)
 ```
 
-
 ### Histogram :: Binomial
 
 ``` python
 from numpy import random
 import matplotlib.pyplot as plt
-
 # frequencies
 ages = list(random.binomial(n=10, p=0.5, size=1000))
 # print(f" {ages}, {type(ages)}")  
- 
 # setting the ranges and no. of intervals
 range = (0, 10)
 bins = 10
-
 # plotting a histogram
 plt.hist(ages, bins, range, 
 color = 'blue', 
 histtype = 'bar',
 rwidth = 0.9)
-  
 # x-axis label
 plt.xlabel('Age')
 # frequency label
 plt.ylabel('No. of people')
 # plot title
 plt.title('A Binomial Distribution')
-  
 # function to show the plot
 plt.show()
 ```
@@ -246,7 +208,6 @@ x = random.poisson(lam=2, size=10)
 print(x)
 ```
 
-
 ### Histogram :: Poisson
 
 ``` python
@@ -256,11 +217,9 @@ import matplotlib.pyplot as plt
 # frequencies
 ages = random.uniform(size=(2, 10)) 
 print(f"{ages}, {type(ages)}")  
- 
 # setting the ranges and no. of intervals
 range = (0, 20)
 bins = 1
-
 # plotting a histogram
 plt.hist(
     ages, 
@@ -268,16 +227,12 @@ plt.hist(
     range, 
     histtype = 'bar', 
     rwidth = 1)
-  
 # x-axis label
 plt.xlabel('age')
-
 # frequency label
 plt.ylabel('No. of people')
-
 # plot title
 plt.title('A Uniform Distribution')
-  
 # function to show the plot
 plt.show()
 ```
@@ -289,9 +244,7 @@ plt.show()
 ``` python
 import numpy
 import matplotlib.pyplot as plt
-
 x = numpy.random.uniform(0.0, 5.0, 250)
-
 plt.hist(x, 5)
 plt.show()
 ```
@@ -301,9 +254,7 @@ plt.show()
 ``` python
 import numpy
 import matplotlib.pyplot as plt
-
 x = numpy.random.uniform(0.0, 5.0, 100000)
-
 plt.hist(x, 100)
 plt.show()
 ```
@@ -313,18 +264,14 @@ plt.show()
 ``` python
 import numpy as np 
 import matplotlib.pyplot as plt 
- 
 values = np.random.uniform(0.01, 0.99, 1000) 
 count, bins, ignored = plt.hist(values, 20, density=True)
 plt.plot(bins, np.ones_like(bins),color='r')
-
 # add title
 plt.title('Uniform Distribution')
-
 # label the axes
 plt.ylabel('Density')
 plt.xlabel('Values')
-
 # function to show the plot
 plt.show()
 ```
@@ -337,18 +284,15 @@ import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
 from numpy import random
-  
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
 ages = random.uniform(size=(2000,1))
-
 # x-axis label
 plt.xlabel('age')
 # frequency label
 plt.ylabel('No. of people')
 # plot title
 plt.title('A Uniform Distribution')
-
 plt.plot(x_axis, ages)
 plt.show()
 ```
@@ -357,7 +301,6 @@ plt.show()
 
 ``` python
 from scipy.stats import norminvgauss
-
 a, b = 1.25, 0.5
 r = norminvgauss.rvs(a, b, size=10)
 print(r)
@@ -370,24 +313,29 @@ import numpy as np
 from scipy.stats import norminvgauss
 import matplotlib.pyplot as plt
 fig, ax = plt.subplots(1, 1)
-
 a, b = 1.25, 0.5
-mean, var, skew, kurt = norminvgauss.stats(a, b, moments='mvsk')
+mean, var, skew, kurt = norminvgauss.stats(
+    a, b, moments='mvsk')
+
 
 x = np.linspace(norminvgauss.ppf(0.01, a, b),
-                norminvgauss.ppf(0.99, a, b), 100)
+norminvgauss.ppf(0.99, a, b), 100)
 ax.plot(x, norminvgauss.pdf(x, a, b),
-       'r-', lw=5, alpha=0.6, label='norminvgauss pdf')
+'r-', lw=5, alpha=0.6, label='norminvgauss pdf')
+
 
 rv = norminvgauss(a, b)
 ax.plot(x, rv.pdf(x), 'k-', lw=2, label='frozen pdf')
 
+
 vals = norminvgauss.ppf([0.001, 0.5, 0.999], a, b)
-np.allclose([0.001, 0.5, 0.999], norminvgauss.cdf(vals, a, b))
+np.allclose([0.001, 0.5, 0.999], norminvgauss.cdf(
+    vals, a, b))
 
 r = norminvgauss.rvs(a, b, size=1000)
 
-ax.hist(r, density=True, bins='auto', histtype='stepfilled', alpha=0.2)
+ax.hist(r, density=True, 
+bins='auto', histtype='stepfilled', alpha=0.2)
 ax.set_xlim([x[0], x[-1]])
 ax.legend(loc='best', frameon=False)
 plt.show()
@@ -405,14 +353,12 @@ print(x)
 
 ``` python
 import matplotlib.pyplot as plt 
-
 values = random.logistic(loc=1, scale=.5, size=(200, 1))
 count, bins, ignored = plt.hist(values, 20, density=True)
 plt.plot(bins, np.ones_like(bins),color='r')
 plt.title('Logistic Distribution')
 plt.ylabel('Density')
 plt.xlabel('Values')
-
 # function to show the plot
 plt.show()
 ```
@@ -424,18 +370,15 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
-  
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
 ages = random.logistic(loc=1, scale=.5, size=(2000, 1))
-
 # x-axis label
 plt.xlabel('age')
 # frequency label
 plt.ylabel('No. of people')
 # plot title
 plt.title('A Logistic Distribution')
-
 plt.plot(x_axis, ages)
 plt.show()
 ```
@@ -449,15 +392,12 @@ Plots can also look different from these too!
 ``` python
 from matplotlib import pyplot as plt
 import numpy as np
-
 # Generate 100 random data points along 3 dimensions
 x, y, scale = np.random.randn(3, 100)
 # x = [1,2,3,4,5,6]
 # y = [1,2,3,4,5,6]
 # scale = [1,2,3,4,5,6]
-
 fig, ax = plt.subplots()
-
 # Map each onto a scatterplot we'll create with Matplotlib
 ax.scatter(x=x, y=y, c=scale, s=np.abs(scale)*500)
 ax.set(title="Some random data, plotted as bubbles!")
@@ -467,14 +407,13 @@ plt.show()
 ### Heatmaps
 
 ``` python
-
 import matplotlib.pyplot as plt
 import numpy as np
-
 a = np.random.random((16, 16))
 plt.imshow(a, cmap='hot', interpolation='nearest')
 plt.show()
 ```
+
 [Reference](https://stackoverflow.com/questions/33282368/plotting-a-2d-heatmap) 
 
 ### Another Heatmap
