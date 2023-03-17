@@ -1,5 +1,5 @@
 ---
-title: "Plotting"
+title: "Plotting and Distributions"
 date: 2023-03-16T23:40:01-04:00
 draft: False
 ---
@@ -179,8 +179,30 @@ ages = list(random.uniform(size=(2, 3)))#lam=2, size=100
 print(x)
 ```
 
+### Line Plot
 
-### Histogram
+``` python
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import norm
+import statistics
+  
+# Plot between -10 and 10 with .001 steps.
+x_axis = np.arange(-10, 10, 0.01)
+ages = random.uniform(size=(2000,1))
+
+# x-axis label
+plt.xlabel('age')
+# frequency label
+plt.ylabel('No. of people')
+# plot title
+plt.title('A Uniform Distribution')
+
+plt.plot(x_axis, ages)
+plt.show()
+```
+
+### Histogram Plot
 
 ``` python
 from numpy import random
@@ -207,5 +229,45 @@ plt.ylabel('No. of people')
 plt.title('A Poisson Distribution')
   
 # function to show the plot
+plt.show()
+```
+
+### Normal Inverse Gaussian continuous random variable Distribution
+
+``` python
+from scipy.stats import norminvgauss
+
+a, b = 1.25, 0.5
+r = norminvgauss.rvs(a, b, size=10)
+print(r)
+```
+
+### Line Plot
+
+``` python
+import numpy as np
+from scipy.stats import norminvgauss
+import matplotlib.pyplot as plt
+fig, ax = plt.subplots(1, 1)
+
+a, b = 1.25, 0.5
+mean, var, skew, kurt = norminvgauss.stats(a, b, moments='mvsk')
+
+x = np.linspace(norminvgauss.ppf(0.01, a, b),
+                norminvgauss.ppf(0.99, a, b), 100)
+ax.plot(x, norminvgauss.pdf(x, a, b),
+       'r-', lw=5, alpha=0.6, label='norminvgauss pdf')
+
+rv = norminvgauss(a, b)
+ax.plot(x, rv.pdf(x), 'k-', lw=2, label='frozen pdf')
+
+vals = norminvgauss.ppf([0.001, 0.5, 0.999], a, b)
+np.allclose([0.001, 0.5, 0.999], norminvgauss.cdf(vals, a, b))
+
+r = norminvgauss.rvs(a, b, size=1000)
+
+ax.hist(r, density=True, bins='auto', histtype='stepfilled', alpha=0.2)
+ax.set_xlim([x[0], x[-1]])
+ax.legend(loc='best', frameon=False)
 plt.show()
 ```
