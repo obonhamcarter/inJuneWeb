@@ -56,6 +56,7 @@ from numpy import random
 import statistics
 from scipy.stats import norm
 import numpy as np
+
 # Calculating mean and standard deviation
 x_axis = np.arange(-20, 20, 0.01)
 mean = statistics.mean(x_axis)
@@ -72,6 +73,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
+
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-20, 20, 0.01)
 # Calculating mean and standard deviation
@@ -93,6 +95,7 @@ plt.show()
 ``` python
 import numpy
 import matplotlib.pyplot as plt
+
 x = numpy.random.normal(5.0, 1.0, 100000)
 plt.hist(x, 100)
 plt.show()
@@ -106,6 +109,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
 from numpy import random
+
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
 ages = random.normal(size=(2000,1))
@@ -125,6 +129,7 @@ plt.show()
 ``` python
 import matplotlib.pyplot as plt
 import numpy as np
+
 # An "interface" to matplotlib.axes.Axes.hist() method
 d = np.random.laplace(loc=15, scale=3, size=500)
 n, bins, patches = plt.hist(x=d,
@@ -151,6 +156,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
 from numpy import random
+
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
 ages = random.normal(size=(2000,1))
@@ -168,6 +174,7 @@ plt.show()
 
 ``` python
 from numpy import random
+
 x = random.binomial(n=10, p=0.5, size=10)
 print(x)
 ```
@@ -177,6 +184,7 @@ print(x)
 ``` python
 from numpy import random
 import matplotlib.pyplot as plt
+
 # frequencies
 ages = list(random.binomial(n=10, p=0.5, size=1000))
 # print(f" {ages}, {type(ages)}")  
@@ -204,6 +212,7 @@ plt.show()
 
 ``` python
 from numpy import random
+
 x = random.poisson(lam=2, size=10)
 print(x)
 ```
@@ -244,6 +253,7 @@ plt.show()
 ``` python
 import numpy
 import matplotlib.pyplot as plt
+
 x = numpy.random.uniform(0.0, 5.0, 250)
 plt.hist(x, 5)
 plt.show()
@@ -254,6 +264,7 @@ plt.show()
 ``` python
 import numpy
 import matplotlib.pyplot as plt
+
 x = numpy.random.uniform(0.0, 5.0, 100000)
 plt.hist(x, 100)
 plt.show()
@@ -263,7 +274,8 @@ plt.show()
 
 ``` python
 import numpy as np 
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
+
 values = np.random.uniform(0.01, 0.99, 1000) 
 count, bins, ignored = plt.hist(values, 20, density=True)
 plt.plot(bins, np.ones_like(bins),color='r')
@@ -284,6 +296,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
 from numpy import random
+
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
 ages = random.uniform(size=(2000,1))
@@ -303,6 +316,7 @@ plt.show()
 
 ``` python
 from scipy.stats import norminvgauss
+
 a, b = 1.25, 0.5
 r = norminvgauss.rvs(a, b, size=10)
 print(r)
@@ -357,7 +371,8 @@ print(x)
 ### Histogram plot :: Logistic
 
 ``` python
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
+
 values = random.logistic(loc=1, scale=.5, size=(200, 1))
 count, bins, ignored = plt.hist(values, 20, density=True)
 plt.plot(bins, np.ones_like(bins),color='r')
@@ -375,6 +390,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 import statistics
+
 # Plot between -10 and 10 with .001 steps.
 x_axis = np.arange(-10, 10, 0.01)
 ages = random.logistic(loc=1, scale=.5, size=(2000, 1))
@@ -397,6 +413,7 @@ Plots can also look different from these too!
 ``` python
 from matplotlib import pyplot as plt
 import numpy as np
+
 # Generate 100 random data points along 3 dimensions
 x, y, scale = np.random.randn(3, 100)
 # x = [1,2,3,4,5,6]
@@ -414,6 +431,7 @@ plt.show()
 ``` python
 import matplotlib.pyplot as plt
 import numpy as np
+
 a = np.random.random((16, 16))
 plt.imshow(a, cmap='hot', interpolation='nearest')
 plt.show()
