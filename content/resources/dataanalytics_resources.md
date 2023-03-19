@@ -81,10 +81,9 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Luman's ssh keys video tutorial](https://www.youtube.com/watch?v=qEPjUGQFmzQ&list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
     - [Machine Learning in R for beginners](https://www.datacamp.com/tutorial/machine-learning-in-r)
 
+* Providers of Data for projects
 
-
-* Free Data for projects
-
+  + [Project Tycho](https://www.tycho.pitt.edu/)
   + [Pelletier Library at Allegheny College (online services)](https://allegheny.libguides.com/az.php)
   + [World Health Organization](http://www.who.int/)
   + [The World Bank](https://www.worldbank.org/)

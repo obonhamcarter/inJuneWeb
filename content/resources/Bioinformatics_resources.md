@@ -49,6 +49,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Luman's ssh keys video tutorial](https://www.youtube.com/watch?v=qEPjUGQFmzQ&list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
 
 * Tools
+
   + [Virus Explorer](https://www.biointeractive.org/classroom-resources/virus-explorer)
   + TCoffee: [http://tcoffee.crg.cat/apps/tcoffee/tutorial.html](http://tcoffee.crg.cat/apps/tcoffee/tutorial.html)
   + Hidden Markov Models (Youtube): [https://www.youtube.com/watch?v=TPRoLreU9lA](https://www.youtube.com/watch?v=TPRoLreU9lA)
@@ -93,7 +94,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
   + Augustus [gene prediction] -- a software to predict genes in eukaryotic genomic sequences: [http://bioinf.uni-greifswald.de/augustus/](http://bioinf.uni-greifswald.de/augustus/)
 
 ## Research Organizations
-
+* Project Tycho: [https://www.tycho.pitt.edu/](https://www.tycho.pitt.edu/)
 * Cataracts and Genetics: https://knowyourdna.com/cataracts-and-genetics/
 * National Human Genome Research Institute: https://www.genome.gov/
 * Max Planck Institute For Molecular Genetics: https://www.molgen.mpg.de/2168/en

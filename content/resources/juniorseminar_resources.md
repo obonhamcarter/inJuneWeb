@@ -28,8 +28,9 @@ Welcome to a resources page for Junior Seminar research. Here you will find a li
 * Articles
     - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
-* Data
+* Providers of Data for projects
 
+  + [Project Tycho](https://www.tycho.pitt.edu/)
   + [Pelletier Library at Allegheny College (online services)](https://allegheny.libguides.com/az.php)
   + [World Health Organization](http://www.who.int/)
   + [The World Bank](https://www.worldbank.org/)
@@ -49,4 +50,4 @@ Welcome to a resources page for Junior Seminar research. Here you will find a li
   + [ipums](https://www.ipums.org/)
   + [Kaggle's Star Trek Scripts (Could be a cool idea!)](https://www.kaggle.com/gjbroughton/start-trek-scripts)
   + [Project Gutenberg: Free eBooks](https://www.gutenberg.org/)
-  + [And many more that you may conveniently find using online searches. Please remember to cite your data in your report; giving the name and its web address.
+  + [And many more that you may conveniently find using online searches. Please remember to cite your data in your work; giving the name, the source and its web address.
