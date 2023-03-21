@@ -50,6 +50,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
 
 * Tools
 
+  + [COVID-19 Forecasts](https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html)
   + [Virus Explorer](https://www.biointeractive.org/classroom-resources/virus-explorer)
   + TCoffee: [http://tcoffee.crg.cat/apps/tcoffee/tutorial.html](http://tcoffee.crg.cat/apps/tcoffee/tutorial.html)
   + Hidden Markov Models (Youtube): [https://www.youtube.com/watch?v=TPRoLreU9lA](https://www.youtube.com/watch?v=TPRoLreU9lA)
