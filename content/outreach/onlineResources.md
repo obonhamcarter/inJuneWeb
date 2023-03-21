@@ -31,8 +31,9 @@ Welcome! Here, you will find a list of interactive Data Analytics resources. Com
   + [NYPL’s Public Domain Library](http://publicdomain.nypl.org/pd-visualization/)
 
 * __Mixed ideas__
+  + [An interactive visualization of the exponential spread of COVID-19](https://91-divoc.com/pages/covid-visualization/)
   + [Languages of the world](http://www.puffpuffproject.com/languages.html)
-  + [Streamgraph of Immigration to the US](https://insightfulinteraction.com/immigration200years.html)
+  + [Stream graph of Immigration to the US](https://insightfulinteraction.com/immigration200years.html)
   + [Pinellas County’s Public School Inequalities for Black Pupils](https://projects.tampabay.com/projects/2015/investigations/pinellas-failure-factories/chart-failing-black-students/)
   + [The Evolution of Trust](https://ncase.me/trust/)
   + [Gender Pay Gap US and UK](https://informationisbeautiful.net/visualizations/gender-pay-gap/)
