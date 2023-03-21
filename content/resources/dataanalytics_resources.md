@@ -82,7 +82,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Machine Learning in R for beginners](https://www.datacamp.com/tutorial/machine-learning-in-r)
 
 * Providers of Data for projects
-
+  + [An interactive visualization of the exponential spread of COVID-19](https://91-divoc.com/pages/covid-visualization/)
   + [Project Tycho](https://www.tycho.pitt.edu/)
   + [Pelletier Library at Allegheny College (online services)](https://allegheny.libguides.com/az.php)
   + [World Health Organization](http://www.who.int/)
