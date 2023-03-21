@@ -15,6 +15,12 @@ Welcome to a resources page for Junior Seminar research. Here you will find a li
     + [Git for Windows](https://windows.github.com/)
     + [Git for all platforms](https://git-scm.com/)
 
+* Online Tools
+    + [sentiment viz Tweet Sentiment Visualization](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/)
+    + [Online R programming](https://www.jdoodle.com/execute-r-online/)
+    + [Snippets -- Run any R code you line online](https://rdrr.io/snippets/)
+    + [JDoodle](https://www.jdoodle.com/execute-r-online/)
+
 * Tutorials
     + [Allegheny College Department of Computer Science tutorials](https://www.youtube.com/playlist?list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD)
     + [Coding Train's Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
@@ -29,6 +35,7 @@ Welcome to a resources page for Junior Seminar research. Here you will find a li
     + [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 
 * Providers of Data for projects
+    - [sentiment viz Tweet Sentiment Visualization](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/)
     + [Finviz](https://finviz.com/)
     + [COVID-19 Forecasts](https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html)
     + [An interactive visualization of the exponential spread of COVID-19](https://91-divoc.com/pages/covid-visualization/)

@@ -47,7 +47,7 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
     - [Git for all platforms](https://git-scm.com/)
 
   + Online Tools
-
+    - [sentiment viz Tweet Sentiment Visualization](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/)
     - [Online R programming](https://www.jdoodle.com/execute-r-online/)
     - [Snippets -- Run any R code you line online](https://rdrr.io/snippets/)
     - [JDoodle](https://www.jdoodle.com/execute-r-online/)
