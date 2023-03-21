@@ -93,7 +93,8 @@ Welcome to a resources page for Bioinformatics research. Here you will find a li
   + DrugBank -- a pharmaceutical knowledge base that is enabling major advances across the data-driven medicine industry: [https://go.drugbank.com/](https://go.drugbank.com/)
   + Augustus [gene prediction] -- a software to predict genes in eukaryotic genomic sequences: [http://bioinf.uni-greifswald.de/augustus/](http://bioinf.uni-greifswald.de/augustus/)
 
-## Research Organizations
+## Research and Data Resources
+* An interactive visualization of the exponential spread of COVID-19: [https://91-divoc.com/pages/covid-visualization/](https://91-divoc.com/pages/covid-visualization/)
 * Project Tycho: [https://www.tycho.pitt.edu/](https://www.tycho.pitt.edu/)
 * Cataracts and Genetics: https://knowyourdna.com/cataracts-and-genetics/
 * National Human Genome Research Institute: https://www.genome.gov/
