@@ -1,7 +1,7 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "I, Oliver Bonham-Carter, In June"
-theme = "personal-web"
+theme = "personal-web_files"
 copyright="© Oliver Bonham-Carter"
 # old googleAnalytics = "G-10QTYVYMG5" #GA4
 googleAnalytics = "G-61W97M1YME"
