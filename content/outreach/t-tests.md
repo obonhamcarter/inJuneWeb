@@ -100,7 +100,6 @@ In this example, we first generate two sets of sample data using NumPy's random.
 
 Note that the t-test_ind function assumes that the two groups have equal variances. If this is not the case, you may need to use a different t-test function or perform some additional steps to correct for unequal variances.
 
-Read more about it at [thedatascientist](https://thedatascientist.com/how-to-do-a-t-test-in-python/)!
 
 ``` python
 import numpy as np
@@ -212,3 +211,11 @@ print("T-Statistic:", t_statistic)
 print("P-Value:", p_value)
 ```
 Read the p-value to see what to do!
+
+### Conclusions
+
+By using the _p_-value after running a t-test, we can determine which hypothesis to accept with some confidence. If you are interested in these tests, then you are invited to read about _one_ and _two_ tailed tests and other exciting aspects of t-tests at the below links.
+
+* [thedatascientist](https://thedatascientist.com/how-to-do-a-t-test-in-python/)!
+
+* [ScriAn Introduction to t Tests | Definitions, Formula and Examplesbbr](https://www.scribbr.com/statistics/t-test/#:~:text=A%20t%20test%20is%20a,are%20different%20from%20one%20another.)
