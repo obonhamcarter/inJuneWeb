@@ -315,3 +315,39 @@ print("T-Statistic:", t_statistic)
 print("P-Value:", p_value)
 ```
 Read the p-value to see what to do!
+
+---
+
+### SunSpots!
+
+
+<center>
+&#x200B;
+<img src="/images/outreach/coolPlots/sunSpots.png" alt="sunspots" style="width:400px;"/>
+</center>
+
+[MiniTutorial](https://notebook.community/stencila/stencila/demos/examples/ipynb/sunspots)
+
+``` python
+# https://notebook.community/stencila/stencila/demos/examples/ipynb/sunspots
+import statsmodels.api as sm
+import pandas as pd
+import matplotlib.pyplot as plt
+
+data_loader = sm.datasets.sunspots.load_pandas()
+df = data_loader.data
+
+df
+df.head()
+df.tail()
+fractional_nums = df['SUNACTIVITY'].apply(lambda x: x % 1) #Take the modulo of each value with 1 to get the fractional part
+fractional_nums[fractional_nums > 0].head()
+print(df['SUNACTIVITY'].describe())
+#pd.tools.plotting.autocorrelation_plot(df['SUNACTIVITY'])
+
+myX = list(df["YEAR"])
+myY = list(df["SUNACTIVITY"])
+
+plt.plot(myX, myY)
+plt.show()
+```
