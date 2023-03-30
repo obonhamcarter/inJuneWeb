@@ -8,13 +8,14 @@ draft: false
 
 How would you determine the difference between the averages following two datasets? We show a scatter plot and a histogram plot for each group (i.e., 1 and 2). Are these plots enough to determine a likeness between the plots? 
 
-
 <center>
 &#x200B;
 <img src="/images/outreach/coolPlots/groupDif.png" alt="logo" style="width:400px;"/>
 </center>
 
-### The data
+### The Data
+
+How could you differentiate the two data sets shown below? Could we simply average all numbers together and then use that value for a comparison? Yes, we could. The average would tell us that the two sets are not composed of the same values but this singular value does not inform about the larger distribution qualities. For instance, can we study these numbers to ascertain a statistical difference between one set and the other?
 
 #### Group 1 Data
 ``` python
@@ -35,7 +36,6 @@ array([4.82311059, 5.64152115,
 5.88717038, 3.62097149, 3.02204612,
 4.92681691, 4.31055542, 4.51201151,
 4.2912872 , 4.63346511, 5.42599103])
-
 ```
 
 #### Group 2 Data
@@ -58,7 +58,6 @@ array([ 9.34838992,  7.59303945,
 8.48691697, 7.91207794, 8.72347449,
 7.99540331, 8.51854714, 8.97678889,
 7.7033359, 7.72142998, 9.0834914 ])
-
 ```
 
 ### What do the plots look like?
