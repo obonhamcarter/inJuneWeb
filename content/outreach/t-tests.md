@@ -17,7 +17,7 @@ How would you determine the difference between the averages following two datase
 
 How could you differentiate the two data sets shown below? Could we simply average all numbers together and then use that value for a comparison? Yes, we could. The average would tell us that the two sets are not composed of the same values but this singular value does not inform about the larger distribution qualities. For instance, can we study these numbers to ascertain a statistical difference between one set and the other?
 
-#### Group 1 Data
+#### Group 1 dataset
 ``` python
 array([4.82311059, 5.64152115,
 4.94118341, 4.51888519, 4.69452953,
@@ -38,7 +38,7 @@ array([4.82311059, 5.64152115,
 4.2912872 , 4.63346511, 5.42599103])
 ```
 
-#### Group 2 Data
+#### Group 2 dataset
 
 ``` python
 array([ 9.34838992,  7.59303945,
@@ -190,10 +190,10 @@ myY =  getMyYAxis(group2)
 plt.scatter(x = myX, y = myY)
 plt.show()
 
-
 plt.title('Group 1')
 plt.hist(group1)
 plt.show()
+
 plt.title('Group 2')
 plt.hist(group2)
 plt.show()
@@ -213,7 +213,7 @@ Read the p-value to see what to do!
 
 ### Conclusions
 
-By using the _p_-value after running a t-test, we can determine which hypothesis to accept with some confidence. If you are interested in these tests, then you are invited to read about _one_ and _two_ tailed tests and other exciting aspects of t-tests at the below links.
+By using the _p_-value after running a t-test, we can determine which hypothesis to accept with some confidence. If you are interested in learning more about t-tests (the _one_ and _two_ tailed tests, for instance), then please check out the below links!
 
 * [thedatascientist](https://thedatascientist.com/how-to-do-a-t-test-in-python/)!
 
