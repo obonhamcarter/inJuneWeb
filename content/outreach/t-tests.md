@@ -4,6 +4,7 @@ date: 2023-03-30T09:25:25-04:00
 draft: false
 ---
 
+
 ### Determining the difference between the means of two data sets.
 
 How would you determine the difference between the averages following two datasets? We show a scatter plot and a histogram plot for each group (i.e., 1 and 2). Are these plots enough to determine a likeness between the plots? 
